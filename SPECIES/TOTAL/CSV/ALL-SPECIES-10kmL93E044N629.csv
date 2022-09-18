@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,25,4
-Aigle botté,2021,2,3
+Aigle botté,2021,2,4
 Aigrette garzette,2022,34,2
 Alouette des champs,2022,36,4
 Alouette lulu,2022,3,4
@@ -17,11 +17,11 @@ Bouscarle de Cetti,2022,41,3
 Bruant des roseaux,2022,24,2
 Bruant jaune,2011,0,2
 Bruant proyer,2022,13,0
-Bruant zizi,2022,35,7
+Bruant zizi,2022,35,8
 Busard des roseaux,2022,4,0
-Busard Saint-Martin,2022,6,3
-Buse variable,2022,87,14
-Caille des blés,2022,6,4
+Busard Saint-Martin,2022,6,4
+Buse variable,2022,87,15
+Caille des blés,2022,6,5
 Canard colvert,2022,39,5
 Canard souchet,2022,1,0
 Chardonneret élégant,2022,73,6
@@ -30,9 +30,9 @@ Chevalier culblanc,2022,15,0
 Chevalier gambette,2022,1,0
 Chevalier guignette,2022,10,3
 Chouette hulotte,2022,7,4
-Cigogne blanche,2022,36,4
+Cigogne blanche,2022,38,4
 Cigogne noire,2021,4,0
-Cisticole des joncs,2022,49,7
+Cisticole des joncs,2022,49,9
 Cochevis huppé,2022,46,0
 Combattant varié,2022,2,0
 Corneille noire,2022,178,24
@@ -45,7 +45,7 @@ Effraie des clochers,2022,6,9
 Épervier d'Europe,2022,14,7
 Étourneau sansonnet,2022,137,14
 Faisan de Colchide,2022,13,1
-Faucon crécerelle,2022,26,11
+Faucon crécerelle,2022,26,12
 Faucon émerillon,2022,3,0
 Faucon hobereau,2022,2,1
 Faucon pèlerin,2022,11,0
@@ -69,10 +69,10 @@ Grive litorne,2022,2,0
 Grive mauvis,2022,3,2
 Grive musicienne,2022,34,4
 Grosbec casse-noyaux,2022,6,2
-Héron cendré,2022,89,13
-Héron garde-boeufs,2022,54,11
-Héron pourpré,2022,2,0
-Hirondelle de fenêtre,2022,8,4
+Héron cendré,2022,89,14
+Héron garde-boeufs,2022,55,11
+Héron pourpré,2022,3,0
+Hirondelle de fenêtre,2022,9,4
 Hirondelle de rivage,2022,27,1
 Hirondelle rustique,2022,64,5
 Huppe fasciée,2018,0,1
@@ -91,9 +91,9 @@ Mésange huppée,2012,0,3
 Mésange noire,2015,0,1
 Mésange nonnette,2022,25,6
 Milan noir,2022,100,3
-Milan royal,2022,113,22
+Milan royal,2022,113,23
 Moineau domestique,2022,82,9
-Moineau friquet,2022,63,3
+Moineau friquet,2022,63,4
 Mouette rieuse,2021,2,0
 Oie cendrée,2022,2,0
 Perdrix rouge,2018,0,1
@@ -120,7 +120,7 @@ Pouillot véloce,2022,40,13
 Râle d'eau,2022,1,0
 Roitelet à triple bandeau,2022,8,6
 Roitelet huppé,2015,0,1
-Rossignol philomèle,2022,13,3
+Rossignol philomèle,2022,13,4
 Rougegorge familier,2022,98,17
 Rougequeue noir,2022,51,6
 Sarcelle d'hiver,2022,6,0

@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2020,2,0
 Accenteur mouchet,2022,21,20
-Aigle botté,2022,15,24
+Aigle botté,2022,16,24
 Aigle ibérique,2015,0,1
 Aigle royal,2022,93,46
 Alouette des champs,2022,73,31
@@ -12,7 +12,7 @@ Bécassine des marais,2016,0,2
 Bec-croisé des sapins,2021,9,6
 Bergeronnette des ruisseaux,2021,3,6
 Bergeronnette flavéole (M.f.flavissima),2015,0,2
-Bergeronnette grise,2022,13,14
+Bergeronnette grise,2022,14,14
 Bergeronnette printanière,2021,2,8
 Bihoreau gris,2022,1,0
 Bondrée apivore,2022,20,40
@@ -23,7 +23,7 @@ Bruant fou,2022,3,13
 Bruant jaune,2020,3,5
 Bruant ortolan,2019,2,2
 Bruant proyer,2022,75,18
-Bruant zizi,2022,82,30
+Bruant zizi,2022,84,30
 Busard cendré,2022,5,6
 Busard des roseaux,2021,4,6
 Busard Saint-Martin,2020,4,8
@@ -49,7 +49,7 @@ Crave à bec rouge,2020,2,6
 Effraie des clochers,2015,0,3
 Élanion blanc,2021,1,0
 Engoulevent d'Europe,2022,8,11
-Épervier d'Europe,2021,28,48
+Épervier d'Europe,2022,29,48
 Étourneau sansonnet,2022,9,16
 Étourneau unicolore,2016,0,2
 Faisan de Colchide,2020,1,4
@@ -61,39 +61,39 @@ Faucon émerillon,2020,1,1
 Faucon hobereau,2021,7,5
 Faucon kobez,2021,3,0
 Faucon pèlerin,2021,17,19
-Fauvette à tête noire,2022,114,24
+Fauvette à tête noire,2022,115,24
 Fauvette des jardins,2018,0,1
 Fauvette grisette,2022,16,8
-Fauvette mélanocéphale,2022,123,44
+Fauvette mélanocéphale,2022,125,44
 Fauvette orphée,2022,28,10
-Fauvette passerinette,2022,70,40
+Fauvette passerinette,2022,71,40
 Fauvette pitchou,2022,10,18
 Foulque macroule,2020,1,0
-Geai des chênes,2022,47,22
+Geai des chênes,2022,51,22
 Gobemouche gris,2022,11,7
-Gobemouche noir,2022,15,19
+Gobemouche noir,2022,16,19
 Goéland brun,2018,0,3
 Goéland leucophée,2018,0,2
 Gorgebleue à miroir,2015,0,1
-Grand Corbeau,2022,114,143
+Grand Corbeau,2022,118,143
 Grand Cormoran,2019,1,2
 Grand-duc d'Europe,2022,11,12
 Grimpereau des jardins,2022,20,16
-Grive draine,2022,26,35
+Grive draine,2022,27,35
 Grive litorne,2019,2,14
 Grive mauvis,2021,5,12
 Grive musicienne,2022,38,26
 Grosbec casse-noyaux,2022,16,36
-Guêpier d'Europe,2022,21,14
+Guêpier d'Europe,2022,22,14
 Héron cendré,2022,3,1
 Héron garde-boeufs,2021,6,0
 Hibou des marais,2015,0,1
 Hibou moyen-duc,2022,6,13
-Hirondelle de fenêtre,2022,15,18
+Hirondelle de fenêtre,2022,20,18
 Hirondelle de rivage,2022,3,2
 Hirondelle de rochers,2022,6,5
 Hirondelle rousseline,2020,2,1
-Hirondelle rustique,2022,17,18
+Hirondelle rustique,2022,19,18
 Huppe fasciée,2022,10,15
 Hypolaïs polyglotte,2022,48,11
 Linotte mélodieuse,2022,39,20
@@ -103,7 +103,7 @@ Martinet à ventre blanc,2021,7,12
 Martinet noir,2022,38,12
 Martin-pêcheur d'Europe,2018,0,4
 Merle à plastron,2020,3,7
-Merle noir,2022,153,73
+Merle noir,2022,154,73
 Mésange à longue queue,2022,15,11
 Mésange bleue,2022,33,25
 Mésange charbonnière,2022,54,31
@@ -112,12 +112,12 @@ Mésange noire,2022,11,13
 Mésange nonnette,2019,1,1
 Milan noir,2021,19,23
 Milan royal,2022,59,35
-Moineau domestique,2022,15,11
+Moineau domestique,2022,16,11
 Moineau soulcie,2020,5,1
 Monticole bleu,2018,0,2
 Monticole de roche,2014,0,1
 Perdrix grise,2018,0,1
-Perdrix rouge,2022,19,27
+Perdrix rouge,2022,20,27
 Petit-duc scops,2022,6,8
 Pic de Sharpe,2022,7,9
 Pic épeiche,2022,39,15
@@ -148,24 +148,24 @@ Rollier d'Europe,2022,11,6
 Rossignol philomèle,2022,171,25
 Rougegorge familier,2022,74,48
 Rougequeue à front blanc,2022,11,27
-Rougequeue noir,2022,16,19
+Rougequeue noir,2022,17,19
 Rousserolle effarvatte,2016,0,1
 Serin cini,2022,45,15
 Sittelle torchepot,2022,12,15
 Sizerin cabaret,2017,0,1
 Sizerin flammé,2017,0,1
 Tarier des prés,2022,4,6
-Tarier pâtre,2022,49,20
+Tarier pâtre,2022,50,20
 Tarin des aulnes,2022,10,10
 Tichodrome échelette,2020,1,0
 Torcol fourmilier,2022,28,16
 Tourterelle des bois,2022,7,5
 Tourterelle turque,2022,11,5
-Traquet motteux,2021,11,13
+Traquet motteux,2022,15,13
 Traquet oreillard,2019,1,0
 Troglodyte mignon,2022,43,26
 Vanneau huppé,2019,1,1
-Vautour fauve,2022,236,207
+Vautour fauve,2022,237,207
 Vautour moine,2022,12,12
 Venturon montagnard,2021,2,4
 Verdier d'Europe,2022,17,7
