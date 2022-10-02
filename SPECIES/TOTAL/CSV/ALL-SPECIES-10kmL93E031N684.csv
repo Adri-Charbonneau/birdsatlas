@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,136,66
-Aigrette garzette,2022,298,200
-Alouette des champs,2022,128,67
+Aigrette garzette,2022,300,200
+Alouette des champs,2022,129,67
 Alouette lulu,2017,0,1
 Autour des palombes,2012,0,1
 Avocette élégante,2022,9,0
@@ -11,35 +11,35 @@ Bécasseau maubèche,2021,7,11
 Bécasseau minute,2021,2,0
 Bécasseau sanderling,2022,30,44
 Bécasseau variable,2022,82,79
-Bécassine des marais,2022,18,25
+Bécassine des marais,2022,19,25
 Bécassine sourde,2020,1,0
 Bec-croisé des sapins,2020,1,0
 Bergeronnette des ruisseaux,2022,9,7
 Bergeronnette flavéole (M.f.flavissima),2022,4,4
 Bergeronnette grise,2022,67,26
 Bergeronnette printanière,2022,13,9
-Bernache cravant,2022,309,343
+Bernache cravant,2022,311,343
 Bernache du Canada,2017,0,3
 Bernache nonnette,2017,0,41
 Bondrée apivore,2020,1,0
 Bouscarle de Cetti,2022,105,53
 Bouvreuil pivoine,2022,31,13
 Bruant des neiges,2021,20,0
-Bruant des roseaux,2022,38,43
+Bruant des roseaux,2022,39,43
 Bruant jaune,2022,6,7
 Bruant lapon,2019,1,1
 Bruant proyer,2019,4,6
 Bruant zizi,2022,81,72
 Busard des roseaux,2022,8,6
 Busard Saint-Martin,2020,9,4
-Buse variable,2022,78,47
+Buse variable,2022,79,47
 Caille des blés,2021,1,1
 Canard chipeau,2021,1,0
-Canard colvert,2022,105,31
+Canard colvert,2022,107,31
 Canard pilet,2021,3,2
 Canard siffleur,2022,4,2
 Canard souchet,2022,2,1
-Chardonneret élégant,2022,113,46
+Chardonneret élégant,2022,114,46
 Chevalier aboyeur,2022,24,11
 Chevalier arlequin,2019,1,2
 Chevalier culblanc,2022,16,25
@@ -57,7 +57,7 @@ Corbeau freux,2015,0,1
 Cormoran huppé,2022,68,28
 Corneille noire,2022,221,75
 Coucou gris,2022,17,24
-Courlis cendré,2022,218,155
+Courlis cendré,2022,221,155
 Courlis corlieu,2022,45,34
 Crave à bec rouge,2019,1,0
 Cygne tuberculé,2021,1,0
@@ -92,7 +92,7 @@ Goéland leucophée,2014,0,1
 Goéland marin,2022,119,72
 Gorgebleue à miroir,2022,1,2
 Grand Corbeau,2022,1,0
-Grand Cormoran,2022,114,69
+Grand Cormoran,2022,117,69
 Grande Aigrette,2021,9,6
 Grand Gravelot,2022,43,52
 Grand Labbe,2018,0,1
@@ -100,7 +100,7 @@ Gravelot à collier interrompu,2021,2,2
 Grèbe à cou noir,2022,32,38
 Grèbe castagneux,2020,1,10
 Grèbe esclavon,2022,8,14
-Grèbe huppé,2022,123,103
+Grèbe huppé,2022,124,103
 Grimpereau des jardins,2022,8,4
 Grive draine,2022,15,12
 Grive litorne,2022,4,4
@@ -117,8 +117,8 @@ Héron garde-boeufs,2022,10,4
 Hibou des marais,2021,41,88
 Hibou moyen-duc,2020,10,6
 Hirondelle de fenêtre,2022,48,23
-Hirondelle de rivage,2022,59,20
-Hirondelle rustique,2022,83,50
+Hirondelle de rivage,2022,60,20
+Hirondelle rustique,2022,85,50
 Huîtrier pie,2022,258,165
 Hypolaïs polyglotte,2022,33,26
 Ibis falcinelle,2020,1,0
@@ -129,7 +129,7 @@ Macareux moine,2021,2,0
 Macreuse brune,2022,8,1
 Macreuse noire,2022,21,27
 Martinet noir,2022,45,18
-Martin-pêcheur d'Europe,2022,12,20
+Martin-pêcheur d'Europe,2022,13,20
 Merle noir,2022,294,75
 Mésange à longue queue,2022,21,13
 Mésange bleue,2022,122,53
@@ -139,7 +139,7 @@ Mésange noire,2021,1,1
 Mésange nonnette,2021,1,5
 Milan noir,2017,0,1
 Milan royal,2022,1,0
-Moineau domestique,2022,100,31
+Moineau domestique,2022,103,31
 Mouette mélanocéphale,2022,54,28
 Mouette pygmée,2021,3,4
 Mouette rieuse,2022,235,117
@@ -165,7 +165,7 @@ Pigeon ramier,2022,245,56
 Pingouin torda,2022,23,15
 Pinson des arbres,2022,185,83
 Pinson du Nord,2022,15,10
-Pipit farlouse,2022,84,41
+Pipit farlouse,2022,85,41
 Pipit maritime,2022,63,29
 Pipit spioncelle,2019,0,1
 Plongeon arctique,2021,1,0
@@ -198,15 +198,15 @@ Sterne de Dougall,2022,133,45
 Sterne naine,2022,16,2
 Sterne pierregarin,2022,168,48
 Tadorne casarca,2021,3,0
-Tadorne de Belon,2022,223,144
+Tadorne de Belon,2022,225,144
 Tarier des prés,2022,5,5
-Tarier pâtre,2022,114,94
+Tarier pâtre,2022,115,94
 Tarin des aulnes,2022,11,4
 Torcol fourmilier,2022,4,3
 Tournepierre à collier,2022,45,33
 Tourterelle des bois,2022,37,28
 Tourterelle turque,2022,54,28
-Traquet motteux,2022,32,19
+Traquet motteux,2022,33,19
 Troglodyte mignon,2022,148,57
 Vanneau huppé,2022,15,24
-Verdier d'Europe,2022,75,31
+Verdier d'Europe,2022,76,31
