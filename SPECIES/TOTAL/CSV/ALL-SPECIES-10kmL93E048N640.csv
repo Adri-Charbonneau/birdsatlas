@@ -1,12 +1,13 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2019,0,14
-Aigrette garzette,2022,3,0
+Aigrette garzette,2022,5,0
 Alouette des champs,2016,0,22
 Alouette lulu,2022,3,25
 Bécasseau cocorli,2022,2,1
-Bécasseau minute,2022,4,0
-Bécasseau variable,2022,5,1
-Bergeronnette des ruisseaux,2017,0,3
+Bécasseau minute,2022,6,0
+Bécasseau variable,2022,7,1
+Bécassine des marais,2022,2,0
+Bergeronnette des ruisseaux,2022,1,3
 Bergeronnette grise,2022,3,24
 Bergeronnette printanière,2014,0,3
 Bondrée apivore,2014,0,4
@@ -22,18 +23,19 @@ Canard colvert,2022,3,17
 Canard pilet,2022,1,0
 Canard souchet,2012,0,2
 Chardonneret élégant,2022,5,48
+Chevalier aboyeur,2022,1,0
 Chevalier culblanc,2012,0,1
-Chevalier guignette,2022,6,1
+Chevalier guignette,2022,8,1
 Chevêche d'Athéna,2022,4,37
 Choucas des tours,2019,2,18
 Chouette hulotte,2019,1,18
 Cigogne blanche,2018,0,3
 Circaète Jean-le-Blanc,2019,1,2
 Cisticole des joncs,2021,1,7
-Combattant varié,2022,2,0
+Combattant varié,2022,3,0
 Corbeau freux,2019,1,0
 Corneille mantelée,2014,0,1
-Corneille noire,2022,3,54
+Corneille noire,2022,4,54
 Coucou gris,2016,0,8
 Effraie des clochers,2018,0,11
 Élanion blanc,2022,17,7
@@ -53,7 +55,7 @@ Gobemouche gris,2017,0,3
 Gobemouche noir,2017,0,6
 Goéland leucophée,2011,0,3
 Grand Cormoran,2022,6,15
-Grand Gravelot,2022,6,0
+Grand Gravelot,2022,9,0
 Grèbe castagneux,2014,0,1
 Grèbe huppé,2022,5,6
 Grimpereau des jardins,2022,3,18
@@ -63,8 +65,8 @@ Grive mauvis,2017,0,4
 Grive musicienne,2020,1,20
 Grosbec casse-noyaux,2022,3,7
 Guifette noire,2022,2,0
-Héron cendré,2022,4,30
-Héron garde-boeufs,2022,5,9
+Héron cendré,2022,6,30
+Héron garde-boeufs,2022,6,9
 Hibou des marais,2018,0,2
 Hibou moyen-duc,2018,0,4
 Hirondelle de fenêtre,2022,2,6
@@ -74,7 +76,7 @@ Hypolaïs polyglotte,2022,2,13
 Linotte mélodieuse,2021,1,16
 Loriot d'Europe,2022,6,15
 Martinet noir,2022,2,8
-Martin-pêcheur d'Europe,2022,3,1
+Martin-pêcheur d'Europe,2022,4,1
 Merle à plastron,2015,0,3
 Merle noir,2022,9,47
 Mésange à longue queue,2019,3,24
@@ -99,7 +101,7 @@ Pic vert,2022,10,42
 Pie bavarde,2021,4,50
 Pie-grièche à tête rousse,2011,0,5
 Pie-grièche écorcheur,2016,0,7
-Pigeon biset domestique,2014,0,5
+Pigeon biset domestique,2022,1,5
 Pigeon colombin,2010,0,1
 Pigeon ramier,2022,9,39
 Pinson des arbres,2022,7,54
@@ -126,5 +128,5 @@ Tourterelle des bois,2022,3,16
 Tourterelle turque,2020,2,50
 Traquet motteux,2020,1,0
 Troglodyte mignon,2019,3,27
-Vanneau huppé,2022,2,11
+Vanneau huppé,2022,3,11
 Verdier d'Europe,2022,4,26
