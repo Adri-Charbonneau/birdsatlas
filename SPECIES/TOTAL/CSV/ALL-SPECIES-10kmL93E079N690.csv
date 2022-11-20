@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2015,0,15
-Alouette des champs,2022,25,109
+Alouette des champs,2022,27,109
 Alouette lulu,2017,0,8
 Bécasse des bois,2011,0,2
 Bergeronnette flavéole (M.f.flavissima),2022,1,0
@@ -15,7 +15,7 @@ Bruant zizi,2016,0,5
 Busard cendré,2022,15,14
 Busard des roseaux,2022,2,5
 Busard Saint-Martin,2022,10,29
-Buse variable,2022,27,81
+Buse variable,2022,31,81
 Caille des blés,2022,11,28
 Canard colvert,2017,0,1
 Chardonneret élégant,2017,0,9
@@ -24,15 +24,15 @@ Chouette hulotte,2011,0,4
 Cigogne blanche,2022,2,0
 Cigogne noire,2010,0,1
 Cochevis huppé,2015,0,1
-Corbeau freux,2021,6,33
-Corneille noire,2021,26,107
+Corbeau freux,2022,10,33
+Corneille noire,2022,28,107
 Coucou gris,2022,1,25
 Effraie des clochers,2022,2,1
 Engoulevent d'Europe,2022,1,4
 Épervier d'Europe,2019,2,1
-Étourneau sansonnet,2022,12,33
+Étourneau sansonnet,2022,20,33
 Faisan de Colchide,2022,16,68
-Faucon crécerelle,2022,38,92
+Faucon crécerelle,2022,48,92
 Faucon émerillon,2021,1,4
 Faucon hobereau,2013,0,7
 Fauvette à tête noire,2022,11,87
@@ -52,7 +52,7 @@ Grive litorne,2022,1,10
 Grive mauvis,2022,1,1
 Grive musicienne,2018,0,33
 Grosbec casse-noyaux,2011,0,4
-Héron cendré,2022,6,14
+Héron cendré,2022,8,14
 Hibou des marais,2021,1,1
 Hibou moyen-duc,2022,2,6
 Hirondelle de fenêtre,2021,1,11
@@ -81,7 +81,7 @@ Pic épeiche,2021,1,15
 Pic épeichette,2019,1,0
 Pic noir,2015,0,10
 Pic vert,2021,2,3
-Pie bavarde,2022,15,32
+Pie bavarde,2022,21,32
 Pie-grièche écorcheur,2021,3,14
 Pie-grièche grise,2011,0,1
 Pigeon colombin,2019,1,5
@@ -109,5 +109,5 @@ Tourterelle des bois,2022,6,25
 Tourterelle turque,2022,2,14
 Traquet motteux,2022,8,6
 Troglodyte mignon,2019,2,17
-Vanneau huppé,2022,19,31
+Vanneau huppé,2022,26,31
 Verdier d'Europe,2017,0,19
