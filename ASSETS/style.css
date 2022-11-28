@@ -84,6 +84,10 @@ body {
 	width: 100%;
 }
 
+.leaflet-container {
+	font-size: 0.8em;
+	}
+
 /* BUTTON */
 .button {
 	background-color: #e8eeeb;
