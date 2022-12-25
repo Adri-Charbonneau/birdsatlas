@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur alpin,2018,0,4
+Accenteur alpin,2022,1,4
 Accenteur mouchet,2022,41,54
 Aigle botté,2016,0,1
 Aigle royal,2022,26,23
@@ -45,7 +45,7 @@ Cisticole des joncs,2021,3,2
 Corneille mantelée,2018,0,2
 Corneille noire,2022,101,348
 Coucou gris,2022,30,55
-Crave à bec rouge,2021,1,0
+Crave à bec rouge,2022,2,0
 Effraie des clochers,2012,0,2
 Engoulevent d'Europe,2022,4,8
 Épervier d'Europe,2022,22,44
@@ -65,7 +65,7 @@ Fauvette passerinette,2022,17,35
 Fauvette pitchou,2021,3,3
 Foulque macroule,2021,14,62
 Gallinule poule-d'eau,2018,0,64
-Geai des chênes,2022,94,188
+Geai des chênes,2022,98,188
 Gobemouche gris,2021,3,0
 Gobemouche noir,2021,11,16
 Goéland leucophée,2022,2,19
@@ -74,8 +74,8 @@ Grand Cormoran,2022,14,51
 Grand-duc d'Europe,2019,1,4
 Grande Aigrette,2021,6,17
 Grèbe castagneux,2021,1,47
-Grimpereau des jardins,2022,50,151
-Grive draine,2022,14,51
+Grimpereau des jardins,2022,54,151
+Grive draine,2022,18,51
 Grive litorne,2019,1,11
 Grive mauvis,2017,0,4
 Grive musicienne,2022,6,36
@@ -98,11 +98,11 @@ Martinet noir,2022,36,106
 Martin-pêcheur d'Europe,2022,6,19
 Merle noir,2022,231,659
 Mésange à longue queue,2022,48,159
-Mésange bleue,2022,266,396
+Mésange bleue,2022,267,396
 Mésange boréale,2010,0,1
 Mésange charbonnière,2022,329,592
-Mésange huppée,2022,24,95
-Mésange noire,2022,47,113
+Mésange huppée,2022,25,95
+Mésange noire,2022,52,113
 Mésange nonnette,2022,23,57
 Milan noir,2022,23,84
 Milan royal,2022,2,2
@@ -134,7 +134,7 @@ Pouillot de Bonelli,2022,31,112
 Pouillot fitis,2019,1,2
 Pouillot siffleur,2021,2,3
 Pouillot véloce,2022,47,104
-Roitelet à triple bandeau,2022,12,40
+Roitelet à triple bandeau,2022,13,40
 Roitelet huppé,2021,5,22
 Rollier d'Europe,2022,2,3
 Rossignol philomèle,2022,28,138
@@ -143,7 +143,7 @@ Rougequeue à front blanc,2022,22,50
 Rougequeue noir,2022,168,134
 Sarcelle d'été,2016,0,2
 Serin cini,2022,87,140
-Sittelle torchepot,2022,151,313
+Sittelle torchepot,2022,155,313
 Sizerin cabaret,2018,0,1
 Sizerin flammé,2018,0,1
 Tarier des prés,2015,0,6
@@ -154,6 +154,6 @@ Tourterelle des bois,2021,2,32
 Tourterelle turque,2022,101,348
 Traquet motteux,2021,5,7
 Troglodyte mignon,2022,32,75
-Vautour fauve,2022,32,21
+Vautour fauve,2022,33,21
 Vautour moine,2022,1,0
 Verdier d'Europe,2022,90,242
