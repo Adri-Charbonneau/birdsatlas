@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,87,61
+Accenteur mouchet,2022,88,61
 Aigrette garzette,2022,18,143
 Alouette des champs,2022,56,144
 Alouette lulu,2022,9,16
@@ -9,7 +9,7 @@ Barge à queue noire,2022,1,6
 Bécasseau maubèche,2010,0,3
 Bécasseau minute,2010,0,2
 Bécasseau variable,2017,0,10
-Bécasse des bois,2022,6,8
+Bécasse des bois,2022,7,8
 Bécassine des marais,2022,49,192
 Bécassine sourde,2021,3,15
 Bec-croisé des sapins,2022,10,8
@@ -32,7 +32,7 @@ Buse variable,2022,167,603
 Butor étoilé,2022,2,24
 Caille des blés,2019,2,3
 Canard chipeau,2021,4,29
-Canard colvert,2022,356,1628
+Canard colvert,2022,358,1628
 Canard musqué,2017,0,28
 Canard pilet,2021,3,1
 Canard siffleur,2022,12,31
@@ -49,12 +49,12 @@ Chouette hulotte,2022,3,3
 Cigogne blanche,2021,1,2
 Cisticole des joncs,2022,22,119
 Combattant varié,2022,3,4
-Corneille noire,2022,106,65
+Corneille noire,2022,108,65
 Coucou gris,2022,28,23
 Courlis cendré,2022,33,13
 Courlis corlieu,2015,0,1
 Cygne noir,2016,0,3
-Cygne tuberculé,2022,15,44
+Cygne tuberculé,2022,17,44
 Échasse blanche,2021,2,0
 Effraie des clochers,2022,8,3
 Épervier d'Europe,2021,19,74
@@ -68,7 +68,7 @@ Fauvette à tête noire,2022,155,66
 Fauvette des jardins,2022,65,25
 Fauvette grisette,2022,8,14
 Fauvette pitchou,2022,15,6
-Foulque macroule,2022,237,1243
+Foulque macroule,2022,239,1243
 Fuligule milouin,2022,2,6
 Fuligule milouinan,2008,0,1
 Fuligule morillon,2022,2,39
@@ -76,18 +76,18 @@ Gallinule poule-d'eau,2022,143,552
 Garrot à oeil d'or,2022,2,9
 Geai des chênes,2022,99,96
 Gobemouche gris,2021,6,7
-Goéland argenté,2022,61,98
+Goéland argenté,2023,62,98
 Goéland brun,2022,32,198
-Goéland cendré,2019,1,29
+Goéland cendré,2023,2,29
 Goéland marin,2020,2,6
 Grand Corbeau,2021,2,6
-Grand Cormoran,2022,177,962
+Grand Cormoran,2022,179,962
 Grande Aigrette,2022,118,161
 Grand Gravelot,2021,1,1
 Grèbe à cou noir,2018,0,8
 Grèbe castagneux,2022,47,174
 Grèbe huppé,2022,178,795
-Grimpereau des jardins,2022,100,96
+Grimpereau des jardins,2022,101,96
 Grive draine,2022,95,193
 Grive litorne,2022,19,52
 Grive mauvis,2022,55,203
@@ -97,7 +97,7 @@ Guifette moustac,2021,25,1
 Guifette noire,2022,3,15
 Harle bièvre,2021,4,32
 Harle piette,2010,0,12
-Héron cendré,2022,197,1236
+Héron cendré,2023,198,1236
 Héron garde-boeufs,2021,3,1
 Héron pourpré,2022,4,30
 Hibou des marais,2022,5,1
@@ -116,7 +116,7 @@ Martinet noir,2022,41,18
 Martin-pêcheur d'Europe,2022,61,253
 Merle noir,2022,223,140
 Mésange à longue queue,2022,91,85
-Mésange bleue,2022,136,121
+Mésange bleue,2022,137,121
 Mésange charbonnière,2022,154,111
 Mésange huppée,2022,35,79
 Mésange noire,2022,11,20
@@ -124,7 +124,7 @@ Mésange nonnette,2022,53,158
 Milan noir,2020,2,0
 Moineau domestique,2022,42,27
 Mouette mélanocéphale,2019,1,6
-Mouette rieuse,2022,139,709
+Mouette rieuse,2023,140,709
 Oie cendrée,2015,0,3
 Paon bleu,2016,0,1
 Perdrix grise,2021,1,2
@@ -137,11 +137,11 @@ Pic épeichette,2021,3,2
 Pic mar,2022,3,0
 Pic noir,2022,7,11
 Pic vert,2022,10,25
-Pie bavarde,2022,83,66
+Pie bavarde,2022,84,66
 Pigeon biset domestique,2022,15,7
 Pigeon colombin,2022,14,98
-Pigeon ramier,2022,154,70
-Pinson des arbres,2022,253,145
+Pigeon ramier,2022,157,70
+Pinson des arbres,2022,254,145
 Pinson du Nord,2022,14,16
 Pipit des arbres,2022,53,74
 Pipit farlouse,2022,90,228
@@ -154,9 +154,9 @@ Râle d'eau,2022,6,48
 Roitelet à triple bandeau,2022,60,95
 Roitelet huppé,2022,65,124
 Rossignol philomèle,2021,1,0
-Rougegorge familier,2022,284,153
+Rougegorge familier,2022,285,153
 Sarcelle d'été,2021,6,9
-Sarcelle d'hiver,2022,103,580
+Sarcelle d'hiver,2022,107,580
 Serin cini,2021,2,3
 Sittelle torchepot,2022,71,64
 Sizerin cabaret,2013,0,1
@@ -168,10 +168,10 @@ Tadorne casarca,2018,0,1
 Tadorne de Belon,2018,0,8
 Tarier des prés,2018,0,5
 Tarier pâtre,2022,51,77
-Tarin des aulnes,2022,42,81
+Tarin des aulnes,2022,43,81
 Tourterelle des bois,2022,11,16
 Tourterelle turque,2022,17,11
 Traquet motteux,2021,1,9
-Troglodyte mignon,2022,238,142
+Troglodyte mignon,2022,241,142
 Vanneau huppé,2022,16,221
 Verdier d'Europe,2022,17,22
