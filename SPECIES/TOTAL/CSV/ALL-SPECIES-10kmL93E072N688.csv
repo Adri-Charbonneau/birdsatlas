@@ -1,8 +1,8 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,14,2
-Alouette des champs,2022,18,2
+Alouette des champs,2023,19,2
 Bécasseau sanderling,2022,2,0
-Bécassine des marais,2022,2,0
+Bécassine des marais,2023,3,0
 Bergeronnette des ruisseaux,2022,3,2
 Bergeronnette grise,2022,17,3
 Bergeronnette printanière,2022,9,1
@@ -16,7 +16,7 @@ Bruant zizi,2022,5,1
 Busard Saint-Martin,2022,1,1
 Buse variable,2022,39,6
 Canard chipeau,2009,0,1
-Canard colvert,2022,16,3
+Canard colvert,2023,18,3
 Chardonneret élégant,2022,11,3
 Chevalier aboyeur,2022,2,0
 Chevalier culblanc,2022,2,0
@@ -29,10 +29,10 @@ Cochevis huppé,2009,0,1
 Corbeau freux,2022,8,4
 Corneille noire,2022,22,8
 Coucou gris,2009,0,1
-Cygne tuberculé,2022,12,3
+Cygne tuberculé,2023,14,3
 Effraie des clochers,2022,1,1
 Épervier d'Europe,2022,3,1
-Étourneau sansonnet,2022,12,2
+Étourneau sansonnet,2023,13,2
 Faisan de Colchide,2022,2,1
 Faucon crécerelle,2022,29,3
 Faucon hobereau,2009,0,1
@@ -42,11 +42,13 @@ Fauvette des jardins,2020,1,0
 Fauvette grisette,2022,10,1
 Foulque macroule,2022,10,2
 Fuligule milouin,2009,0,1
-Gallinule poule-d'eau,2022,16,2
+Gallinule poule-d'eau,2023,17,2
 Geai des chênes,2022,9,2
 Gobemouche gris,2022,2,1
+Goéland cendré,2023,1,0
+Goéland leucophée,2023,1,0
 Grand Cormoran,2022,6,3
-Grande Aigrette,2022,8,0
+Grande Aigrette,2023,11,0
 Grèbe castagneux,2021,2,1
 Grèbe huppé,2009,0,1
 Grimpereau des jardins,2022,5,2
@@ -65,7 +67,7 @@ Linotte mélodieuse,2022,13,1
 Loriot d'Europe,2009,0,1
 Martinet noir,2022,4,1
 Martin-pêcheur d'Europe,2022,8,3
-Merle noir,2022,49,6
+Merle noir,2023,50,6
 Mésange à longue queue,2022,5,3
 Mésange bleue,2022,41,6
 Mésange charbonnière,2022,104,7
@@ -74,7 +76,7 @@ Mésange nonnette,2022,9,3
 Milan noir,2022,5,0
 Moineau domestique,2022,33,5
 Moineau friquet,2009,0,1
-Mouette rieuse,2022,11,1
+Mouette rieuse,2023,14,1
 Oie cendrée,2019,1,1
 Perdrix grise,2022,5,2
 Petit Gravelot,2022,3,0
@@ -89,10 +91,11 @@ Pigeon biset domestique,2022,6,1
 Pigeon biset (origine naturelle),2009,0,1
 Pigeon colombin,2022,1,0
 Pigeon ramier,2022,36,7
-Pinson des arbres,2022,21,4
+Pinson des arbres,2023,22,4
 Pinson du Nord,2022,2,1
 Pipit des arbres,2009,0,1
 Pipit farlouse,2022,5,0
+Pluvier doré,2023,1,0
 Pouillot fitis,2022,1,1
 Pouillot siffleur,2009,0,1
 Pouillot véloce,2022,16,2
@@ -113,6 +116,6 @@ Tarin des aulnes,2020,2,0
 Tourterelle des bois,2022,2,1
 Tourterelle turque,2022,13,5
 Traquet motteux,2022,3,0
-Troglodyte mignon,2022,11,4
+Troglodyte mignon,2023,12,4
 Vanneau huppé,2022,7,1
 Verdier d'Europe,2022,16,3
