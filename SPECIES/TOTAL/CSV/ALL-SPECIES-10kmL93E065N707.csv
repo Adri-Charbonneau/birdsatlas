@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,51,8
-Aigrette garzette,2023,40,6
-Alouette des champs,2022,19,3
+Aigrette garzette,2023,41,6
+Alouette des champs,2023,20,3
 Alouette lulu,2021,1,0
 Autour des palombes,2018,0,2
 Avocette élégante,2022,21,5
@@ -26,7 +26,7 @@ Bruant jaune,2023,42,3
 Bruant proyer,2022,1,0
 Bruant zizi,2019,1,0
 Busard des roseaux,2023,100,1
-Busard Saint-Martin,2023,11,0
+Busard Saint-Martin,2023,12,0
 Buse variable,2023,50,4
 Butor étoilé,2022,29,2
 Caille des blés,2021,1,0
@@ -56,14 +56,14 @@ Corneille noire,2023,72,6
 Coucou gris,2022,49,5
 Courlis cendré,2023,11,2
 Courlis corlieu,2021,6,0
-Cygne tuberculé,2023,456,3
+Cygne tuberculé,2023,457,3
 Échasse blanche,2022,23,3
 Effraie des clochers,2022,5,1
 Épervier d'Europe,2023,20,2
-Étourneau sansonnet,2022,39,3
+Étourneau sansonnet,2023,40,3
 Faisan de Colchide,2022,52,5
 Faisan vénéré,2022,7,1
-Faucon crécerelle,2023,58,1
+Faucon crécerelle,2023,59,1
 Faucon hobereau,2022,26,3
 Faucon kobez,2017,0,1
 Faucon pèlerin,2023,11,0
@@ -83,7 +83,7 @@ Goéland cendré,2021,2,1
 Goéland marin,2021,2,0
 Gorgebleue à miroir,2022,53,0
 Grand Cormoran,2023,35,0
-Grande Aigrette,2023,198,6
+Grande Aigrette,2023,200,6
 Grèbe à cou noir,2022,10,0
 Grèbe castagneux,2023,50,3
 Grèbe esclavon,2022,1,0
@@ -149,7 +149,7 @@ Pinson du Nord,2022,10,2
 Pipit des arbres,2009,0,1
 Pipit farlouse,2022,28,1
 Pipit spioncelle,2022,6,0
-Pluvier doré,2022,8,0
+Pluvier doré,2023,9,0
 Pouillot à grands sourcils,2020,1,0
 Pouillot fitis,2022,60,4
 Pouillot siffleur,2009,0,1
@@ -181,5 +181,5 @@ Tourterelle des bois,2022,6,2
 Tourterelle turque,2022,73,6
 Traquet motteux,2022,3,0
 Troglodyte mignon,2022,118,11
-Vanneau huppé,2023,130,7
+Vanneau huppé,2023,131,7
 Verdier d'Europe,2022,32,5
