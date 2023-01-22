@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2023,22,41
+Accenteur mouchet,2023,23,41
 Aigle botté,2020,8,21
 Aigle royal,2022,22,68
 Aigrette garzette,2013,0,1
@@ -23,8 +23,8 @@ Bruant proyer,2023,245,507
 Bruant zizi,2023,82,215
 Busard cendré,2022,160,188
 Busard des roseaux,2021,13,25
-Busard Saint-Martin,2023,21,51
-Buse variable,2023,113,269
+Busard Saint-Martin,2023,23,51
+Buse variable,2023,118,269
 Caille des blés,2016,0,2
 Canard colvert,2022,15,9
 Chardonneret élégant,2023,155,288
@@ -39,19 +39,19 @@ Cigogne noire,2020,1,2
 Circaète Jean-le-Blanc,2022,138,179
 Cisticole des joncs,2023,49,96
 Cochevis de Thékla,2016,0,4
-Cochevis huppé,2023,22,54
+Cochevis huppé,2023,23,54
 Corbeau freux,2021,2,25
 Corneille noire,2022,29,29
 Coucou geai,2022,40,74
 Coucou gris,2022,89,113
 Effraie des clochers,2017,0,2
-Élanion blanc,2023,12,0
+Élanion blanc,2023,15,0
 Engoulevent d'Europe,2022,11,3
 Épervier d'Europe,2023,65,97
 Etourneau roselin,2018,0,1
-Étourneau sansonnet,2023,192,308
+Étourneau sansonnet,2023,201,308
 Faisan de Colchide,2021,28,44
-Faucon crécerelle,2023,198,398
+Faucon crécerelle,2023,200,398
 Faucon crécerellette,2022,117,80
 Faucon d'Eléonore,2019,1,21
 Faucon émerillon,2017,0,7
@@ -59,9 +59,9 @@ Faucon hobereau,2021,13,22
 Faucon kobez,2020,3,10
 Faucon pèlerin,2018,0,7
 Fauvette à lunettes,2022,1,0
-Fauvette à tête noire,2023,104,125
+Fauvette à tête noire,2023,106,125
 Fauvette grisette,2021,8,8
-Fauvette mélanocéphale,2023,338,541
+Fauvette mélanocéphale,2023,340,541
 Fauvette orphée,2022,112,180
 Fauvette passerinette,2022,96,143
 Fauvette pitchou,2022,203,524
@@ -76,7 +76,7 @@ Grand-duc d'Europe,2023,21,21
 Grande Aigrette,2016,0,1
 Grèbe castagneux,2021,1,0
 Grimpereau des jardins,2022,30,28
-Grive draine,2022,55,63
+Grive draine,2023,56,63
 Grive litorne,2021,5,57
 Grive mauvis,2023,2,14
 Grive musicienne,2023,45,82
@@ -100,16 +100,16 @@ Martinet noir,2022,64,177
 Martinet pâle,2020,1,1
 Martin-pêcheur d'Europe,2019,0,4
 Merle à plastron,2019,1,1
-Merle noir,2022,134,282
+Merle noir,2023,135,282
 Mésange à longue queue,2022,8,33
-Mésange bleue,2023,79,111
+Mésange bleue,2023,80,111
 Mésange charbonnière,2023,153,202
 Mésange huppée,2021,3,5
 Mésange noire,2020,3,3
 Mésange nonnette,2019,1,0
 Milan noir,2022,61,113
 Milan royal,2023,22,22
-Moineau domestique,2022,156,316
+Moineau domestique,2023,164,316
 Moineau friquet,2022,4,19
 Moineau soulcie,2022,34,213
 Monticole bleu,2020,6,3
@@ -126,18 +126,18 @@ Petit Gravelot,2019,1,2
 Pic épeiche,2022,8,8
 Pic épeichette,2021,2,2
 Pic vert,2022,21,17
-Pie bavarde,2023,121,195
+Pie bavarde,2023,122,195
 Pie-grièche à tête rousse,2022,152,275
 Pie-grièche écorcheur,2021,26,40
 Pie-grièche méridionale,2023,233,534
 Pigeon biset domestique,2023,15,10
 Pigeon colombin,2023,1,3
-Pigeon ramier,2022,206,333
-Pinson des arbres,2023,240,380
+Pigeon ramier,2023,210,333
+Pinson des arbres,2023,243,380
 Pinson du Nord,2018,0,11
 Pipit de Richard,2020,1,0
 Pipit des arbres,2022,6,8
-Pipit farlouse,2023,55,194
+Pipit farlouse,2023,56,194
 Pipit rousseline,2022,114,260
 Pipit spioncelle,2017,0,3
 Pluvier guignard,2021,1,2
@@ -145,13 +145,13 @@ Pouillot de Bonelli,2022,14,16
 Pouillot fitis,2021,7,16
 Pouillot siffleur,2019,1,0
 Pouillot véloce,2023,32,64
-Roitelet à triple bandeau,2023,49,87
+Roitelet à triple bandeau,2023,50,87
 Roitelet huppé,2022,7,18
 Rollier d'Europe,2022,27,58
 Rossignol philomèle,2022,270,428
-Rougegorge familier,2023,178,331
+Rougegorge familier,2023,183,331
 Rougequeue à front blanc,2022,54,47
-Rougequeue noir,2023,100,255
+Rougequeue noir,2023,103,255
 Rousserolle effarvatte,2020,1,2
 Rousserolle turdoïde,2017,0,1
 Sarcelle d'hiver,2017,0,2
@@ -160,11 +160,11 @@ Sittelle torchepot,2021,1,0
 Sterne hansel,2021,4,7
 Tadorne de Belon,2020,8,24
 Tarier des prés,2022,17,29
-Tarier pâtre,2022,222,479
+Tarier pâtre,2023,223,479
 Tarin des aulnes,2022,6,25
 Torcol fourmilier,2016,0,3
 Tourterelle des bois,2022,163,248
-Tourterelle turque,2023,82,117
+Tourterelle turque,2023,83,117
 Traquet du désert,2018,0,46
 Traquet motteux,2022,47,80
 Traquet oreillard,2020,2,12
