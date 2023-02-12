@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2023,149,71
+Accenteur mouchet,2023,151,71
 Aigrette garzette,2022,1,12
 Alouette des champs,2022,57,111
 Alouette lulu,2021,1,24
@@ -9,7 +9,7 @@ Bécassine des marais,2022,46,36
 Bécassine sourde,2022,8,3
 Bec-croisé des sapins,2015,0,2
 Bergeronnette des ruisseaux,2023,21,59
-Bergeronnette grise,2023,59,89
+Bergeronnette grise,2023,60,89
 Bergeronnette printanière,2009,0,1
 Blongios nain,2016,0,1
 Bondrée apivore,2017,0,5
@@ -22,7 +22,7 @@ Bruant proyer,2009,0,1
 Bruant zizi,2016,0,4
 Busard des roseaux,2021,2,8
 Busard Saint-Martin,2021,5,5
-Buse variable,2023,77,154
+Buse variable,2023,79,154
 Caille des blés,2015,0,4
 Canard chipeau,2009,0,1
 Canard colvert,2022,13,44
@@ -32,13 +32,13 @@ Canard souchet,2009,0,1
 Chardonneret élégant,2022,80,156
 Chevalier culblanc,2023,10,19
 Chevêche d'Athéna,2015,0,13
-Choucas des tours,2023,144,149
+Choucas des tours,2023,149,149
 Chouette hulotte,2023,4,134
 Cigogne blanche,2020,2,0
 Cisticole des joncs,2022,2,10
 Combattant varié,2008,0,1
-Corbeau freux,2023,38,74
-Corneille noire,2023,120,77
+Corbeau freux,2023,39,74
+Corneille noire,2023,121,77
 Coucou gris,2021,1,2
 Courlis cendré,2017,0,2
 Courlis corlieu,2015,0,2
@@ -47,9 +47,9 @@ Cygne tuberculé,2021,2,5
 Effraie des clochers,2022,11,50
 Engoulevent d'Europe,2009,0,1
 Épervier d'Europe,2023,21,74
-Étourneau sansonnet,2023,68,72
-Faisan de Colchide,2023,21,12
-Faucon crécerelle,2023,35,110
+Étourneau sansonnet,2023,71,72
+Faisan de Colchide,2023,22,12
+Faucon crécerelle,2023,37,110
 Faucon émerillon,2022,3,6
 Faucon hobereau,2020,2,25
 Faucon pèlerin,2022,2,7
@@ -60,7 +60,7 @@ Fauvette pitchou,2009,0,1
 Foulque macroule,2015,0,5
 Fuligule à bec cerclé,2011,0,1
 Gallinule poule-d'eau,2022,12,56
-Geai des chênes,2023,37,61
+Geai des chênes,2023,38,61
 Gobemouche noir,2022,1,0
 Goéland à ailes blanches,2009,0,1
 Goéland argenté,2023,37,29
@@ -77,10 +77,10 @@ Grimpereau des jardins,2022,46,84
 Grive draine,2022,25,52
 Grive litorne,2023,16,136
 Grive mauvis,2023,37,66
-Grive musicienne,2023,76,95
+Grive musicienne,2023,78,95
 Grosbec casse-noyaux,2015,0,2
 Héron cendré,2023,22,55
-Héron garde-boeufs,2022,54,125
+Héron garde-boeufs,2023,55,125
 Hibou moyen-duc,2022,1,3
 Hirondelle de fenêtre,2021,6,17
 Hirondelle de rivage,2022,6,17
@@ -93,15 +93,15 @@ Linotte mélodieuse,2022,62,63
 Martinet noir,2022,16,26
 Martin-pêcheur d'Europe,2022,3,1
 Merle à plastron,2020,5,0
-Merle noir,2023,207,114
+Merle noir,2023,213,114
 Mésange à longue queue,2023,41,68
-Mésange bleue,2023,189,146
-Mésange charbonnière,2023,108,118
+Mésange bleue,2023,192,146
+Mésange charbonnière,2023,110,118
 Mésange huppée,2022,12,36
 Mésange noire,2017,0,2
 Mésange nonnette,2021,3,3
 Milan noir,2018,0,1
-Moineau domestique,2023,95,231
+Moineau domestique,2023,97,231
 Moineau friquet,2014,0,1
 Mouette mélanocéphale,2015,0,2
 Mouette rieuse,2023,27,25
@@ -111,12 +111,12 @@ Pic épeiche,2022,25,78
 Pic épeichette,2022,7,2
 Pic noir,2021,4,7
 Pic vert,2022,26,74
-Pie bavarde,2023,119,93
-Pigeon biset domestique,2022,13,8
+Pie bavarde,2023,122,93
+Pigeon biset domestique,2023,15,8
 Pigeon colombin,2022,30,84
-Pigeon ramier,2023,221,92
-Pinson des arbres,2023,241,103
-Pinson du Nord,2021,2,13
+Pigeon ramier,2023,222,92
+Pinson des arbres,2023,242,103
+Pinson du Nord,2023,3,13
 Pipit à gorge rousse,2017,0,1
 Pipit farlouse,2023,37,110
 Pipit maritime,2009,0,1
@@ -128,7 +128,7 @@ Pouillot véloce,2022,142,190
 Râle d'eau,2017,0,6
 Roitelet à triple bandeau,2023,28,103
 Roitelet huppé,2022,16,21
-Rougegorge familier,2023,191,85
+Rougegorge familier,2023,193,85
 Rougequeue noir,2022,4,11
 Rousserolle effarvatte,2009,0,1
 Sarcelle d'été,2016,0,9
@@ -140,8 +140,8 @@ Tarier pâtre,2022,25,12
 Tarin des aulnes,2022,3,20
 Torcol fourmilier,2021,1,0
 Tourterelle des bois,2022,13,49
-Tourterelle turque,2022,56,125
+Tourterelle turque,2023,57,125
 Traquet motteux,2021,2,17
-Troglodyte mignon,2023,168,78
+Troglodyte mignon,2023,172,78
 Vanneau huppé,2023,45,47
-Verdier d'Europe,2023,60,136
+Verdier d'Europe,2023,61,136

@@ -1,8 +1,8 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,54,161
 Aigrette garzette,2023,11,12
-Alouette des champs,2022,17,129
-Alouette lulu,2022,15,134
+Alouette des champs,2023,18,129
+Alouette lulu,2023,16,134
 Autour des palombes,2018,0,3
 Barge à queue noire,2022,5,2
 Bécasse des bois,2021,3,28
@@ -46,14 +46,14 @@ Cisticole des joncs,2021,3,4
 Cochevis huppé,2022,2,16
 Combattant varié,2022,2,0
 Corbeau freux,2019,1,12
-Corneille noire,2022,94,270
+Corneille noire,2023,96,270
 Coucou gris,2022,47,121
 Courlis cendré,2023,16,6
 Cygne noir,2021,12,2
 Cygne tuberculé,2020,3,8
 Échasse blanche,2021,1,1
-Effraie des clochers,2022,4,129
-Élanion blanc,2023,49,0
+Effraie des clochers,2023,5,129
+Élanion blanc,2023,50,0
 Engoulevent d'Europe,2017,0,1
 Épervier d'Europe,2022,22,94
 Étourneau sansonnet,2023,75,228
@@ -71,9 +71,9 @@ Gallinule poule-d'eau,2021,12,49
 Geai des chênes,2022,51,129
 Gobemouche gris,2022,16,17
 Gobemouche noir,2022,34,12
-Goéland brun,2019,1,7
+Goéland brun,2023,2,7
 Goéland leucophée,2021,3,0
-Grand Cormoran,2022,9,29
+Grand Cormoran,2023,10,29
 Grande Aigrette,2022,16,30
 Grèbe castagneux,2022,3,30
 Grèbe huppé,2021,1,2
@@ -109,11 +109,11 @@ Mésange noire,2022,2,9
 Mésange nonnette,2022,5,17
 Milan noir,2022,23,17
 Milan royal,2010,0,2
-Moineau domestique,2023,110,203
+Moineau domestique,2023,111,203
 Moineau friquet,2016,0,9
 Mouette mélanocéphale,2019,1,4
 Mouette rieuse,2023,6,28
-Oedicnème criard,2022,35,193
+Oedicnème criard,2023,36,193
 Oie cendrée,2022,5,20
 Ouette d'Egypte,2020,6,0
 Perdrix grise,2015,0,8
@@ -126,12 +126,12 @@ Pic épeiche,2023,41,107
 Pic épeichette,2022,12,19
 Pic noir,2021,8,37
 Pic vert,2022,53,178
-Pie bavarde,2023,80,125
+Pie bavarde,2023,81,125
 Pie-grièche écorcheur,2022,6,4
 Pigeon biset domestique,2021,10,9
 Pigeon colombin,2022,6,28
-Pigeon ramier,2023,140,270
-Pinson des arbres,2023,162,321
+Pigeon ramier,2023,141,270
+Pinson des arbres,2023,163,321
 Pinson du Nord,2021,3,15
 Pipit des arbres,2022,2,1
 Pipit farlouse,2023,12,80
@@ -142,7 +142,7 @@ Râle des genêts,2017,0,10
 Roitelet à triple bandeau,2022,10,40
 Roitelet huppé,2020,4,34
 Rossignol philomèle,2022,43,120
-Rougegorge familier,2023,131,225
+Rougegorge familier,2023,132,225
 Rougequeue à front blanc,2022,8,78
 Rougequeue noir,2022,31,178
 Rousserolle effarvatte,2021,3,2
@@ -164,5 +164,5 @@ Tourterelle rieuse,2012,0,1
 Tourterelle turque,2023,69,145
 Traquet motteux,2022,20,22
 Troglodyte mignon,2022,64,177
-Vanneau huppé,2023,15,41
+Vanneau huppé,2023,16,41
 Verdier d'Europe,2022,27,98
