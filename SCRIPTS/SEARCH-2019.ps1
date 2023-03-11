@@ -1,3 +1,4 @@
+$mail="$env:MAIL"
 $list = Get-Content "./DATA/ID.txt"
 
 foreach ($code in $list) {
@@ -23,8 +24,8 @@ $text = $text -replace "2019 : ([0-9]+/[0-9]+/[0-9]+)","2019 : $date" | Set-Cont
 Remove-Item "SPECIESTEMP.txt", "SPECIES.csv"
 
 # git and create tag
-git config --local user.email "a-d-r-i@outlook.fr"
-git config --local user.name "A-d-r-i"
+git config --local user.email "$mail"
+git config --local user.name "Adri-Charbonneau"
 git add .
 git commit -m "[Bot] Update files - 2019"
 git push -f

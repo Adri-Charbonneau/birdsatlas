@@ -1,3 +1,4 @@
+$mail="$env:MAIL"
 $list = Get-Content "./DATA/ID.txt"
 
 foreach ($code in $list) {
@@ -25,8 +26,8 @@ Import-Csv "csvtemp.txt" -delimiter "," -Header frname , lastobs , newcount , ol
 Remove-Item "name.csv", "lastobs.csv", "newcount.csv", "oldcount.csv", "csvtemp.txt"
 
 # git and create tag
-git config --local user.email "a-d-r-i@outlook.fr"
-git config --local user.name "A-d-r-i"
+git config --local user.email "$mail"
+git config --local user.name "Adri-Charbonneau"
 git add .
 git commit -m "[Bot] Update files - TOTAL"
 git push -f
