@@ -1,3 +1,5 @@
+$mail="$env:MAIL"
+
 #$id = Read-Host -Prompt "Saisir l`'identifiant de la maille "
 #$code = ([xml](Get-Content MAILLES.xml)).MAILLES.$id
 $list = Get-Content "./DATA/ID.txt"
@@ -18,8 +20,8 @@ $date = Get-Date -Format "dd/MM/yyyy"
 $text = $text -replace "mailles : ([0-9]+/[0-9]+/[0-9]+)","mailles : $date" | Set-Content -Path "dates.txt"
 
 # git and create tag
-git config --local user.email "a-d-r-i@outlook.fr"
-git config --local user.name "A-d-r-i"
+git config --local user.email "$mail"
+git config --local user.name "Adri-Charbonneau"
 git add .
 git commit -m "[Bot] Update files - MAILLES"
 git push -f

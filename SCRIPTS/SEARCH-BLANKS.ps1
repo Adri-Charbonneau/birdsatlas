@@ -1,3 +1,4 @@
+$mail="$env:MAIL"
 $list = Get-Content "./DATA/ID.txt"
 
 foreach ($code in $list) {
@@ -18,8 +19,8 @@ $date = Get-Date -Format "dd/MM/yyyy"
 $text = $text -replace "blanks & notfound : ([0-9]+/[0-9]+/[0-9]+)","blanks & notfound : $date" | Set-Content -Path "dates.txt"
 
 # git and create tag
-git config --local user.email "a-d-r-i@outlook.fr"
-git config --local user.name "A-d-r-i"
+git config --local user.email "$mail"
+git config --local user.name "Adri-Charbonneau"
 git add .
 git commit -m "[Bot] Update files - BLANKS"
 git push -f
