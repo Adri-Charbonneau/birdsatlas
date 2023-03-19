@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2023,32,109
-Accenteur mouchet,2023,8,47
+Accenteur mouchet,2023,9,47
 Aigle botté,2014,0,2
 Aigrette garzette,2022,10,4
 Alouette des champs,2021,4,2
@@ -25,17 +25,17 @@ Chevalier guignette,2018,0,1
 Chevêche d'Athéna,2021,5,13
 Choucas des tours,2023,65,85
 Chouette hulotte,2022,41,81
-Cigogne noire,2012,0,1
+Cigogne noire,2023,1,1
 Cincle plongeur,2023,15,1
 Circaète Jean-le-Blanc,2022,28,63
 Cisticole des joncs,2021,4,2
 Corbeau freux,2018,0,1
-Corneille noire,2022,62,146
+Corneille noire,2023,63,146
 Coucou gris,2022,19,49
 Effraie des clochers,2021,1,10
 Élanion blanc,2022,6,1
 Engoulevent d'Europe,2022,19,19
-Épervier d'Europe,2023,16,36
+Épervier d'Europe,2023,17,36
 Étourneau sansonnet,2022,15,39
 Faisan de Colchide,2022,11,26
 Faucon crécerelle,2022,59,92
@@ -70,7 +70,7 @@ Héron cendré,2022,35,67
 Héron garde-boeufs,2022,14,21
 Hibou moyen-duc,2017,0,2
 Hirondelle de fenêtre,2022,56,63
-Hirondelle de rochers,2023,72,155
+Hirondelle de rochers,2023,73,155
 Hirondelle rustique,2022,32,41
 Huppe fasciée,2021,6,17
 Hypolaïs polyglotte,2022,13,14
@@ -88,7 +88,7 @@ Mésange huppée,2014,0,1
 Mésange noire,2021,2,2
 Mésange nonnette,2022,33,62
 Milan noir,2022,26,26
-Milan royal,2023,24,34
+Milan royal,2023,26,34
 Moineau domestique,2023,49,135
 Moineau friquet,2016,0,1
 Perdrix grise,2017,0,1
@@ -118,7 +118,7 @@ Rossignol philomèle,2022,15,27
 Rougegorge familier,2023,195,260
 Rougequeue à front blanc,2022,1,5
 Rougequeue noir,2023,88,195
-Serin cini,2022,9,30
+Serin cini,2023,10,30
 Sittelle torchepot,2023,66,103
 Tarier des prés,2016,0,4
 Tarier pâtre,2022,8,13
@@ -130,4 +130,4 @@ Traquet motteux,2022,2,6
 Troglodyte mignon,2022,53,95
 Vanneau huppé,2023,1,1
 Vautour fauve,2021,3,2
-Verdier d'Europe,2023,35,61
+Verdier d'Europe,2023,36,61
