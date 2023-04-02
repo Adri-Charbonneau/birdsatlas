@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,13,2
-Aigrette garzette,2021,2,0
+Aigrette garzette,2023,3,0
 Alouette des champs,2023,9,27
 Alouette lulu,2021,3,1
 Bécassine des marais,2020,6,1
@@ -14,12 +14,12 @@ Bruant jaune,2022,14,21
 Bruant proyer,2021,4,9
 Bruant zizi,2009,0,1
 Busard cendré,2018,0,4
-Busard des roseaux,2020,3,4
+Busard des roseaux,2023,4,4
 Busard Saint-Martin,2023,12,2
 Buse variable,2023,27,10
 Caille des blés,2009,0,1
 Canard chipeau,2022,4,0
-Canard colvert,2023,34,9
+Canard colvert,2023,35,9
 Canard siffleur,2021,1,0
 Canard souchet,2023,2,0
 Chardonneret élégant,2022,20,10
@@ -35,7 +35,7 @@ Corbeau freux,2023,2,15
 Corneille noire,2023,69,30
 Coucou gris,2022,20,21
 Courlis cendré,2017,0,3
-Cygne tuberculé,2022,8,6
+Cygne tuberculé,2023,9,6
 Effraie des clochers,2022,3,3
 Épervier d'Europe,2022,9,3
 Étourneau sansonnet,2023,36,22
@@ -47,16 +47,16 @@ Fauvette à tête noire,2022,76,44
 Fauvette babillarde,2022,9,4
 Fauvette des jardins,2020,3,2
 Fauvette grisette,2022,32,23
-Foulque macroule,2023,21,12
+Foulque macroule,2023,22,12
 Fuligule milouin,2022,19,4
-Gallinule poule-d'eau,2022,15,4
+Gallinule poule-d'eau,2023,16,4
 Geai des chênes,2023,39,13
 Gobemouche gris,2020,1,0
 Gobemouche noir,2021,1,0
-Grand Cormoran,2023,13,8
-Grande Aigrette,2023,30,4
+Grand Cormoran,2023,14,8
+Grande Aigrette,2023,31,4
 Grèbe castagneux,2023,7,3
-Grèbe huppé,2023,22,5
+Grèbe huppé,2023,23,5
 Grimpereau des jardins,2023,21,4
 Grive draine,2020,3,2
 Grive litorne,2022,3,1
@@ -64,13 +64,13 @@ Grive mauvis,2017,0,1
 Grive musicienne,2022,19,5
 Grosbec casse-noyaux,2023,5,4
 Guêpier d'Europe,2021,4,1
-Héron cendré,2023,33,11
+Héron cendré,2023,34,11
 Héron garde-boeufs,2021,2,1
 Héron pourpré,2021,11,3
 Hibou moyen-duc,2009,0,1
 Hirondelle de fenêtre,2022,1,1
 Hirondelle rustique,2022,39,14
-Huppe fasciée,2022,6,4
+Huppe fasciée,2023,7,4
 Hypolaïs polyglotte,2021,2,13
 Linotte mélodieuse,2022,8,13
 Loriot d'Europe,2022,18,8
@@ -94,7 +94,7 @@ Perdrix grise,2018,0,4
 Petit Gravelot,2009,0,1
 Pic cendré,2014,0,3
 Pic épeiche,2023,25,4
-Pic épeichette,2023,9,3
+Pic épeichette,2023,10,3
 Pic mar,2022,3,1
 Pic noir,2022,10,2
 Pic vert,2022,29,16
