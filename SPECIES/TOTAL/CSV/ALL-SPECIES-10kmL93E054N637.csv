@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2022,10,18
+Accenteur mouchet,2022,11,18
 Aigle botté,2022,9,2
 Aigrette garzette,2021,6,5
 Alouette des champs,2023,36,44
@@ -23,7 +23,7 @@ Buse variable,2022,70,58
 Caille des blés,2022,10,7
 Calopsitte élégante,2019,1,0
 Canard colvert,2022,13,4
-Chardonneret élégant,2023,64,47
+Chardonneret élégant,2023,66,47
 Chevalier culblanc,2019,2,0
 Chevalier guignette,2022,9,24
 Chevêche d'Athéna,2023,38,10
@@ -72,7 +72,7 @@ Hibou moyen-duc,2022,6,7
 Hirondelle de fenêtre,2022,17,17
 Hirondelle de rivage,2018,0,1
 Hirondelle de rochers,2022,13,22
-Hirondelle rustique,2022,36,44
+Hirondelle rustique,2023,37,44
 Huppe fasciée,2023,38,41
 Hypolaïs polyglotte,2022,19,28
 Linotte mélodieuse,2022,24,30
@@ -90,13 +90,13 @@ Mésange huppée,2022,3,4
 Mésange noire,2019,1,2
 Mésange nonnette,2022,10,12
 Milan noir,2023,25,35
-Milan royal,2023,40,8
+Milan royal,2023,41,8
 Moineau domestique,2022,36,17
 Moineau friquet,2013,0,4
 Moineau soulcie,2014,0,4
 Oedicnème criard,2023,22,2
 Perdrix rouge,2022,25,14
-Petit-duc scops,2022,50,23
+Petit-duc scops,2023,52,23
 Pic épeiche,2022,44,45
 Pic épeichette,2022,3,7
 Pic mar,2020,1,0
@@ -108,25 +108,25 @@ Pigeon biset domestique,2022,14,4
 Pigeon colombin,2022,2,1
 Pigeon ramier,2023,103,57
 Pinson des arbres,2023,48,66
-Pinson du Nord,2023,15,5
+Pinson du Nord,2023,16,5
 Pipit des arbres,2021,8,23
 Pipit farlouse,2022,12,13
 Pipit rousseline,2013,0,1
-Pouillot de Bonelli,2022,37,36
-Pouillot fitis,2022,10,4
+Pouillot de Bonelli,2023,38,36
+Pouillot fitis,2023,11,4
 Pouillot siffleur,2007,0,1
 Pouillot véloce,2023,37,41
 Roitelet à triple bandeau,2022,15,32
 Roitelet huppé,2020,2,0
 Rossignol philomèle,2022,52,41
 Rougegorge familier,2023,71,55
-Rougequeue à front blanc,2022,42,10
-Rougequeue noir,2023,63,29
+Rougequeue à front blanc,2023,43,10
+Rougequeue noir,2023,64,29
 Serin cini,2023,6,23
 Sittelle torchepot,2023,49,30
 Tarier des prés,2022,2,8
 Tarier pâtre,2022,36,25
-Tarin des aulnes,2023,17,5
+Tarin des aulnes,2023,20,5
 Torcol fourmilier,2018,0,2
 Tourterelle des bois,2022,35,39
 Tourterelle rieuse,2019,3,0
@@ -134,4 +134,4 @@ Tourterelle turque,2023,47,33
 Traquet motteux,2021,5,5
 Troglodyte mignon,2022,14,20
 Vanneau huppé,2023,1,0
-Verdier d'Europe,2023,31,32
+Verdier d'Europe,2023,33,32

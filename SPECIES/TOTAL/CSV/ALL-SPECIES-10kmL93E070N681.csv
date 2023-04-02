@@ -2,7 +2,7 @@ frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,14,297
 Aigle botté,2014,0,1
 Aigrette garzette,2023,4,4
-Alouette des champs,2023,15,119
+Alouette des champs,2023,25,119
 Alouette lulu,2021,1,33
 Autour des palombes,2018,0,3
 Barge à queue noire,2014,0,1
@@ -21,7 +21,7 @@ Bondrée apivore,2018,0,26
 Bouvreuil pivoine,2023,6,59
 Bruant des roseaux,2021,2,33
 Bruant jaune,2023,10,73
-Bruant proyer,2021,3,27
+Bruant proyer,2023,9,27
 Bruant zizi,2023,6,53
 Busard cendré,2013,0,3
 Busard des roseaux,2022,1,35
@@ -48,7 +48,7 @@ Circaète Jean-le-Blanc,2020,1,0
 Cochevis huppé,2009,0,1
 Combattant varié,2014,0,1
 Corbeau freux,2023,9,158
-Corneille noire,2023,9,190
+Corneille noire,2023,10,190
 Coucou gris,2021,4,72
 Courlis cendré,2014,0,4
 Cygne tuberculé,2023,9,26
@@ -75,8 +75,8 @@ Gobemouche gris,2020,2,21
 Gobemouche noir,2016,0,8
 Goéland brun,2016,0,1
 Goéland leucophée,2016,0,9
-Grand Cormoran,2023,8,72
-Grande Aigrette,2023,9,14
+Grand Cormoran,2023,9,72
+Grande Aigrette,2023,10,14
 Grèbe à cou noir,2019,1,0
 Grèbe castagneux,2019,1,4
 Grèbe huppé,2023,13,23
@@ -90,6 +90,7 @@ Guêpier d'Europe,2013,0,1
 Guifette noire,2022,1,2
 Héron cendré,2023,12,74
 Héron garde-boeufs,2022,5,2
+Héron pourpré,2023,1,0
 Hibou des marais,2015,0,1
 Hibou moyen-duc,2017,0,8
 Hirondelle de fenêtre,2022,37,256
@@ -106,15 +107,15 @@ Martin-pêcheur d'Europe,2022,4,16
 Merle à plastron,2022,1,8
 Merle noir,2023,46,637
 Mésange à longue queue,2021,5,61
-Mésange bleue,2023,42,498
+Mésange bleue,2023,43,498
 Mésange boréale,2009,0,1
-Mésange charbonnière,2023,39,539
+Mésange charbonnière,2023,40,539
 Mésange huppée,2023,4,39
 Mésange noire,2020,2,12
 Mésange nonnette,2022,6,75
 Milan noir,2023,3,28
 Milan royal,2022,4,19
-Moineau domestique,2022,42,610
+Moineau domestique,2023,43,610
 Moineau friquet,2009,0,2
 Mouette mélanocéphale,2022,3,25
 Mouette rieuse,2023,8,86
@@ -136,8 +137,8 @@ Pie bavarde,2022,13,99
 Pie-grièche écorcheur,2021,3,7
 Pigeon biset domestique,2022,5,121
 Pigeon colombin,2018,0,57
-Pigeon ramier,2023,29,493
-Pinson des arbres,2023,49,608
+Pigeon ramier,2023,31,493
+Pinson des arbres,2023,50,608
 Pinson du Nord,2022,3,78
 Pipit à gorge rousse,2014,0,1
 Pipit des arbres,2021,2,70
@@ -164,7 +165,7 @@ Sarcelle d'hiver,2019,1,1
 Serin cini,2021,3,130
 Sittelle torchepot,2023,4,80
 Sterne naine,2015,0,1
-Sterne pierregarin,2022,9,15
+Sterne pierregarin,2023,10,15
 Tadorne de Belon,2017,0,2
 Tarier des prés,2016,0,4
 Tarier pâtre,2023,4,5
