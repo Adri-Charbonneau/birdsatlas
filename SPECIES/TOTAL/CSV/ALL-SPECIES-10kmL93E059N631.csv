@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,4,0
-Aigle botté,2019,1,2
+Aigle botté,2023,2,2
 Aigrette garzette,2021,2,5
 Alouette des champs,2023,1,2
 Alouette lulu,2021,9,10
@@ -16,8 +16,8 @@ Bruant proyer,2021,3,11
 Bruant zizi,2023,29,30
 Busard cendré,2021,3,1
 Busard des roseaux,2018,0,1
-Busard Saint-Martin,2023,11,9
-Buse variable,2023,75,83
+Busard Saint-Martin,2023,12,9
+Buse variable,2023,77,83
 Caille des blés,2009,0,1
 Canard colvert,2023,16,30
 Canard souchet,2019,1,0
@@ -27,13 +27,13 @@ Chevêche d'Athéna,2023,14,6
 Choucas des tours,2019,0,3
 Chouette hulotte,2023,5,6
 Cigogne blanche,2021,2,1
-Circaète Jean-le-Blanc,2022,7,6
+Circaète Jean-le-Blanc,2023,8,6
 Cisticole des joncs,2022,5,3
 Corbeau freux,2017,0,1
-Corneille noire,2023,21,46
+Corneille noire,2023,22,46
 Coucou gris,2023,6,11
 Effraie des clochers,2022,15,16
-Élanion blanc,2023,39,1
+Élanion blanc,2023,40,1
 Engoulevent d'Europe,2022,4,1
 Épervier d'Europe,2023,13,7
 Étourneau sansonnet,2023,23,29
@@ -47,7 +47,7 @@ Fauvette des jardins,2013,0,1
 Fauvette grisette,2022,4,7
 Foulque macroule,2022,7,12
 Gallinule poule-d'eau,2017,0,8
-Geai des chênes,2023,85,36
+Geai des chênes,2023,86,36
 Gobemouche noir,2022,7,8
 Goéland leucophée,2023,12,7
 Grand Corbeau,2019,1,2
@@ -80,7 +80,7 @@ Mésange à longue queue,2023,7,13
 Mésange bleue,2023,29,23
 Mésange charbonnière,2023,40,29
 Mésange nonnette,2023,12,4
-Milan noir,2021,24,14
+Milan noir,2023,25,14
 Milan royal,2023,26,22
 Moineau domestique,2023,23,16
 Moineau soulcie,2021,3,1
@@ -94,7 +94,7 @@ Pic épeichette,2019,2,0
 Pic mar,2023,6,4
 Pic noir,2023,4,3
 Pic vert,2023,25,27
-Pie bavarde,2023,36,27
+Pie bavarde,2023,37,27
 Pie-grièche à tête rousse,2020,2,0
 Pie-grièche écorcheur,2022,4,2
 Pigeon biset domestique,2023,4,4

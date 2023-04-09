@@ -1,23 +1,23 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,4,20
-Aigle royal,2023,28,50
+Aigle royal,2023,29,50
 Aigrette garzette,2019,1,2
-Alouette des champs,2023,48,52
-Alouette lulu,2022,48,59
+Alouette des champs,2023,49,52
+Alouette lulu,2023,49,59
 Autour des palombes,2017,0,3
 Bécasseau variable,2010,0,1
 Bécasse des bois,2021,1,0
 Bec-croisé des sapins,2020,2,10
 Bergeronnette des ruisseaux,2022,11,9
-Bergeronnette grise,2023,38,102
+Bergeronnette grise,2023,39,102
 Bondrée apivore,2021,12,12
 Bouvreuil pivoine,2021,2,14
 Bruant des roseaux,2018,0,6
 Bruant fou,2022,9,18
 Bruant jaune,2022,2,12
 Bruant ortolan,2021,6,20
-Bruant proyer,2023,34,66
-Bruant zizi,2023,57,101
+Bruant proyer,2023,35,66
+Bruant zizi,2023,59,101
 Busard cendré,2021,3,0
 Busard des roseaux,2018,0,4
 Busard Saint-Martin,2018,0,8
@@ -27,9 +27,9 @@ Canard colvert,2023,39,89
 Canard mandarin,2015,0,2
 Canard pilet,2021,2,0
 Canard siffleur,2016,0,1
-Canard souchet,2023,2,6
+Canard souchet,2023,3,6
 Cassenoix moucheté,2021,1,4
-Chardonneret élégant,2023,59,149
+Chardonneret élégant,2023,60,149
 Chevalier aboyeur,2020,1,0
 Chevalier culblanc,2019,1,2
 Chevalier guignette,2021,10,11
@@ -48,7 +48,7 @@ Crave à bec rouge,2020,1,13
 Échasse blanche,2021,2,0
 Engoulevent d'Europe,2022,9,23
 Épervier d'Europe,2023,9,28
-Étourneau sansonnet,2022,22,39
+Étourneau sansonnet,2023,23,39
 Faisan de Colchide,2022,3,6
 Faucon crécerelle,2023,42,94
 Faucon hobereau,2021,12,20
@@ -58,7 +58,7 @@ Fauvette à tête noire,2022,59,86
 Fauvette babillarde,2015,0,1
 Fauvette des jardins,2016,0,2
 Fauvette grisette,2021,9,23
-Fauvette mélanocéphale,2009,0,1
+Fauvette mélanocéphale,2023,1,1
 Fauvette orphée,2021,4,7
 Fauvette passerinette,2021,17,24
 Foulque macroule,2023,135,156
@@ -66,7 +66,7 @@ Fuligule milouin,2023,66,77
 Fuligule morillon,2021,6,4
 Fuligule nyroca,2021,13,0
 Gallinule poule-d'eau,2015,0,1
-Geai des chênes,2022,76,135
+Geai des chênes,2023,77,135
 Gobemouche gris,2021,1,2
 Gobemouche noir,2021,1,25
 Goéland brun,2018,0,1
@@ -89,11 +89,11 @@ Harle huppé,2021,2,0
 Héron cendré,2023,34,81
 Héron garde-boeufs,2020,1,0
 Hibou moyen-duc,2021,1,7
-Hirondelle de fenêtre,2022,45,90
+Hirondelle de fenêtre,2023,47,90
 Hirondelle de rivage,2019,1,2
 Hirondelle de rochers,2021,14,48
-Hirondelle rustique,2022,30,60
-Huppe fasciée,2023,28,50
+Hirondelle rustique,2023,31,60
+Huppe fasciée,2023,29,50
 Hypolaïs polyglotte,2022,5,15
 Labbe à longue queue,2014,0,2
 Linotte mélodieuse,2022,7,28
@@ -104,15 +104,15 @@ Martin-pêcheur d'Europe,2023,7,20
 Merle à plastron,2017,0,1
 Merle noir,2023,104,204
 Mésange à longue queue,2023,32,57
-Mésange bleue,2023,67,168
+Mésange bleue,2023,68,168
 Mésange boréale,2012,0,2
-Mésange charbonnière,2023,87,171
+Mésange charbonnière,2023,88,171
 Mésange huppée,2023,23,63
 Mésange noire,2023,20,56
 Mésange nonnette,2023,32,79
-Milan noir,2023,85,163
+Milan noir,2023,87,163
 Milan royal,2021,4,9
-Moineau domestique,2023,67,100
+Moineau domestique,2023,71,100
 Moineau friquet,2020,4,43
 Moineau soulcie,2022,15,50
 Monticole bleu,2021,1,0
@@ -128,12 +128,12 @@ Pic épeiche,2022,45,94
 Pic épeichette,2020,3,5
 Pic noir,2021,5,37
 Pic vert,2023,48,107
-Pie bavarde,2023,40,111
+Pie bavarde,2023,41,111
 Pie-grièche écorcheur,2022,36,60
 Pie-grièche grise,2016,0,1
 Pie-grièche méridionale,2016,0,1
-Pigeon biset domestique,2023,11,28
-Pigeon ramier,2023,43,58
+Pigeon biset domestique,2023,12,28
+Pigeon ramier,2023,44,58
 Pinson des arbres,2023,82,175
 Pinson du Nord,2020,19,49
 Pipit des arbres,2018,0,7
@@ -143,7 +143,7 @@ Pipit spioncelle,2021,3,2
 Pouillot de Bonelli,2022,41,48
 Pouillot fitis,2015,0,3
 Pouillot siffleur,2019,1,1
-Pouillot véloce,2022,36,52
+Pouillot véloce,2023,37,52
 Râle d'eau,2021,1,3
 Roitelet à triple bandeau,2023,9,12
 Roitelet huppé,2023,12,9
@@ -164,7 +164,7 @@ Tarin des aulnes,2022,35,60
 Tichodrome échelette,2013,0,3
 Torcol fourmilier,2022,20,30
 Tourterelle des bois,2021,27,43
-Tourterelle turque,2023,64,113
+Tourterelle turque,2023,67,113
 Traquet motteux,2021,1,4
 Troglodyte mignon,2023,12,26
 Vanneau huppé,2021,3,1
