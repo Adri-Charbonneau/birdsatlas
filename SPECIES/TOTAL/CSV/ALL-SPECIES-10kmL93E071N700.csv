@@ -1,15 +1,15 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,34,42
-Alouette des champs,2023,22,4
+Alouette des champs,2023,23,4
 Bécasse des bois,2023,1,0
 Bergeronnette des ruisseaux,2022,3,1
-Bergeronnette grise,2023,12,5
+Bergeronnette grise,2023,13,5
 Bergeronnette printanière,2019,3,0
 Bouvreuil pivoine,2020,1,1
 Bruant des roseaux,2023,1,0
-Bruant jaune,2022,11,2
+Bruant jaune,2023,12,2
 Bruant ortolan,2015,0,1
-Bruant proyer,2022,12,2
+Bruant proyer,2023,13,2
 Busard cendré,2019,8,1
 Busard des roseaux,2019,1,0
 Busard pâle,2020,1,0
@@ -17,13 +17,14 @@ Busard Saint-Martin,2021,12,7
 Buse variable,2023,33,4
 Caille des blés,2009,0,1
 Canard colvert,2023,22,2
-Chardonneret élégant,2023,19,23
+Chardonneret élégant,2023,20,23
+Chevalier gambette,2023,1,0
 Chevêche d'Athéna,2019,2,0
 Choucas des tours,2023,22,28
 Chouette hulotte,2021,8,0
-Cigogne blanche,2013,0,1
-Corbeau freux,2023,17,10
-Corneille noire,2023,20,32
+Cigogne blanche,2023,1,1
+Corbeau freux,2023,19,10
+Corneille noire,2023,21,32
 Coucou gris,2023,12,0
 Courlis cendré,2019,1,0
 Épervier d'Europe,2022,6,37
@@ -56,13 +57,13 @@ Héron garde-boeufs,2023,1,0
 Hibou des marais,2023,16,7
 Hibou moyen-duc,2019,5,0
 Hirondelle de fenêtre,2021,5,4
-Hirondelle rustique,2023,8,8
+Hirondelle rustique,2023,9,8
 Hypolaïs polyglotte,2020,1,0
 Linotte mélodieuse,2022,9,5
 Loriot d'Europe,2017,0,1
 Martinet noir,2022,14,5
 Martin-pêcheur d'Europe,2022,8,2
-Merle noir,2023,99,202
+Merle noir,2023,100,202
 Mésange à longue queue,2023,8,7
 Mésange bleue,2023,48,90
 Mésange charbonnière,2023,80,197
@@ -89,7 +90,7 @@ Pinson du Nord,2021,3,2
 Pipit farlouse,2023,9,1
 Pluvier doré,2022,1,1
 Pouillot à grands sourcils,2023,1,0
-Pouillot véloce,2023,11,8
+Pouillot véloce,2023,12,8
 Roitelet à triple bandeau,2022,1,0
 Roitelet huppé,2023,2,3
 Rossignol philomèle,2022,2,1
@@ -104,5 +105,5 @@ Tarin des aulnes,2022,1,3
 Tourterelle turque,2023,73,194
 Traquet motteux,2022,12,0
 Troglodyte mignon,2023,27,28
-Vanneau huppé,2023,12,2
+Vanneau huppé,2023,13,2
 Verdier d'Europe,2023,18,51
