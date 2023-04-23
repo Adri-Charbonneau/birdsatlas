@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,29,25
 Aigle botté,2022,1,0
-Aigrette garzette,2023,2,3
+Aigrette garzette,2023,3,3
 Alouette des champs,2023,123,95
 Alouette lulu,2021,2,1
 Avocette élégante,2014,0,1
@@ -57,9 +57,9 @@ Courlis corlieu,2022,4,1
 Cygne tuberculé,2023,40,45
 Effraie des clochers,2022,6,7
 Épervier d'Europe,2022,9,11
-Étourneau sansonnet,2023,165,95
+Étourneau sansonnet,2023,166,95
 Faisan de Colchide,2022,5,15
-Faucon crécerelle,2023,96,135
+Faucon crécerelle,2023,98,135
 Faucon émerillon,2021,1,0
 Faucon hobereau,2022,6,6
 Faucon pèlerin,2017,0,3
@@ -69,7 +69,7 @@ Fauvette des jardins,2021,13,10
 Fauvette grisette,2022,33,35
 Foulque macroule,2023,61,83
 Fuligule milouin,2023,19,8
-Fuligule morillon,2023,12,0
+Fuligule morillon,2023,13,0
 Gallinule poule-d'eau,2023,53,93
 Geai des chênes,2023,82,30
 Gobemouche gris,2021,8,3
@@ -90,6 +90,7 @@ Grosbec casse-noyaux,2022,33,23
 Guêpier d'Europe,2019,1,1
 Héron cendré,2023,42,53
 Héron pourpré,2021,1,5
+Hibou moyen-duc,2023,1,0
 Hirondelle de fenêtre,2022,30,24
 Hirondelle de rivage,2021,4,16
 Hirondelle rustique,2022,71,55
@@ -101,7 +102,7 @@ Loriot d'Europe,2022,12,17
 Martinet noir,2022,24,31
 Martin-pêcheur d'Europe,2021,8,16
 Merle à plastron,2021,2,1
-Merle noir,2023,337,151
+Merle noir,2023,338,151
 Mésange à longue queue,2023,22,22
 Mésange bleue,2023,256,88
 Mésange charbonnière,2023,318,110
@@ -150,7 +151,7 @@ Roitelet huppé,2022,7,4
 Rollier d'Europe,2022,1,0
 Rossignol philomèle,2022,43,27
 Rougegorge familier,2023,191,77
-Rougequeue à front blanc,2022,38,18
+Rougequeue à front blanc,2023,39,18
 Rougequeue noir,2023,61,69
 Rousserolle effarvatte,2021,3,17
 Rousserolle turdoïde,2014,0,1
@@ -169,4 +170,4 @@ Tourterelle turque,2023,173,92
 Traquet motteux,2022,8,9
 Troglodyte mignon,2023,110,69
 Vanneau huppé,2022,21,39
-Verdier d'Europe,2023,92,72
+Verdier d'Europe,2023,93,72
