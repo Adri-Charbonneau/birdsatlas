@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,49,71
-Aigle botté,2015,0,3
+Aigle botté,2023,1,3
 Aigrette garzette,2018,0,5
 Alouette des champs,2023,30,90
 Alouette lulu,2023,123,73
@@ -37,7 +37,7 @@ Chevalier guignette,2019,4,9
 Chevêche d'Athéna,2023,4,6
 Choucas des tours,2022,32,25
 Chouette hulotte,2021,6,32
-Cigogne blanche,2023,104,78
+Cigogne blanche,2023,105,78
 Cigogne noire,2019,1,17
 Corbeau freux,2023,22,17
 Corneille noire,2023,258,406
@@ -53,7 +53,7 @@ Faisan de Colchide,2023,12,24
 Faucon crécerelle,2023,113,262
 Faucon hobereau,2022,13,26
 Faucon pèlerin,2018,0,6
-Fauvette à tête noire,2023,263,182
+Fauvette à tête noire,2023,264,182
 Fauvette babillarde,2020,44,64
 Fauvette des jardins,2022,14,15
 Fauvette grisette,2023,147,73
@@ -74,21 +74,21 @@ Grive draine,2023,25,53
 Grive litorne,2022,5,25
 Grive mauvis,2022,7,22
 Grive musicienne,2022,16,36
-Grosbec casse-noyaux,2023,39,148
+Grosbec casse-noyaux,2023,40,148
 Guêpier d'Europe,2022,47,28
 Guifette moustac,2013,0,1
 Héron cendré,2023,240,249
-Héron garde-boeufs,2023,118,9
+Héron garde-boeufs,2023,119,9
 Hibou des marais,2019,1,0
 Hibou moyen-duc,2022,12,3
 Hirondelle de fenêtre,2023,20,61
 Hirondelle de rivage,2021,1,0
-Hirondelle rustique,2023,136,236
-Huppe fasciée,2023,127,135
+Hirondelle rustique,2023,137,236
+Huppe fasciée,2023,128,135
 Hypolaïs polyglotte,2022,38,63
 Linotte mélodieuse,2022,15,43
 Locustelle tachetée,2020,2,2
-Loriot d'Europe,2022,117,161
+Loriot d'Europe,2023,118,161
 Martinet noir,2022,9,21
 Martin-pêcheur d'Europe,2023,19,15
 Merle noir,2023,302,534
@@ -117,7 +117,7 @@ Pic noir,2023,31,21
 Pic vert,2023,149,133
 Pie bavarde,2023,210,463
 Pie-grièche à tête rousse,2022,18,38
-Pie-grièche écorcheur,2022,68,124
+Pie-grièche écorcheur,2023,69,124
 Pigeon biset domestique,2022,11,8
 Pigeon ramier,2023,352,369
 Pinson des arbres,2023,284,472
@@ -125,12 +125,12 @@ Pinson du Nord,2023,14,41
 Pipit des arbres,2021,4,10
 Pipit farlouse,2021,2,9
 Pipit spioncelle,2021,1,0
-Pouillot fitis,2023,18,20
+Pouillot fitis,2023,19,20
 Pouillot siffleur,2021,2,2
 Pouillot véloce,2023,113,138
 Roitelet à triple bandeau,2021,17,33
 Roitelet huppé,2023,2,8
-Rossignol philomèle,2023,214,138
+Rossignol philomèle,2023,215,138
 Rougegorge familier,2023,166,359
 Rougequeue à front blanc,2023,37,77
 Rougequeue noir,2023,141,107
