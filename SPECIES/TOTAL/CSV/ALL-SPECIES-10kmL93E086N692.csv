@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,33,31
-Aigrette garzette,2023,6,20
+Aigrette garzette,2023,7,20
 Alouette des champs,2023,85,37
 Alouette lulu,2021,5,4
 Autour des palombes,2019,5,12
@@ -18,7 +18,7 @@ Bergeronnette des ruisseaux,2022,5,4
 Bergeronnette flavéole (M.f.flavissima),2013,0,7
 Bergeronnette grise,2023,111,83
 Bergeronnette printanière,2023,76,79
-Bernache du Canada,2023,202,100
+Bernache du Canada,2023,204,100
 Bernache nonnette,2022,3,5
 Bondrée apivore,2021,10,16
 Bouscarle de Cetti,2009,0,1
@@ -38,18 +38,18 @@ Canard pilet,2023,85,146
 Canard siffleur,2023,167,186
 Canard souchet,2023,95,150
 Chardonneret élégant,2023,44,46
-Chevalier aboyeur,2023,70,95
+Chevalier aboyeur,2023,72,95
 Chevalier arlequin,2023,4,14
 Chevalier culblanc,2023,77,168
 Chevalier gambette,2023,39,76
-Chevalier guignette,2022,33,137
+Chevalier guignette,2023,34,137
 Chevalier sylvain,2023,37,44
 Chevêche d'Athéna,2021,6,6
 Choucas des tours,2023,10,11
 Chouette hulotte,2021,7,18
-Cigogne blanche,2023,189,101
+Cigogne blanche,2023,190,101
 Cigogne noire,2022,18,24
-Combattant varié,2023,39,46
+Combattant varié,2023,41,46
 Corbeau freux,2021,4,11
 Corneille noire,2023,100,47
 Coucou gris,2023,63,67
@@ -67,10 +67,10 @@ Faisan de Colchide,2023,6,21
 Faisan vénéré,2019,1,0
 Faucon crécerelle,2023,54,76
 Faucon émerillon,2023,3,6
-Faucon hobereau,2022,20,99
+Faucon hobereau,2023,22,99
 Faucon pèlerin,2023,4,11
-Fauvette à tête noire,2023,99,64
-Fauvette babillarde,2023,35,50
+Fauvette à tête noire,2023,100,64
+Fauvette babillarde,2023,37,50
 Fauvette des jardins,2023,43,46
 Fauvette grisette,2023,37,45
 Foulque macroule,2023,238,251
@@ -89,7 +89,7 @@ Goéland cendré,2023,7,19
 Goéland leucophée,2023,17,27
 Grand Corbeau,2023,17,17
 Grand Cormoran,2023,245,282
-Grande Aigrette,2023,334,503
+Grande Aigrette,2023,336,503
 Grand Gravelot,2022,3,15
 Grèbe à cou noir,2022,6,57
 Grèbe castagneux,2023,100,127
@@ -106,7 +106,7 @@ Grosbec casse-noyaux,2023,14,25
 Guêpier d'Europe,2022,3,1
 Guifette leucoptère,2016,0,4
 Guifette moustac,2021,5,10
-Guifette noire,2022,15,103
+Guifette noire,2023,17,103
 Harle bièvre,2022,14,18
 Harle huppé,2009,0,2
 Harle piette,2023,66,86
@@ -140,24 +140,24 @@ Mésange charbonnière,2023,94,76
 Mésange huppée,2023,4,9
 Mésange noire,2021,1,3
 Mésange nonnette,2022,15,30
-Milan noir,2023,54,122
+Milan noir,2023,55,122
 Milan royal,2023,35,67
 Moineau domestique,2022,41,53
 Moineau friquet,2023,26,58
-Mouette mélanocéphale,2011,0,4
+Mouette mélanocéphale,2023,1,4
 Mouette pygmée,2021,2,15
-Mouette rieuse,2023,41,45
+Mouette rieuse,2023,42,45
 Nette demi-deuil,2018,0,3
 Nette rousse,2023,19,77
 Oie à tête barrée,2021,3,0
-Oie cendrée,2023,343,168
+Oie cendrée,2023,345,168
 Oie des moissons,2022,6,9
 Oie rieuse,2023,38,10
-Ouette d'Egypte,2023,247,287
+Ouette d'Egypte,2023,249,287
 Pélican frisé,2017,0,1
 Perdrix grise,2021,1,7
 Perruche à collier,2018,0,1
-Petit Gravelot,2023,64,139
+Petit Gravelot,2023,68,139
 Phragmite des joncs,2021,16,19
 Pic cendré,2018,0,1
 Pic épeiche,2023,44,47
@@ -179,7 +179,7 @@ Pipit farlouse,2022,18,27
 Pipit rousseline,2009,0,1
 Pipit spioncelle,2023,62,84
 Plongeon imbrin,2010,0,5
-Pluvier argenté,2014,0,4
+Pluvier argenté,2023,1,4
 Pluvier doré,2023,9,28
 Pouillot fitis,2023,48,43
 Pouillot siffleur,2022,6,10
@@ -196,13 +196,13 @@ Rougequeue noir,2023,28,34
 Rousserolle effarvatte,2023,15,21
 Rousserolle turdoïde,2021,2,4
 Rousserolle verderolle,2022,5,7
-Sarcelle d'été,2023,24,56
+Sarcelle d'été,2023,25,56
 Sarcelle d'hiver,2023,129,160
 Serin cini,2022,1,1
 Sittelle torchepot,2023,21,26
 Spatule blanche,2021,1,1
 Sterne naine,2015,0,3
-Sterne pierregarin,2023,119,226
+Sterne pierregarin,2023,120,226
 Tadorne casarca,2023,8,9
 Tadorne de Belon,2022,14,21
 Tarier des prés,2022,12,36
@@ -212,7 +212,7 @@ Torcol fourmilier,2023,5,11
 Tournepierre à collier,2018,0,1
 Tourterelle des bois,2022,22,25
 Tourterelle turque,2022,14,23
-Traquet motteux,2022,5,22
+Traquet motteux,2023,6,22
 Troglodyte mignon,2023,47,45
 Vanneau huppé,2023,142,212
 Verdier d'Europe,2023,36,35
