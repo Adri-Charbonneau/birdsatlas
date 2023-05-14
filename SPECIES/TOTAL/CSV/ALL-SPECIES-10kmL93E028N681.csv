@@ -1,17 +1,17 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,11,5
 Aigrette garzette,2022,1,0
-Alouette des champs,2022,4,5
-Alouette lulu,2020,1,2
+Alouette des champs,2023,5,5
+Alouette lulu,2023,2,2
 Autour des palombes,2012,0,1
 Bécasse des bois,2019,1,0
 Bécassine sourde,2020,1,0
 Bergeronnette des ruisseaux,2022,9,4
 Bergeronnette grise,2022,10,5
 Bondrée apivore,2009,0,1
-Bouvreuil pivoine,2009,0,2
-Bruant jaune,2022,9,5
-Bruant zizi,2023,4,1
+Bouvreuil pivoine,2023,2,2
+Bruant jaune,2023,10,5
+Bruant zizi,2023,5,1
 Busard Saint-Martin,2017,0,2
 Buse variable,2022,10,10
 Calopsitte élégante,2022,1,0
@@ -43,7 +43,7 @@ Grande Aigrette,2023,3,0
 Grèbe castagneux,2022,2,2
 Grèbe huppé,2009,0,1
 Grimpereau des jardins,2023,5,2
-Grive draine,2023,5,4
+Grive draine,2023,6,4
 Grive mauvis,2022,4,1
 Grive musicienne,2022,3,4
 Grosbec casse-noyaux,2021,1,1
@@ -55,6 +55,7 @@ Hirondelle de rivage,2023,1,0
 Hirondelle rustique,2023,16,9
 Hypolaïs polyglotte,2021,1,1
 Linotte mélodieuse,2022,3,3
+Locustelle tachetée,2023,1,0
 Martinet noir,2023,7,4
 Martin-pêcheur d'Europe,2023,7,1
 Merle noir,2022,22,7
@@ -79,10 +80,10 @@ Pigeon biset domestique,2023,2,1
 Pigeon colombin,2022,4,1
 Pigeon ramier,2022,19,6
 Pinson des arbres,2023,25,11
-Pipit des arbres,2022,3,3
-Pipit farlouse,2020,2,0
+Pipit des arbres,2023,4,3
+Pipit farlouse,2023,3,0
 Pluvier doré,2009,0,1
-Pouillot fitis,2009,0,1
+Pouillot fitis,2023,1,1
 Pouillot véloce,2022,7,3
 Roitelet à triple bandeau,2020,1,2
 Roitelet huppé,2023,5,1
@@ -91,11 +92,11 @@ Rougequeue noir,2009,0,1
 Sarcelle d'hiver,2021,1,1
 Serin cini,2009,0,1
 Sittelle torchepot,2023,4,3
-Tarier pâtre,2022,4,3
+Tarier pâtre,2023,5,3
 Tarin des aulnes,2022,3,1
 Tourterelle des bois,2022,3,1
 Tourterelle turque,2022,4,5
-Traquet motteux,2023,1,1
+Traquet motteux,2023,2,1
 Troglodyte mignon,2023,10,4
 Vanneau huppé,2022,1,2
-Verdier d'Europe,2022,5,4
+Verdier d'Europe,2023,6,4
