@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,13,21
 Aigrette garzette,2016,0,2
-Alouette des champs,2022,37,63
+Alouette des champs,2023,39,63
 Alouette lulu,2022,4,2
 Autour des palombes,2019,1,4
 Bécasse des bois,2022,1,0
@@ -10,13 +10,13 @@ Bécassine sourde,2023,1,0
 Bec-croisé des sapins,2016,0,2
 Bergeronnette des ruisseaux,2023,3,13
 Bergeronnette grise,2023,27,59
-Bergeronnette printanière,2022,7,12
+Bergeronnette printanière,2023,8,12
 Bernache du Canada,2017,0,6
 Bihoreau gris,2018,0,1
 Bondrée apivore,2017,0,2
 Bouvreuil pivoine,2021,2,4
 Bruant des roseaux,2023,13,27
-Bruant jaune,2023,41,94
+Bruant jaune,2023,42,94
 Bruant proyer,2011,0,4
 Bruant zizi,2021,1,0
 Busard des roseaux,2022,5,4
@@ -25,7 +25,7 @@ Buse variable,2023,124,185
 Caille des blés,2020,1,4
 Canard à collier noir,2016,0,1
 Canard chipeau,2021,2,3
-Canard colvert,2023,24,58
+Canard colvert,2023,26,58
 Canard pilet,2021,2,0
 Canard siffleur,2018,0,5
 Chardonneret élégant,2023,19,64
@@ -34,27 +34,27 @@ Chevalier guignette,2021,1,4
 Chevêche d'Athéna,2023,80,56
 Choucas des tours,2022,2,10
 Chouette hulotte,2020,3,3
-Cigogne blanche,2023,148,181
+Cigogne blanche,2023,149,181
 Cigogne noire,2022,1,2
 Cincle plongeur,2012,0,2
 Combattant varié,2007,0,1
 Corbeau freux,2023,11,52
 Corneille noire,2023,58,103
-Coucou gris,2023,25,40
+Coucou gris,2023,27,40
 Courlis cendré,2022,8,83
 Cygne tuberculé,2022,13,49
 Effraie des clochers,2022,18,23
 Épervier d'Europe,2023,15,31
 Étourneau sansonnet,2022,59,69
-Faisan de Colchide,2023,49,77
-Faucon crécerelle,2023,85,135
+Faisan de Colchide,2023,50,77
+Faucon crécerelle,2023,86,135
 Faucon émerillon,2011,0,2
 Faucon hobereau,2022,3,8
 Faucon pèlerin,2022,3,6
-Fauvette à tête noire,2023,98,97
+Fauvette à tête noire,2023,99,97
 Fauvette babillarde,2022,4,9
-Fauvette des jardins,2023,11,36
-Fauvette grisette,2023,41,75
+Fauvette des jardins,2023,12,36
+Fauvette grisette,2023,42,75
 Foulque macroule,2022,3,2
 Gallinule poule-d'eau,2023,15,20
 Geai des chênes,2023,50,71
@@ -63,7 +63,7 @@ Gobemouche noir,2015,0,1
 Goéland cendré,2016,0,1
 Goéland leucophée,2022,6,22
 Grand Corbeau,2023,3,0
-Grand Cormoran,2023,24,62
+Grand Cormoran,2023,25,62
 Grande Aigrette,2023,31,67
 Grèbe castagneux,2022,3,2
 Grimpereau des bois,2017,0,6
@@ -74,8 +74,8 @@ Grive mauvis,2022,2,6
 Grive musicienne,2023,8,29
 Grosbec casse-noyaux,2022,4,15
 Guêpier d'Europe,2022,17,1
-Héron cendré,2023,67,107
-Hibou moyen-duc,2023,32,64
+Héron cendré,2023,68,107
+Hibou moyen-duc,2023,33,64
 Hirondelle de fenêtre,2022,13,31
 Hirondelle rustique,2022,43,40
 Huppe fasciée,2007,0,2
@@ -83,14 +83,14 @@ Hypolaïs ictérine,2015,0,5
 Hypolaïs polyglotte,2016,0,3
 Linotte mélodieuse,2022,14,27
 Locustelle tachetée,2022,1,0
-Loriot d'Europe,2022,25,45
+Loriot d'Europe,2023,26,45
 Martinet noir,2023,12,14
-Martin-pêcheur d'Europe,2023,16,31
+Martin-pêcheur d'Europe,2023,17,31
 Merle noir,2023,130,116
-Mésange à longue queue,2023,2,27
-Mésange bleue,2023,59,75
+Mésange à longue queue,2023,4,27
+Mésange bleue,2023,60,75
 Mésange boréale,2018,0,7
-Mésange charbonnière,2023,127,104
+Mésange charbonnière,2023,128,104
 Mésange huppée,2015,0,1
 Mésange noire,2021,2,3
 Mésange nonnette,2019,2,8
@@ -114,12 +114,12 @@ Pic noir,2022,3,3
 Pic vert,2023,39,88
 Pie bavarde,2023,48,77
 Pie-grièche à tête rousse,2009,0,1
-Pie-grièche écorcheur,2022,51,54
+Pie-grièche écorcheur,2023,52,54
 Pie-grièche grise,2020,1,7
 Pigeon biset domestique,2021,8,17
 Pigeon colombin,2012,0,2
 Pigeon ramier,2023,66,87
-Pinson des arbres,2023,76,98
+Pinson des arbres,2023,78,98
 Pinson du Nord,2022,5,16
 Pipit des arbres,2018,0,6
 Pipit farlouse,2021,5,22
@@ -131,11 +131,11 @@ Râle d'eau,2022,1,0
 Râle des genêts,2016,0,3
 Roitelet à triple bandeau,2018,0,2
 Roitelet huppé,2020,2,4
-Rossignol philomèle,2023,74,76
+Rossignol philomèle,2023,77,76
 Rougegorge familier,2023,68,56
 Rougequeue à front blanc,2019,2,6
 Rougequeue noir,2023,64,54
-Rousserolle effarvatte,2022,14,43
+Rousserolle effarvatte,2023,17,43
 Rousserolle verderolle,2022,6,15
 Sarcelle d'été,2016,0,1
 Sarcelle d'hiver,2021,1,1
