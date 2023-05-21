@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,47,44
-Alouette des champs,2023,267,167
+Alouette des champs,2023,268,167
 Alouette lulu,2020,4,9
 Autour des palombes,2022,4,10
 Bécasse des bois,2023,8,19
@@ -8,10 +8,10 @@ Bécassine des marais,2020,1,2
 Bec-croisé des sapins,2022,3,8
 Bergeronnette des ruisseaux,2023,13,33
 Bergeronnette grise,2023,74,109
-Bergeronnette printanière,2023,69,27
+Bergeronnette printanière,2023,70,27
 Bernache du Canada,2020,3,0
 Bihoreau gris,2021,1,0
-Bondrée apivore,2023,10,15
+Bondrée apivore,2023,12,15
 Bouvreuil pivoine,2023,23,34
 Bruant des roseaux,2020,4,9
 Bruant jaune,2023,192,140
@@ -19,9 +19,9 @@ Bruant proyer,2018,0,8
 Busard cendré,2012,0,2
 Busard des roseaux,2023,6,9
 Busard Saint-Martin,2023,12,27
-Buse variable,2023,189,355
+Buse variable,2023,201,355
 Caille des blés,2022,6,11
-Canard colvert,2023,10,19
+Canard colvert,2023,11,19
 Canard mandarin,2022,3,0
 Chardonneret élégant,2023,40,31
 Chevalier culblanc,2023,2,5
@@ -30,24 +30,24 @@ Chevêche d'Athéna,2022,25,50
 Choucas des tours,2021,22,46
 Chouette hulotte,2023,32,60
 Cigogne blanche,2023,5,4
-Cigogne noire,2023,28,68
+Cigogne noire,2023,32,68
 Cincle plongeur,2016,0,1
 Corbeau freux,2022,20,27
-Corneille noire,2023,160,130
-Coucou gris,2023,17,11
+Corneille noire,2023,161,130
+Coucou gris,2023,19,11
 Courlis cendré,2020,1,0
 Cygne tuberculé,2012,0,4
 Effraie des clochers,2023,19,52
-Épervier d'Europe,2023,27,47
+Épervier d'Europe,2023,29,47
 Étourneau sansonnet,2022,104,125
 Faisan de Colchide,2021,62,6
-Faucon crécerelle,2023,60,105
+Faucon crécerelle,2023,66,105
 Faucon émerillon,2021,2,3
 Faucon hobereau,2023,5,13
 Fauvette à tête noire,2023,216,52
 Fauvette babillarde,2023,18,18
-Fauvette des jardins,2023,18,6
-Fauvette grisette,2023,72,22
+Fauvette des jardins,2023,20,6
+Fauvette grisette,2023,77,22
 Foulque macroule,2016,0,1
 Fuligule milouin,2012,0,1
 Gallinule poule-d'eau,2023,6,13
@@ -67,50 +67,50 @@ Grive litorne,2022,11,74
 Grive mauvis,2021,8,22
 Grive musicienne,2023,100,71
 Grosbec casse-noyaux,2022,35,48
-Héron cendré,2023,34,37
+Héron cendré,2023,35,37
 Hibou des marais,2014,0,1
 Hibou moyen-duc,2023,10,20
 Hirondelle de fenêtre,2022,10,17
 Hirondelle rustique,2022,81,46
 Huppe fasciée,2023,2,4
 Hypolaïs polyglotte,2022,12,10
-Linotte mélodieuse,2023,178,75
+Linotte mélodieuse,2023,179,75
 Locustelle tachetée,2013,0,5
-Loriot d'Europe,2023,26,37
+Loriot d'Europe,2023,27,37
 Martinet noir,2022,5,6
 Martin-pêcheur d'Europe,2023,6,23
 Merle à plastron,2023,3,1
-Merle noir,2023,244,139
+Merle noir,2023,245,139
 Mésange à longue queue,2023,19,42
 Mésange bleue,2023,93,74
 Mésange boréale,2020,3,11
-Mésange charbonnière,2023,175,97
+Mésange charbonnière,2023,176,97
 Mésange huppée,2018,0,7
 Mésange noire,2015,0,3
 Mésange nonnette,2023,11,34
-Milan noir,2023,33,28
-Milan royal,2023,56,63
+Milan noir,2023,34,28
+Milan royal,2023,61,63
 Moineau domestique,2022,47,44
 Moineau friquet,2020,2,14
 Mouette rieuse,2016,0,7
 Nette rousse,2012,0,1
 Oie cendrée,2014,0,2
 Ouette d'Egypte,2018,0,4
-Perdrix grise,2023,19,58
+Perdrix grise,2023,20,58
 Perdrix rouge,2012,0,1
 Pic épeiche,2023,48,61
 Pic épeichette,2022,6,8
 Pic mar,2022,2,11
 Pic noir,2023,29,38
 Pic vert,2023,69,87
-Pie bavarde,2023,33,27
+Pie bavarde,2023,34,27
 Pie-grièche à tête rousse,2020,1,0
-Pie-grièche écorcheur,2023,76,57
+Pie-grièche écorcheur,2023,84,57
 Pie-grièche grise,2012,0,3
 Pigeon biset domestique,2022,15,7
 Pigeon colombin,2021,10,25
 Pigeon ramier,2023,212,127
-Pinson des arbres,2023,257,213
+Pinson des arbres,2023,258,213
 Pinson du Nord,2020,8,31
 Pipit à gorge rousse,2022,1,0
 Pipit des arbres,2023,54,33
@@ -131,11 +131,11 @@ Sarcelle d'hiver,2015,0,1
 Serin cini,2018,0,4
 Sittelle torchepot,2023,30,59
 Tarier des prés,2023,5,6
-Tarier pâtre,2023,51,58
+Tarier pâtre,2023,54,58
 Tarin des aulnes,2023,22,51
 Torcol fourmilier,2021,3,1
 Tournepierre à collier,2012,0,2
-Tourterelle des bois,2023,16,25
+Tourterelle des bois,2023,17,25
 Tourterelle turque,2022,49,21
 Traquet motteux,2023,7,19
 Troglodyte mignon,2023,116,86
