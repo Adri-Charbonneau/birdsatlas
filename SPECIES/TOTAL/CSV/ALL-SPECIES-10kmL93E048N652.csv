@@ -2,7 +2,7 @@ frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,34,65
 Aigrette garzette,2023,4,4
 Alouette des champs,2023,164,71
-Alouette lulu,2023,27,2
+Alouette lulu,2023,28,2
 Autour des palombes,2022,4,0
 Bécasseau variable,2023,5,0
 Bécasse des bois,2022,2,1
@@ -20,9 +20,9 @@ Bruant proyer,2023,25,7
 Bruant zizi,2023,44,38
 Busard cendré,2023,2,3
 Busard des roseaux,2022,3,0
-Busard Saint-Martin,2023,53,39
-Buse variable,2023,128,179
-Caille des blés,2023,96,10
+Busard Saint-Martin,2023,54,39
+Buse variable,2023,131,179
+Caille des blés,2023,106,10
 Canard colvert,2023,12,12
 Canard pilet,2018,0,1
 Canard souchet,2018,0,4
@@ -43,8 +43,8 @@ Cisticole des joncs,2022,4,2
 Cochevis huppé,2016,0,2
 Combattant varié,2023,10,0
 Corbeau freux,2023,6,1
-Corneille noire,2023,93,114
-Coucou gris,2023,89,70
+Corneille noire,2023,99,114
+Coucou gris,2023,99,70
 Courlis cendré,2023,3,0
 Cygne tuberculé,2021,4,1
 Échasse blanche,2023,3,4
@@ -52,13 +52,13 @@ Effraie des clochers,2023,38,37
 Élanion blanc,2023,17,0
 Engoulevent d'Europe,2023,9,0
 Épervier d'Europe,2023,67,25
-Étourneau sansonnet,2023,122,139
+Étourneau sansonnet,2023,123,139
 Faisan de Colchide,2023,11,13
 Faucon crécerelle,2023,109,114
 Faucon émerillon,2023,4,3
 Faucon hobereau,2021,1,4
 Faucon pèlerin,2023,12,1
-Fauvette à tête noire,2023,151,62
+Fauvette à tête noire,2023,170,62
 Fauvette des jardins,2021,1,0
 Fauvette grisette,2022,10,5
 Foulque macroule,2023,3,0
@@ -74,11 +74,11 @@ Grande Aigrette,2023,22,43
 Grand Gravelot,2023,6,4
 Grèbe castagneux,2022,3,1
 Grèbe huppé,2009,0,1
-Grimpereau des jardins,2023,58,14
-Grive draine,2023,20,16
+Grimpereau des jardins,2023,61,14
+Grive draine,2023,21,16
 Grive litorne,2023,4,8
 Grive mauvis,2022,2,2
-Grive musicienne,2023,106,50
+Grive musicienne,2023,112,50
 Grosbec casse-noyaux,2023,39,60
 Guêpier d'Europe,2022,1,0
 Héron cendré,2023,53,79
@@ -91,16 +91,16 @@ Huîtrier pie,2007,0,1
 Huppe fasciée,2023,62,104
 Hypolaïs polyglotte,2022,12,5
 Linotte mélodieuse,2023,45,12
-Loriot d'Europe,2023,35,28
+Loriot d'Europe,2023,39,28
 Martinet noir,2022,7,11
 Martin-pêcheur d'Europe,2021,4,8
-Merle noir,2023,314,232
-Mésange à longue queue,2023,29,18
-Mésange bleue,2023,173,143
-Mésange charbonnière,2023,229,216
+Merle noir,2023,334,232
+Mésange à longue queue,2023,30,18
+Mésange bleue,2023,181,143
+Mésange charbonnière,2023,241,216
 Mésange huppée,2020,1,2
 Mésange noire,2021,3,3
-Mésange nonnette,2022,3,7
+Mésange nonnette,2023,6,7
 Milan noir,2023,39,29
 Milan royal,2022,8,7
 Moineau domestique,2023,179,172
@@ -116,46 +116,46 @@ Perdrix grise,2021,2,1
 Perdrix rouge,2022,12,14
 Petit-duc scops,2023,5,23
 Petit Gravelot,2023,33,2
-Pic épeiche,2023,66,32
+Pic épeiche,2023,73,32
 Pic épeichette,2018,0,3
 Pic mar,2023,3,2
 Pic noir,2023,16,13
-Pic vert,2023,49,63
+Pic vert,2023,50,63
 Pie bavarde,2023,104,235
 Pie-grièche écorcheur,2021,4,7
 Pigeon biset domestique,2023,31,12
 Pigeon colombin,2023,7,2
-Pigeon ramier,2023,232,165
-Pinson des arbres,2023,310,209
+Pigeon ramier,2023,258,165
+Pinson des arbres,2023,328,209
 Pinson du Nord,2022,32,32
 Pipit des arbres,2023,15,11
 Pipit farlouse,2023,39,10
 Pipit spioncelle,2023,4,4
 Pluvier doré,2023,12,26
-Pouillot de Bonelli,2023,23,16
+Pouillot de Bonelli,2023,26,16
 Pouillot fitis,2021,1,1
-Pouillot véloce,2023,152,34
-Roitelet à triple bandeau,2023,24,11
+Pouillot véloce,2023,162,34
+Roitelet à triple bandeau,2023,31,11
 Roitelet huppé,2022,1,1
 Rossignol philomèle,2023,32,16
-Rougegorge familier,2023,293,173
+Rougegorge familier,2023,318,173
 Rougequeue à front blanc,2023,29,38
 Rougequeue noir,2023,87,120
 Rousserolle effarvatte,2009,0,1
 Sarcelle d'hiver,2018,0,1
 Serin cini,2022,4,3
-Sittelle torchepot,2023,38,21
+Sittelle torchepot,2023,40,21
 Tadorne casarca,2023,1,0
 Tadorne de Belon,2021,3,4
 Tarier des prés,2020,4,2
 Tarier pâtre,2023,34,25
 Tarin des aulnes,2023,2,0
 Torcol fourmilier,2022,1,2
-Tourterelle des bois,2023,73,56
+Tourterelle des bois,2023,86,56
 Tourterelle turque,2023,152,287
 Traquet motteux,2020,1,5
-Troglodyte mignon,2023,53,35
+Troglodyte mignon,2023,55,35
 Vanneau huppé,2023,51,96
 Vanneau sociable,2016,0,1
 Vautour fauve,2020,1,0
-Verdier d'Europe,2023,53,76
+Verdier d'Europe,2023,54,76
