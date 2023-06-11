@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,7,12
 Aigrette garzette,2023,114,63
-Alouette des champs,2023,32,32
+Alouette des champs,2023,33,32
 Alouette lulu,2023,23,18
 Autour des palombes,2022,7,4
 Avocette élégante,2023,2,0
@@ -23,16 +23,16 @@ Bihoreau gris,2016,0,1
 Bondrée apivore,2023,22,11
 Bouvreuil pivoine,2023,15,11
 Bruant des roseaux,2023,21,27
-Bruant jaune,2023,36,40
+Bruant jaune,2023,37,40
 Bruant ortolan,2012,0,2
 Bruant proyer,2022,15,18
-Bruant zizi,2023,20,10
+Bruant zizi,2023,21,10
 Busard cendré,2022,2,5
 Busard des roseaux,2023,32,28
 Busard Saint-Martin,2023,6,12
 Buse variable,2023,190,150
 Butor étoilé,2013,0,3
-Caille des blés,2023,4,7
+Caille des blés,2023,5,7
 Canard carolin,2012,0,1
 Canard chipeau,2023,112,140
 Canard colvert,2023,152,199
@@ -69,14 +69,14 @@ Effraie des clochers,2022,9,8
 Épervier d'Europe,2023,28,21
 Étourneau sansonnet,2023,36,34
 Faisan de Colchide,2020,3,7
-Faucon crécerelle,2023,45,43
+Faucon crécerelle,2023,46,43
 Faucon émerillon,2014,0,2
 Faucon hobereau,2023,42,23
-Faucon pèlerin,2023,109,13
+Faucon pèlerin,2023,110,13
 Fauvette à tête noire,2023,51,57
 Fauvette babillarde,2023,16,15
 Fauvette des jardins,2023,4,10
-Fauvette grisette,2022,5,21
+Fauvette grisette,2023,6,21
 Foulque macroule,2023,173,233
 Fuligule milouin,2023,88,102
 Fuligule morillon,2023,74,83
@@ -94,7 +94,7 @@ Grand Cormoran,2023,109,213
 Grand-duc d'Europe,2023,7,20
 Grande Aigrette,2023,255,363
 Grand Gravelot,2022,51,37
-Grèbe à cou noir,2023,8,13
+Grèbe à cou noir,2023,9,13
 Grèbe castagneux,2023,96,161
 Grèbe huppé,2023,191,270
 Grimpereau des bois,2023,4,1
@@ -107,7 +107,7 @@ Grosbec casse-noyaux,2023,10,13
 Guêpier d'Europe,2012,0,1
 Guifette leucoptère,2023,2,0
 Guifette moustac,2023,8,6
-Guifette noire,2023,40,47
+Guifette noire,2023,41,47
 Harle bièvre,2022,7,3
 Héron cendré,2023,142,253
 Héron garde-boeufs,2023,73,1
@@ -118,7 +118,7 @@ Hirondelle de rivage,2023,20,3
 Hirondelle rustique,2023,74,50
 Huîtrier pie,2022,24,1
 Huppe fasciée,2023,45,33
-Hypolaïs polyglotte,2020,2,8
+Hypolaïs polyglotte,2023,3,8
 Ibis falcinelle,2023,2,0
 Labbe parasite,2022,4,11
 Linotte mélodieuse,2022,17,22
@@ -135,8 +135,8 @@ Mésange charbonnière,2023,78,106
 Mésange huppée,2021,1,7
 Mésange noire,2021,5,4
 Mésange nonnette,2022,7,29
-Milan noir,2023,127,80
-Milan royal,2023,475,155
+Milan noir,2023,128,80
+Milan royal,2023,479,155
 Moineau domestique,2023,34,62
 Moineau friquet,2020,3,11
 Mouette mélanocéphale,2023,31,9
@@ -208,4 +208,4 @@ Traquet motteux,2023,3,4
 Troglodyte mignon,2023,57,53
 Vanneau huppé,2023,96,124
 Vautour fauve,2011,0,1
-Verdier d'Europe,2022,7,31
+Verdier d'Europe,2023,8,31
