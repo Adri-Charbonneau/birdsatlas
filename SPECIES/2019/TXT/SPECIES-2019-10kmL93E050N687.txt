@@ -1,15 +1,7 @@
 
-frname                 lastobs newcount oldcount
-------                 ------- -------- --------
-Autour des palombes    2018    0        1
-Bécassine des marais   2017    0        2
-Bruant des roseaux     2018    0        1
-Goéland argenté        2018    0        2
-Hirondelle de rivage   2017    0        1
-Milan royal            2018    0        2
-Moineau friquet        2009    0        1
-Mouette rieuse         2017    0        2
-Pipit spioncelle       2019    0        2
-Rousserolle verderolle 2017    0        1
-Sarcelle d'hiver       2017    0        1
+frname          lastobs newcount oldcount
+------          ------- -------- --------
+Goéland argenté 2018    0        1
+Milan royal     2018    0        1
+Moineau friquet 2009    0        1
 
