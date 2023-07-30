@@ -1,14 +1,14 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,32,6
-Aigrette garzette,2023,40,4
+Aigrette garzette,2023,41,4
 Alouette des champs,2021,2,0
 Alouette lulu,2021,1,0
 Avocette élégante,2019,1,0
 Bécasseau sanderling,2023,62,4
 Bécasseau variable,2023,4,0
 Bécassine des marais,2022,1,1
-Bergeronnette des ruisseaux,2020,2,2
-Bergeronnette grise,2023,12,5
+Bergeronnette des ruisseaux,2023,3,2
+Bergeronnette grise,2023,13,5
 Bergeronnette printanière,2020,2,0
 Bernache cravant,2021,2,0
 Bouscarle de Cetti,2022,3,1
@@ -38,7 +38,7 @@ Cygne tuberculé,2022,3,2
 Effraie des clochers,2019,0,1
 Eider à duvet,2022,3,0
 Épervier d'Europe,2021,2,2
-Étourneau sansonnet,2023,42,6
+Étourneau sansonnet,2023,43,6
 Faucon crécerelle,2022,4,3
 Fauvette à tête noire,2019,1,4
 Fauvette des jardins,2018,0,1
@@ -50,11 +50,11 @@ Fuligule milouinan,2021,3,0
 Fuligule morillon,2019,1,0
 Gallinule poule-d'eau,2023,4,2
 Geai des chênes,2022,4,3
-Goéland argenté,2023,256,14
+Goéland argenté,2023,257,14
 Goéland brun,2023,13,4
-Goéland cendré,2023,117,6
-Goéland leucophée,2023,7,0
-Goéland marin,2023,141,11
+Goéland cendré,2023,118,6
+Goéland leucophée,2023,8,0
+Goéland marin,2023,142,11
 Goéland pontique,2021,2,0
 Grand Cormoran,2023,206,5
 Grande Aigrette,2022,1,0
@@ -75,7 +75,7 @@ Harle huppé,2021,1,0
 Héron cendré,2023,6,2
 Hibou moyen-duc,2021,1,0
 Hirondelle de fenêtre,2022,2,2
-Hirondelle de rivage,2022,6,0
+Hirondelle de rivage,2023,7,0
 Hirondelle rustique,2019,1,3
 Huîtrier pie,2023,50,8
 Hypolaïs polyglotte,2023,2,0
@@ -96,7 +96,7 @@ Mésange nonnette,2022,1,1
 Moineau domestique,2023,45,8
 Mouette mélanocéphale,2022,1,0
 Mouette pygmée,2021,4,0
-Mouette rieuse,2023,107,7
+Mouette rieuse,2023,108,7
 Mouette tridactyle,2023,16,0
 Oie cendrée,2020,1,0
 Phragmite des joncs,2020,1,1
@@ -121,12 +121,12 @@ Râle d'eau,2017,0,2
 Roitelet à triple bandeau,2022,1,2
 Roitelet huppé,2019,1,3
 Rougegorge familier,2023,40,9
-Rougequeue noir,2023,31,5
+Rougequeue noir,2023,32,5
 Rousserolle effarvatte,2021,2,1
 Sarcelle d'hiver,2022,2,0
 Serin cini,2023,8,2
 Sittelle torchepot,2022,4,3
-Spatule blanche,2023,10,0
+Spatule blanche,2023,11,0
 Sterne caugek,2023,73,2
 Sterne naine,2021,2,0
 Sterne pierregarin,2021,3,1
