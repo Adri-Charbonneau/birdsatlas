@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2022,2,3
 Aigle botté,2023,8,1
-Aigle royal,2022,2,0
+Aigle royal,2023,3,0
 Aigrette garzette,2023,3,0
 Alouette des champs,2023,85,11
 Alouette lulu,2023,12,1
@@ -19,7 +19,7 @@ Bruant des roseaux,2013,0,1
 Bruant jaune,2021,2,1
 Bruant proyer,2023,78,14
 Bruant zizi,2023,33,9
-Busard cendré,2023,134,18
+Busard cendré,2023,137,18
 Busard des roseaux,2023,21,0
 Busard Saint-Martin,2023,56,10
 Buse variable,2023,144,51
@@ -35,7 +35,7 @@ Chouette hulotte,2023,6,1
 Cigogne blanche,2021,2,0
 Cigogne noire,2022,2,0
 Circaète Jean-le-Blanc,2023,44,10
-Cisticole des joncs,2023,30,2
+Cisticole des joncs (C.j.cisticola),2023,30,2
 Cochevis huppé,2023,4,1
 Corbeau freux,2016,0,1
 Corneille noire,2023,131,22
@@ -53,18 +53,18 @@ Faucon crécerellette,2014,0,1
 Faucon émerillon,2021,1,1
 Faucon hobereau,2023,21,3
 Faucon kobez,2020,1,1
-Faucon pèlerin,2022,1,0
+Faucon pèlerin (F.p.brookei),2022,1,0
 Fauvette à tête noire,2023,62,8
+Fauvette des Balkans (ssp. cantillans),2023,6,1
 Fauvette des jardins,2023,2,1
 Fauvette grisette,2023,30,3
 Fauvette mélanocéphale,2023,13,1
 Fauvette orphée,2009,0,1
-Fauvette passerinette,2023,6,1
 Fauvette pitchou,2023,1,3
 Foulque macroule,2023,1,0
 Gallinule poule-d'eau,2023,6,1
 Geai des chênes,2023,29,8
-Gobemouche gris,2023,2,4
+Gobemouche gris (M. s. striata),2023,2,4
 Gobemouche noir,2023,14,2
 Goéland leucophée,2023,27,0
 Grand Corbeau,2023,5,4
@@ -94,7 +94,7 @@ Martinet noir,2023,30,5
 Martin-pêcheur d'Europe,2023,5,1
 Merle à plastron,2021,1,1
 Merle noir,2023,61,13
-Mésange à longue queue,2023,6,6
+Mésange à longue queue (A.c.caudatus),2023,6,6
 Mésange bleue,2023,39,5
 Mésange charbonnière,2023,61,10
 Mésange huppée,2009,0,1

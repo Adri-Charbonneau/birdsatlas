@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,54,12
 Aigrette garzette,2023,51,11
-Alouette des champs,2023,15,7
+Alouette des champs,2023,16,7
 Bécasse des bois,2023,1,2
 Bécassine des marais,2019,0,2
 Bergeronnette des ruisseaux,2023,36,8
@@ -45,9 +45,9 @@ Engoulevent d'Europe,2019,1,0
 Épervier d'Europe,2023,18,7
 Étourneau sansonnet,2023,64,13
 Faisan de Colchide,2023,31,4
-Faucon crécerelle,2023,39,11
+Faucon crécerelle,2023,41,11
 Faucon hobereau,2023,16,2
-Faucon pèlerin,2023,19,3
+Faucon pèlerin (F.p.brookei),2023,19,3
 Fauvette à tête noire,2023,71,9
 Fauvette des jardins,2023,11,3
 Fauvette grisette,2023,19,4
@@ -57,7 +57,7 @@ Fuligule morillon,2023,81,22
 Gallinule poule-d'eau,2023,73,16
 Garrot à oeil d'or,2021,3,0
 Geai des chênes,2023,54,10
-Gobemouche gris,2022,13,3
+Gobemouche gris (M. s. striata),2022,13,3
 Gobemouche noir,2021,4,0
 Goéland argenté,2022,4,0
 Goéland brun,2022,6,1
@@ -74,12 +74,12 @@ Grive mauvis,2022,10,5
 Grive musicienne,2023,58,15
 Grosbec casse-noyaux,2023,13,6
 Guifette noire,2023,5,0
-Héron cendré,2023,55,17
+Héron cendré,2023,56,17
 Héron garde-boeufs,2023,30,0
 Hibou moyen-duc,2021,6,2
 Hirondelle de fenêtre,2023,15,4
 Hirondelle de rivage,2021,5,1
-Hirondelle rustique,2023,49,6
+Hirondelle rustique,2023,51,6
 Huppe fasciée,2017,0,1
 Hypolaïs polyglotte,2023,15,2
 Linotte mélodieuse,2023,40,3
@@ -88,7 +88,7 @@ Loriot d'Europe,2023,11,3
 Martinet noir,2023,16,3
 Martin-pêcheur d'Europe,2023,22,10
 Merle noir,2023,166,22
-Mésange à longue queue,2023,48,9
+Mésange à longue queue (A.c.caudatus),2023,48,9
 Mésange bleue,2023,122,19
 Mésange charbonnière,2023,128,22
 Mésange huppée,2023,19,6
@@ -109,7 +109,7 @@ Pic épeiche,2023,87,17
 Pic épeichette,2022,3,4
 Pic mar,2022,9,2
 Pic noir,2023,27,4
-Pic vert,2023,75,13
+Pic vert,2023,76,13
 Pie bavarde,2023,94,14
 Pie-grièche écorcheur,2021,7,1
 Pigeon biset domestique,2023,23,1

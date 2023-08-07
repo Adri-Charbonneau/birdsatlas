@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,73,76
-Aigrette garzette,2023,140,330
+Aigrette garzette,2023,141,330
 Alouette des champs,2023,130,168
 Alouette lulu,2023,121,110
 Autour des palombes,2023,8,11
@@ -29,7 +29,7 @@ Bruant jaune,2023,99,109
 Bruant proyer,2023,34,18
 Bruant zizi,2023,55,147
 Busard cendré,2023,12,39
-Busard des roseaux,2023,33,125
+Busard des roseaux,2023,34,125
 Busard Saint-Martin,2023,83,208
 Buse variable,2023,289,435
 Butor étoilé,2016,0,4
@@ -42,21 +42,21 @@ Canard des Bahamas,2018,0,1
 Canard mandarin,2023,2,0
 Canard pilet,2023,41,68
 Canard siffleur,2023,18,100
-Canard souchet,2023,322,625
+Canard souchet,2023,324,625
 Chardonneret élégant,2023,105,125
 Chevalier aboyeur,2023,45,60
 Chevalier arlequin,2023,5,16
-Chevalier culblanc,2023,160,234
-Chevalier gambette,2023,47,51
-Chevalier guignette,2023,136,252
+Chevalier culblanc,2023,162,234
+Chevalier gambette,2023,48,51
+Chevalier guignette,2023,138,252
 Chevalier sylvain,2023,25,29
 Chevêche d'Athéna,2023,10,33
 Choucas des tours,2023,14,39
 Chouette hulotte,2023,17,86
-Cigogne blanche,2023,1,13
+Cigogne blanche,2023,2,13
 Cigogne noire,2021,3,13
 Circaète Jean-le-Blanc,2023,6,20
-Cisticole des joncs,2023,156,26
+Cisticole des joncs (C.j.cisticola),2023,156,26
 Cochevis huppé,2020,1,13
 Colin de Virginie,2022,1,0
 Combattant varié,2023,21,70
@@ -70,7 +70,7 @@ Cygne tuberculé,2023,302,573
 Échasse blanche,2023,14,9
 Effraie des clochers,2023,4,51
 Eider à duvet,2020,1,0
-Élanion blanc,2023,152,104
+Élanion blanc,2023,153,104
 Engoulevent d'Europe,2023,12,10
 Épervier d'Europe,2023,41,102
 Érismature rousse,2017,0,32
@@ -80,7 +80,7 @@ Faisan vénéré,2019,3,3
 Faucon crécerelle,2023,159,264
 Faucon émerillon,2017,0,7
 Faucon hobereau,2023,23,95
-Faucon pèlerin,2023,19,18
+Faucon pèlerin (F.p.brookei),2023,19,18
 Fauvette à tête noire,2023,289,219
 Fauvette des jardins,2023,54,71
 Fauvette grisette,2023,98,135
@@ -91,14 +91,14 @@ Fuligule nyroca,2018,0,4
 Gallinule poule-d'eau,2023,149,216
 Garrot à oeil d'or,2015,0,1
 Geai des chênes,2023,135,146
-Gobemouche gris,2022,12,14
+Gobemouche gris (M. s. striata),2022,12,14
 Gobemouche noir,2022,16,18
 Goéland argenté,2019,1,4
 Goéland brun,2023,17,35
 Goéland cendré,2016,0,1
 Goéland leucophée,2023,48,122
 Grand Cormoran,2023,256,707
-Grande Aigrette,2023,364,931
+Grande Aigrette,2023,365,931
 Grand Gravelot,2022,33,34
 Grèbe à cou noir,2023,98,45
 Grèbe castagneux,2023,389,698
@@ -118,9 +118,9 @@ Héron garde-boeufs,2023,196,213
 Héron pourpré,2023,24,75
 Hibou des marais,2018,0,2
 Hibou moyen-duc,2019,1,5
-Hirondelle de fenêtre,2023,34,74
-Hirondelle de rivage,2023,44,130
-Hirondelle rustique,2023,266,353
+Hirondelle de fenêtre,2023,35,74
+Hirondelle de rivage,2023,45,130
+Hirondelle rustique,2023,267,353
 Huppe fasciée,2023,40,46
 Hypolaïs polyglotte,2023,74,115
 Ibis falcinelle,2018,0,2
@@ -131,7 +131,7 @@ Loriot d'Europe,2023,54,78
 Martinet noir,2023,49,59
 Martin-pêcheur d'Europe,2023,76,145
 Merle noir,2023,199,198
-Mésange à longue queue,2023,60,122
+Mésange à longue queue (A.c.caudatus),2023,60,122
 Mésange bleue,2023,128,150
 Mésange charbonnière,2023,199,221
 Mésange huppée,2018,0,9
@@ -182,8 +182,8 @@ Rougegorge familier,2023,216,194
 Rougequeue à front blanc,2023,8,7
 Rougequeue noir,2023,22,38
 Rousserolle effarvatte,2023,40,185
-Sarcelle d'été,2023,88,152
-Sarcelle d'hiver,2023,280,601
+Sarcelle d'été,2023,90,152
+Sarcelle d'hiver,2023,282,601
 Serin cini,2022,3,4
 Sittelle torchepot,2023,37,53
 Spatule blanche,2022,13,10
@@ -192,16 +192,16 @@ Sterne hansel,2023,3,0
 Sterne naine,2018,0,10
 Sterne pierregarin,2023,24,138
 Tadorne casarca,2013,0,2
-Tadorne de Belon,2023,99,37
+Tadorne de Belon,2023,100,37
 Talève sultane,2016,0,1
 Tarier des prés,2022,5,10
 Tarier pâtre,2023,164,203
 Tarin des aulnes,2023,8,20
-Torcol fourmilier,2019,1,1
+Torcol fourmilier (J.t.tschusii),2019,1,1
 Tourterelle des bois,2023,135,162
 Tourterelle turque,2023,88,74
 Traquet motteux,2023,7,25
 Troglodyte mignon,2023,100,180
-Vanneau huppé,2023,224,507
+Vanneau huppé,2023,225,507
 Vanneau sociable,2018,0,6
 Verdier d'Europe,2023,25,74

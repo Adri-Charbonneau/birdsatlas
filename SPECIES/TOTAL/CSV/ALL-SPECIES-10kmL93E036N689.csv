@@ -1,14 +1,14 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,145,19
-Aigrette garzette,2023,92,19
+Aigrette garzette,2023,95,19
 Alouette des champs,2023,77,12
 Alouette lulu,2019,0,2
 Autour des palombes,2019,1,0
 Avocette élégante,2022,3,0
 Barge à queue noire,2022,3,2
 Barge rousse,2023,6,1
-Bécasseau sanderling,2023,32,9
-Bécasseau variable,2023,23,11
+Bécasseau sanderling,2023,33,9
+Bécasseau variable,2023,25,11
 Bécasseau violet,2023,1,0
 Bécasse des bois,2022,1,1
 Bécassine des marais,2022,14,3
@@ -16,7 +16,7 @@ Bécassine sourde,2021,1,0
 Bergeronnette des ruisseaux,2022,3,4
 Bergeronnette flavéole (M.f.flavissima),2023,17,4
 Bergeronnette grise,2023,68,19
-Bergeronnette printanière,2023,43,10
+Bergeronnette printanière,2023,44,10
 Bernache cravant,2023,64,14
 Bernache du Canada,2018,0,1
 Bernache nonnette,2009,0,1
@@ -47,13 +47,13 @@ Chevêche d'Athéna,2019,0,2
 Choucas des tours,2023,123,18
 Chouette hulotte,2021,9,3
 Cigogne blanche,2023,3,1
-Cisticole des joncs,2023,63,8
+Cisticole des joncs (C.j.cisticola),2023,64,8
 Combattant varié,2019,1,0
 Corbeau freux,2022,5,6
 Cormoran huppé,2020,2,1
-Corneille noire,2023,108,13
+Corneille noire,2023,109,13
 Coucou gris,2023,52,4
-Courlis cendré,2023,47,8
+Courlis cendré,2023,49,8
 Courlis corlieu,2023,21,11
 Cygne noir,2019,1,0
 Échasse blanche,2023,2,0
@@ -63,10 +63,10 @@ Engoulevent d'Europe,2020,1,0
 Épervier d'Europe,2023,44,9
 Étourneau sansonnet,2023,135,19
 Faisan de Colchide,2023,60,8
-Faucon crécerelle,2023,51,11
+Faucon crécerelle,2023,53,11
 Faucon émerillon,2023,5,2
 Faucon hobereau,2020,2,2
-Faucon pèlerin,2023,9,3
+Faucon pèlerin (F.p.brookei),2023,9,3
 Fauvette à tête noire,2023,112,11
 Fauvette babillarde,2019,2,0
 Fauvette des jardins,2023,14,4
@@ -77,18 +77,18 @@ Fuligule milouin,2009,0,1
 Fuligule morillon,2022,5,4
 Gallinule poule-d'eau,2023,49,8
 Geai des chênes,2023,60,9
-Gobemouche gris,2023,9,5
+Gobemouche gris (M. s. striata),2023,9,5
 Gobemouche noir,2022,1,0
-Goéland argenté,2023,51,16
+Goéland argenté,2023,54,16
 Goéland brun,2023,11,4
 Goéland cendré,2023,30,11
 Goéland leucophée,2022,3,1
-Goéland marin,2023,37,10
+Goéland marin,2023,39,10
 Gorgebleue à miroir,2022,10,2
 Grand Corbeau,2017,0,1
-Grand Cormoran,2023,52,10
+Grand Cormoran,2023,54,10
 Grande Aigrette,2023,4,2
-Grand Gravelot,2023,31,7
+Grand Gravelot,2023,33,7
 Grand Labbe,2019,0,1
 Gravelot à collier interrompu,2023,67,5
 Grèbe à cou noir,2021,1,2
@@ -110,28 +110,28 @@ Hibou des marais,2021,1,2
 Hibou moyen-duc,2021,1,0
 Hirondelle de fenêtre,2023,24,3
 Hirondelle de rivage,2023,22,2
-Hirondelle rustique,2023,119,11
-Huîtrier pie,2023,42,11
+Hirondelle rustique,2023,126,11
+Huîtrier pie,2023,45,11
 Huppe fasciée,2020,3,0
 Hypolaïs polyglotte,2023,21,6
 Labbe parasite,2019,0,1
-Linotte mélodieuse,2023,89,11
+Linotte mélodieuse,2023,91,11
 Locustelle tachetée,2022,9,3
-Macreuse noire,2023,9,3
-Martinet noir,2023,43,8
+Macreuse noire,2023,10,3
+Martinet noir,2023,46,8
 Martin-pêcheur d'Europe,2023,7,3
 Merle noir,2023,204,16
-Mésange à longue queue,2023,22,7
+Mésange à longue queue (A.c.caudatus),2023,22,7
 Mésange bleue,2023,134,18
-Mésange charbonnière,2023,135,20
+Mésange charbonnière,2023,136,20
 Mésange huppée,2019,0,1
 Mésange noire,2018,0,1
 Mésange nonnette,2019,1,3
 Milan noir,2020,1,0
-Moineau domestique,2023,114,19
+Moineau domestique,2023,115,19
 Mouette mélanocéphale,2023,25,8
 Mouette pygmée,2022,1,0
-Mouette rieuse,2023,61,15
+Mouette rieuse,2023,64,15
 Mouette tridactyle,2022,1,1
 Oie cendrée,2021,1,3
 Perdrix grise,2020,2,2
@@ -171,15 +171,15 @@ Sarcelle d'hiver,2022,5,3
 Serin cini,2023,23,6
 Sittelle torchepot,2023,1,2
 Spatule blanche,2023,13,2
-Sterne caugek,2023,21,6
+Sterne caugek,2023,23,6
 Sterne naine,2019,1,2
 Sterne pierregarin,2023,2,2
 Tadorne de Belon,2023,73,13
 Tarier des prés,2020,1,0
 Tarier pâtre,2023,106,11
 Tarin des aulnes,2023,3,4
-Torcol fourmilier,2020,1,2
-Tournepierre à collier,2023,31,6
+Torcol fourmilier (J.t.tschusii),2020,1,2
+Tournepierre à collier,2023,32,6
 Tourterelle des bois,2023,16,3
 Tourterelle turque,2023,82,13
 Traquet motteux,2023,39,3

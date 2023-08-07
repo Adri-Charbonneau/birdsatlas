@@ -43,8 +43,8 @@ Corbeau freux,2022,1,15
 Corneille noire,2023,714,592
 Coucou gris,2023,48,46
 Courlis cendré,2014,0,1
-Cygne de Bewick,2019,1,0
 Cygne noir,2022,5,0
+Cygne siffleur,2019,1,0
 Cygne tuberculé,2023,33,47
 Effraie des clochers,2021,1,3
 Épervier d'Europe,2023,127,60
@@ -53,7 +53,7 @@ Faisan de Colchide,2023,52,62
 Faucon crécerelle,2023,24,32
 Faucon émerillon,2022,1,0
 Faucon hobereau,2019,1,5
-Faucon pèlerin,2023,29,2
+Faucon pèlerin (F.p.brookei),2023,29,2
 Fauvette à tête noire,2023,346,131
 Fauvette babillarde,2022,8,4
 Fauvette des jardins,2023,38,14
@@ -65,7 +65,7 @@ Fuligule nyroca,2021,1,0
 Gallinule poule-d'eau,2023,382,96
 Geai des chênes,2023,417,322
 Gobemouche à collier,2009,0,1
-Gobemouche gris,2021,4,6
+Gobemouche gris (M. s. striata),2021,4,6
 Gobemouche noir,2015,0,5
 Grand Corbeau,2023,50,15
 Grand Cormoran,2023,55,79
@@ -96,8 +96,8 @@ Loriot d'Europe,2023,23,33
 Martinet noir,2023,261,84
 Martin-pêcheur d'Europe,2023,50,70
 Merle noir,2023,1112,845
-Mésange à longue queue,2023,111,74
-Mésange bleue,2023,1404,1071
+Mésange à longue queue (A.c.caudatus),2023,111,74
+Mésange bleue,2023,1405,1071
 Mésange boréale,2021,2,28
 Mésange charbonnière,2023,1338,944
 Mésange huppée,2023,81,135
@@ -111,23 +111,23 @@ Mouette rieuse,2022,3,7
 Nette demi-deuil,2023,8,0
 Oie cendrée,2023,36,0
 Oie des moissons,2020,1,0
-Ouette d'Egypte,2023,36,67
+Ouette d'Égypte,2023,36,67
 Perdrix grise,2013,0,2
 Petit Gravelot,2021,2,2
 Phragmite des joncs,2018,0,2
 Pic cendré,2023,24,35
-Pic épeiche,2023,323,411
+Pic épeiche,2023,324,411
 Pic épeichette,2023,48,18
 Pic mar,2023,46,21
 Pic noir,2023,90,95
 Pic vert,2023,178,189
 Pie bavarde,2023,868,252
 Pie-grièche écorcheur,2022,19,13
-Pie-grièche grise,2015,0,10
+Pie-grièche grise (L.e.excubitor),2015,0,10
 Pigeon biset domestique,2023,243,34
 Pigeon colombin,2022,21,25
-Pigeon ramier,2023,1060,545
-Pinson des arbres,2023,776,854
+Pigeon ramier,2023,1061,545
+Pinson des arbres,2023,777,854
 Pinson du Nord,2023,23,38
 Pipit des arbres,2023,6,20
 Pipit farlouse,2018,0,5
@@ -154,11 +154,11 @@ Sizerin flammé,2020,1,6
 Tadorne de Belon,2019,1,0
 Tarier pâtre,2022,7,6
 Tarin des aulnes,2023,78,70
-Torcol fourmilier,2021,4,4
+Torcol fourmilier (J.t.tschusii),2021,4,4
 Tourterelle des bois,2023,7,5
 Tourterelle turque,2022,105,28
 Traquet motteux,2021,2,1
-Troglodyte mignon,2023,550,393
+Troglodyte mignon,2023,551,393
 Vanneau huppé,2022,1,3
 Vautour fauve,2022,1,0
 Verdier d'Europe,2023,521,235

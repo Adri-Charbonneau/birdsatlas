@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,156,34
-Aigrette garzette,2022,29,8
+Aigrette garzette,2023,32,8
 Alouette des champs,2023,9,5
 Alouette lulu,2009,0,1
 Autour des palombes,2021,1,0
@@ -25,40 +25,40 @@ Bruant jaune,2023,7,7
 Bruant zizi,2021,3,2
 Busard des roseaux,2023,11,1
 Busard Saint-Martin,2023,3,1
-Buse variable,2023,46,10
+Buse variable,2023,47,10
 Butor étoilé,2019,1,0
 Caille des blés,2017,0,2
 Canard chipeau,2021,2,1
-Canard colvert,2023,58,10
+Canard colvert,2023,60,10
 Canard pilet,2022,9,1
 Canard siffleur,2023,11,1
 Canard souchet,2022,7,2
-Chardonneret élégant,2023,100,14
+Chardonneret élégant,2023,101,14
 Chevalier aboyeur,2019,0,1
 Chevalier culblanc,2022,5,5
 Chevalier gambette,2022,1,0
-Chevalier guignette,2022,19,1
+Chevalier guignette,2023,24,1
 Chevalier sylvain,2021,1,0
 Chevêche d'Athéna,2021,1,3
 Choucas des tours,2022,4,3
 Chouette hulotte,2023,20,4
-Cigogne blanche,2023,81,5
+Cigogne blanche,2023,82,5
 Cigogne noire,2019,1,0
-Cisticole des joncs,2023,8,0
+Cisticole des joncs (C.j.cisticola),2023,8,0
 Corbeau freux,2019,0,5
 Corneille noire,2023,43,13
 Coucou gris,2023,11,3
-Courlis cendré,2023,20,3
+Courlis cendré,2023,21,3
 Courlis corlieu,2022,3,1
-Cygne tuberculé,2023,64,8
+Cygne tuberculé,2023,71,8
 Effraie des clochers,2020,7,4
 Épervier d'Europe,2023,12,4
 Étourneau sansonnet,2023,47,30
 Faisan de Colchide,2023,22,5
 Faucon crécerelle,2023,32,12
 Faucon émerillon,2020,1,0
-Faucon hobereau,2019,1,1
-Faucon pèlerin,2023,9,2
+Faucon hobereau,2023,2,1
+Faucon pèlerin (F.p.brookei),2023,9,2
 Fauvette à tête noire,2023,80,8
 Fauvette babillarde,2022,1,2
 Fauvette des jardins,2023,7,3
@@ -69,16 +69,16 @@ Fuligule milouin,2017,0,1
 Fuligule morillon,2022,2,0
 Gallinule poule-d'eau,2023,25,10
 Geai des chênes,2023,45,13
-Gobemouche gris,2023,22,3
+Gobemouche gris (M. s. striata),2023,22,3
 Goéland argenté,2023,36,5
 Goéland brun,2022,3,2
-Goéland cendré,2022,12,4
-Goéland leucophée,2022,8,1
-Goéland marin,2023,37,2
+Goéland cendré,2023,13,4
+Goéland leucophée,2023,9,1
+Goéland marin,2023,39,2
 Goéland pontique,2021,3,0
 Gorgebleue à miroir,2022,4,2
-Grand Cormoran,2023,30,4
-Grande Aigrette,2022,30,2
+Grand Cormoran,2023,34,4
+Grande Aigrette,2023,31,2
 Grand Gravelot,2022,1,0
 Grèbe castagneux,2023,11,7
 Grèbe huppé,2022,1,5
@@ -89,22 +89,22 @@ Grive mauvis,2023,23,5
 Grive musicienne,2023,161,25
 Grosbec casse-noyaux,2023,13,6
 Guêpier d'Europe,2019,2,1
-Héron cendré,2023,31,8
+Héron cendré,2023,32,8
 Héron garde-boeufs,2023,7,0
 Hibou moyen-duc,2020,3,1
-Hirondelle de fenêtre,2023,13,2
+Hirondelle de fenêtre,2023,14,2
 Hirondelle de rivage,2022,4,2
 Hirondelle rustique,2023,44,4
-Huîtrier pie,2022,9,1
+Huîtrier pie,2023,13,1
 Hypolaïs polyglotte,2023,16,3
-Linotte mélodieuse,2023,75,5
+Linotte mélodieuse,2023,76,5
 Locustelle tachetée,2019,1,2
 Loriot d'Europe,2019,2,0
 Martinet noir,2023,22,3
 Martin-pêcheur d'Europe,2021,2,2
 Mergule nain,2021,1,0
 Merle noir,2023,250,59
-Mésange à longue queue,2023,25,7
+Mésange à longue queue (A.c.caudatus),2023,25,7
 Mésange bleue,2023,154,55
 Mésange charbonnière,2023,154,57
 Mésange huppée,2023,7,3
@@ -113,10 +113,10 @@ Mésange nonnette,2023,32,11
 Moineau domestique,2023,100,52
 Moineau friquet,2015,0,1
 Mouette mélanocéphale,2023,4,0
-Mouette rieuse,2022,49,8
-Oie cendrée,2022,14,1
+Mouette rieuse,2023,50,8
+Oie cendrée,2023,17,1
 Oie rieuse,2017,0,1
-Ouette d'Egypte,2023,1,0
+Ouette d'Égypte,2023,1,0
 Panure à moustaches,2009,0,1
 Perdrix grise,2018,0,1
 Perdrix rouge,2019,0,1
@@ -131,7 +131,7 @@ Pie bavarde,2023,37,10
 Pie-grièche écorcheur,2023,4,1
 Pigeon biset domestique,2022,4,8
 Pigeon colombin,2019,1,3
-Pigeon ramier,2023,138,21
+Pigeon ramier,2023,139,21
 Pinson des arbres,2023,179,44
 Pinson du Nord,2023,7,8
 Pipit des arbres,2021,2,2
@@ -157,9 +157,10 @@ Sittelle torchepot,2023,7,7
 Sizerin boréal (C.f.flammea),2018,0,1
 Sizerin cabaret,2021,1,0
 Sizerin flammé,2021,1,1
-Spatule blanche,2022,22,2
+Spatule blanche,2023,23,2
+Sterne caugek,2023,1,0
 Tadorne casarca,2022,2,0
-Tadorne de Belon,2023,41,5
+Tadorne de Belon,2023,43,5
 Tarier des prés,2019,1,1
 Tarier pâtre,2023,6,4
 Tarin des aulnes,2022,3,3

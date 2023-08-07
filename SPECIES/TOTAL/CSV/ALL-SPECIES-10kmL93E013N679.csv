@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,254,148
 Aigrette garzette,2023,180,94
-Alouette des champs,2023,153,63
+Alouette des champs,2023,154,63
 Alouette lulu,2022,5,1
 Autour des palombes,2022,1,0
 Barge à queue noire,2022,4,1
@@ -42,7 +42,7 @@ Chevalier guignette,2023,54,55
 Chevêche d'Athéna,2022,2,0
 Choucas des tours,2023,194,127
 Chouette hulotte,2023,35,12
-Cisticole des joncs,2023,55,30
+Cisticole des joncs (C.j.cisticola),2023,55,30
 Corbeau freux,2020,3,3
 Cormoran huppé,2023,160,38
 Corneille noire,2023,224,84
@@ -53,13 +53,13 @@ Crave à bec rouge,2023,30,10
 Cygne tuberculé,2023,18,1
 Effraie des clochers,2023,12,4
 Engoulevent d'Europe,2023,9,1
-Épervier d'Europe,2023,35,11
+Épervier d'Europe,2023,36,11
 Étourneau sansonnet,2023,70,55
 Faisan de Colchide,2023,14,11
 Faucon crécerelle,2023,116,35
 Faucon émerillon,2021,2,4
 Faucon hobereau,2023,5,1
-Faucon pèlerin,2022,11,7
+Faucon pèlerin (F.p.brookei),2022,11,7
 Fauvette à tête noire,2023,191,73
 Fauvette babillarde,2021,2,0
 Fauvette des jardins,2023,31,13
@@ -70,10 +70,10 @@ Foulque macroule,2020,1,1
 Fulmar boréal,2023,5,3
 Gallinule poule-d'eau,2023,12,7
 Geai des chênes,2023,77,61
-Gobemouche gris,2022,1,0
+Gobemouche gris (M. s. striata),2022,1,0
 Gobemouche noir,2022,4,2
 Goéland à ailes blanches,2022,8,45
-Goéland argenté,2023,365,147
+Goéland argenté,2023,366,147
 Goéland bourgmestre,2021,5,16
 Goéland brun,2023,140,67
 Goéland cendré,2022,20,5
@@ -120,7 +120,7 @@ Martinet noir,2023,44,17
 Martin-pêcheur d'Europe,2023,51,30
 Merle à plastron,2021,1,0
 Merle noir,2023,403,224
-Mésange à longue queue,2023,34,8
+Mésange à longue queue (A.c.caudatus),2023,34,8
 Mésange bleue,2023,215,177
 Mésange charbonnière,2023,206,146
 Mésange huppée,2023,30,20
@@ -169,10 +169,10 @@ Pluvier doré,2021,6,5
 Pouillot à grands sourcils,2020,1,1
 Pouillot fitis,2022,6,2
 Pouillot véloce,2023,253,93
-Puffin cendré,2022,2,1
+Puffin cendré,2023,3,1
 Puffin des Anglais,2023,42,9
 Puffin des Baléares,2023,76,15
-Puffin fuligineux,2022,3,0
+Puffin fuligineux,2023,4,0
 Puffin majeur,2022,1,0
 Râle d'eau,2023,14,12
 Roitelet à triple bandeau,2023,88,22
@@ -193,7 +193,7 @@ Tadorne de Belon,2022,3,1
 Tarier des prés,2022,9,2
 Tarier pâtre,2023,175,92
 Tarin des aulnes,2022,13,3
-Torcol fourmilier,2022,8,1
+Torcol fourmilier (J.t.tschusii),2022,8,1
 Tournepierre à collier,2023,102,43
 Tourterelle des bois,2022,12,9
 Tourterelle turque,2023,53,29

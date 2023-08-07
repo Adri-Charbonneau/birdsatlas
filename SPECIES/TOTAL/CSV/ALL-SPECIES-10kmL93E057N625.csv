@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,23,9
 Aigle botté,2022,21,3
-Aigrette garzette,2023,138,30
+Aigrette garzette,2023,139,30
 Alouette des champs,2023,58,20
 Alouette lulu,2023,11,1
 Autour des palombes,2014,0,1
@@ -12,7 +12,7 @@ Bécasseau minute,2022,7,0
 Bécasseau variable,2023,35,0
 Bécassine des marais,2023,46,3
 Bergeronnette des ruisseaux,2023,39,4
-Bergeronnette grise,2023,149,16
+Bergeronnette grise,2023,150,16
 Bergeronnette printanière,2023,24,8
 Bernache du Canada,2021,1,0
 Bernache nonnette,2022,12,1
@@ -45,9 +45,9 @@ Choucas des tours,2023,34,6
 Chouette hulotte,2021,4,3
 Cigogne blanche,2023,5,0
 Cigogne noire,2017,0,1
-Cincle plongeur,2017,0,1
+Cincle plongeur (C.c.cinclus),2017,0,1
 Circaète Jean-le-Blanc,2023,7,6
-Cisticole des joncs,2023,107,34
+Cisticole des joncs (C.j.cisticola),2023,107,34
 Cochevis huppé,2023,24,5
 Combattant varié,2023,26,1
 Corbeau freux,2017,0,1
@@ -55,18 +55,18 @@ Corneille noire,2023,108,25
 Coucou gris,2022,3,3
 Courlis cendré,2021,2,0
 Courlis corlieu,2012,0,1
-Crabier chevelu,2023,15,2
+Crabier chevelu,2023,14,2
 Échasse blanche,2023,38,1
 Effraie des clochers,2021,9,2
 Élanion blanc,2023,98,10
 Épervier d'Europe,2023,28,9
-Etourneau roselin,2018,0,2
+Étourneau roselin,2018,0,2
 Étourneau sansonnet,2023,126,19
 Faisan de Colchide,2021,7,3
 Faucon crécerelle,2023,104,33
 Faucon émerillon,2023,8,0
 Faucon hobereau,2023,32,10
-Faucon pèlerin,2023,5,1
+Faucon pèlerin (F.p.brookei),2023,5,1
 Fauvette à tête noire,2023,107,31
 Fauvette grisette,2023,34,12
 Fauvette mélanocéphale,2023,52,1
@@ -78,7 +78,7 @@ Fuligule nyroca,2020,2,0
 Gallinule poule-d'eau,2023,30,16
 Geai des chênes,2023,51,38
 Glaréole à collier,2022,1,0
-Gobemouche gris,2020,3,1
+Gobemouche gris (M. s. striata),2020,3,1
 Gobemouche noir,2022,19,2
 Goéland brun,2022,3,0
 Goéland cendré,2023,3,1
@@ -115,9 +115,9 @@ Loriot d'Europe,2023,34,17
 Martinet noir,2023,36,7
 Martin-pêcheur d'Europe,2023,80,11
 Merle noir,2023,237,70
-Mésange à longue queue,2023,81,19
+Mésange à longue queue (A.c.caudatus),2023,81,19
 Mésange bleue,2023,137,55
-Mésange charbonnière,2023,241,92
+Mésange charbonnière,2023,242,92
 Mésange noire,2023,36,1
 Milan noir,2023,53,8
 Milan royal,2023,78,10
@@ -146,7 +146,7 @@ Pie-grièche écorcheur,2021,4,3
 Pigeon biset domestique,2022,10,4
 Pigeon colombin,2023,69,2
 Pigeon ramier,2023,152,28
-Pinson des arbres,2023,126,75
+Pinson des arbres,2023,127,75
 Pinson du Nord,2023,23,2
 Pipit des arbres,2022,11,4
 Pipit farlouse,2023,59,13
