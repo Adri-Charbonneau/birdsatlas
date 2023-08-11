@@ -4,11 +4,13 @@
 		<title>BirdsAtlas</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="icon" type="image/x-icon" href="ASSETS/favicon.ico">
-		<link rel="stylesheet" href="ASSETS/style.css" />
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		
+		<link rel="icon" type="image/x-icon" href="https://adri-charbonneau.github.io/birdsatlas/ASSETS/favicon.ico">
+		<link rel="stylesheet" href="ASSETS/style.css"  type="text/css">
+		
+		<script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-		<script type="application/geo+json" src="DATA/MAILLES.geojson"></script>
+		<script type="application/geo+json" src="https://adri-charbonneau.github.io/birdsatlas/DATA/MAILLES.geojson"></script>
 		
 	</head>
 	
@@ -20,7 +22,7 @@
 						<div class="panel-heading">
 						<h3 class="panel-title">BirdsAtlas</h3>
 						</div>
-						<embed src="dates.txt" width="100%" height="70vh" style="border: 1px solid grey;">
+						<embed src="https://adri-charbonneau.github.io/birdsatlas/dates.txt" width="100%" height="70vh" style="border: 1px solid grey;">
 						<ul class="nav nav-tabs">
 							<li class="active"><a data-toggle="tab" href="#mailles">Mailles</a></li>
 							<li><a data-toggle="tab" href="#aide">Aide</a></li>
@@ -64,8 +66,8 @@
 								<li>Le site Cocheurs fourni quant à lui la liste des blanks (<a href="https://www.cocheurs.fr/especes/blanks.php">source</a>)</li>
 								</ul></p>
 								<p>Ce site est donc une aide à la prospection, il combine simplement des données disponibles en un format lisible afin d'orienter les recherches et améliorer les connaissances des espèces.<br>
-								Les erreurs ne sont absolument pas exclues (qu'elles soient de fond ou de forme), n'hésitez surtout pas à faire remonter cela en créant une "<a href="https://github.com/A-d-r-i/birdsatlas/issues">issue</a>" sur le dépôt Github du projet :</p>
-								<p align="center"><a href="https://github.com/A-d-r-i/birdsatlas"><img src="https://img.shields.io/badge/Github-BirdsAtlas-green?style=flat-square&logo=github"></img></a></p>
+								Les erreurs ne sont absolument pas exclues (qu'elles soient de fond ou de forme), n'hésitez surtout pas à faire remonter cela en créant une "<a href="https://github.com/Adri-Charbonneau/birdsatlas/issues">issue</a>" sur le dépôt Github du projet :</p>
+								<p align="center"><a href="https://github.com/Adri-Charbonneau/birdsatlas"><img src="https://img.shields.io/badge/Github-BirdsAtlas-green?style=flat-square&logo=github"></img></a></p>
 							</div>
 						</div>
 					</div>
@@ -73,8 +75,8 @@
 			</div>
 			<div id="map"></div>
 		</div>
-		<script type="text/javascript" src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.76.0/dist/L.Control.Locate.min.js"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet@latest/dist/leaflet.min.js"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@latest/dist/L.Control.Locate.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/leaflet-search@3.0.2/src/leaflet-search.js"></script>
 		<script type="text/javascript" src="ASSETS/script.js"></script>
 	</body>

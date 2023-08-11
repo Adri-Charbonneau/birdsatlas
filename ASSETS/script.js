@@ -7,7 +7,7 @@ function main() {
 	}).addTo(newMap);
 	
 	// loading GeoJSON file
-	$.getJSON("DATA/MAILLES.geojson",function(data){
+	$.getJSON("https://adri-charbonneau.github.io/birdsatlas/DATA/MAILLES.geojson",function(data){
 		// L.geoJson function is used to parse geojson file and load on to map
 		// add GeoJSON layer to the map once the file is loaded
 		var datalayer = L.geoJson(data, {
@@ -25,10 +25,10 @@ function main() {
 					// area_id.textContent = feature.properties.id;
 					document.getElementById("area_name_url").setAttribute("href","https://oiseauxdefrance.org/prospecting?area=" + feature.properties.area_name + "&type=ATLAS_GRID");
 					document.getElementById("faune_france").setAttribute("href","https://www.faune-france.org/index.php?m_id=94&sp_DChoice=all&sp_SChoice=all&sp_PChoice=grid&sp_FChoice=species&sp_Grid=" + feature.properties.id_faune_france);
-					// document.getElementById("github_historic").setAttribute("href","https://github.com/A-d-r-i/birdsatlas/commits/main/SPECIES/TOTAL/CSV/ALL-SPECIES-" + feature.properties.area_name + ".csv");
-					document.getElementById("area_species_2019").setAttribute("src","./SPECIES/2019/TXT/SPECIES-2019-" + feature.properties.area_name + ".txt");
-					document.getElementById("area_species_never").setAttribute("src","./SPECIES/LIST/SPECIES-BLANKS-" + feature.properties.area_name + ".txt");
-					document.getElementById("area_species_nf").setAttribute("src","./SPECIES/LIST/SPECIES-NF-" + feature.properties.area_name + ".txt");
+					// document.getElementById("github_historic").setAttribute("href","https://adri-charbonneau.github.io/birdsatlas/SPECIES/TOTAL/CSV/ALL-SPECIES-" + feature.properties.area_name + ".csv");
+					document.getElementById("area_species_2019").setAttribute("src","https://adri-charbonneau.github.io/birdsatlas/SPECIES/2019/TXT/SPECIES-2019-" + feature.properties.area_name + ".txt");
+					document.getElementById("area_species_never").setAttribute("src","https://adri-charbonneau.github.io/birdsatlas/SPECIES/LIST/SPECIES-BLANKS-" + feature.properties.area_name + ".txt");
+					document.getElementById("area_species_nf").setAttribute("src","https://adri-charbonneau.github.io/birdsatlas/SPECIES/LIST/SPECIES-NF-" + feature.properties.area_name + ".txt");
 					featureLayer.setStyle({
 						weight: 3,
 						opacity: 5,
@@ -82,7 +82,7 @@ function main() {
 			onAdd: function (newMap) {
 				var img = L.DomUtil.create('img');
 				
-				img.src = './ASSETS/ICON.png';
+				img.src = 'https://adri-charbonneau.github.io/birdsatlas/ASSETS/ICON.png';
 				img.style.width = '100px';
 				
 				return img;
@@ -115,4 +115,3 @@ function main() {
 		
 	});
 }
-
