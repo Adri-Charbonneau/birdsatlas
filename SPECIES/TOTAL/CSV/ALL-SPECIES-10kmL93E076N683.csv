@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2021,2,16
 Aigrette garzette,2023,3,3
-Alouette des champs,2023,78,56
+Alouette des champs,2023,79,56
 Alouette lulu,2013,0,3
 Autour des palombes,2022,1,1
 Avocette élégante,2018,0,1
@@ -10,7 +10,7 @@ Bécasseau variable,2013,0,1
 Bécasse des bois,2012,0,1
 Bécassine des marais,2013,0,7
 Bergeronnette des ruisseaux,2023,2,0
-Bergeronnette grise,2023,19,38
+Bergeronnette grise,2023,20,38
 Bergeronnette printanière,2023,42,32
 Bernache du Canada,2023,1,0
 Bondrée apivore,2023,1,4
@@ -19,16 +19,16 @@ Bouvreuil pivoine,2021,1,12
 Bruant des roseaux,2021,1,21
 Bruant jaune,2022,6,30
 Bruant proyer,2023,54,40
-Busard cendré,2023,16,18
+Busard cendré,2023,17,18
 Busard des roseaux,2023,12,39
 Busard Saint-Martin,2023,21,51
-Buse variable,2023,43,54
-Caille des blés,2023,9,24
+Buse variable,2023,44,54
+Caille des blés,2023,11,24
 Canard chipeau,2013,0,3
 Canard colvert,2021,2,19
 Canard pilet,2018,0,3
 Canard souchet,2013,0,4
-Chardonneret élégant,2023,21,31
+Chardonneret élégant,2023,22,31
 Chevalier aboyeur,2013,0,4
 Chevalier arlequin,2013,0,1
 Chevalier culblanc,2013,0,17
@@ -37,8 +37,8 @@ Chevalier guignette,2023,1,7
 Chevalier sylvain,2012,0,2
 Choucas des tours,2023,4,0
 Chouette hulotte,2023,10,16
-Cigogne blanche,2023,20,32
-Cigogne noire,2014,0,9
+Cigogne blanche,2023,21,32
+Cigogne noire,2023,1,9
 Cochevis huppé,2023,9,17
 Combattant varié,2018,0,5
 Corbeau freux,2023,10,8
@@ -48,18 +48,18 @@ Courlis cendré,2016,0,4
 Cygne chanteur,2015,0,1
 Cygne tuberculé,2023,3,12
 Effraie des clochers,2021,2,1
-Épervier d'Europe,2023,4,16
-Étourneau sansonnet,2023,25,33
+Épervier d'Europe,2023,5,16
+Étourneau sansonnet,2023,27,33
 Faisan de Colchide,2023,12,41
 Faisan vénéré,2021,1,0
-Faucon crécerelle,2023,45,47
+Faucon crécerelle,2023,47,47
 Faucon émerillon,2023,3,4
 Faucon hobereau,2023,2,6
 Faucon pèlerin (F.p.brookei),2013,0,2
 Fauvette à tête noire,2023,34,45
 Fauvette babillarde,2021,2,5
 Fauvette des jardins,2023,5,12
-Fauvette grisette,2023,9,25
+Fauvette grisette,2023,10,25
 Foulque macroule,2022,1,11
 Gallinule poule-d'eau,2023,2,14
 Geai des chênes,2023,2,12
@@ -82,13 +82,13 @@ Héron cendré,2023,21,46
 Héron pourpré,2013,0,1
 Hibou des marais,2012,0,3
 Hibou moyen-duc,2023,6,4
-Hirondelle de fenêtre,2023,10,12
+Hirondelle de fenêtre,2023,11,12
 Hirondelle de rivage,2013,0,3
-Hirondelle rustique,2023,26,39
+Hirondelle rustique,2023,27,39
 Huîtrier pie,2018,0,1
 Huppe fasciée,2015,0,1
 Hypolaïs polyglotte,2023,7,11
-Linotte mélodieuse,2023,22,39
+Linotte mélodieuse,2023,23,39
 Locustelle tachetée,2023,2,19
 Loriot d'Europe,2023,7,14
 Marouette ponctuée,2018,0,2
@@ -115,16 +115,16 @@ Perdrix grise,2023,19,24
 Perdrix rouge,2021,1,0
 Petit Gravelot,2016,0,6
 Phragmite des joncs,2023,2,1
-Pic épeiche,2023,3,20
+Pic épeiche,2023,4,20
 Pic épeichette,2021,1,4
 Pic noir,2022,3,4
 Pic vert,2023,4,8
 Pie bavarde,2023,21,15
 Pie-grièche écorcheur,2023,2,33
 Pie-grièche grise (L.e.excubitor),2021,1,1
-Pigeon biset domestique,2023,17,9
+Pigeon biset domestique,2023,18,9
 Pigeon colombin,2023,2,4
-Pigeon ramier,2023,57,67
+Pigeon ramier,2023,58,67
 Pinson des arbres,2023,40,63
 Pinson du Nord,2023,1,1
 Pipit des arbres,2023,5,27
@@ -132,7 +132,7 @@ Pipit farlouse,2023,9,32
 Pipit spioncelle,2013,0,4
 Pluvier doré,2013,0,18
 Pouillot fitis,2023,4,10
-Pouillot véloce,2023,23,31
+Pouillot véloce,2023,24,31
 Râle d'eau,2013,0,4
 Râle des genêts,2019,1,39
 Roitelet à triple bandeau,2023,2,0
@@ -140,7 +140,7 @@ Roitelet huppé,2013,0,1
 Rossignol philomèle,2023,27,61
 Rougegorge familier,2023,20,24
 Rougequeue à front blanc,2023,5,7
-Rougequeue noir,2023,12,18
+Rougequeue noir,2023,13,18
 Rousserolle effarvatte,2022,2,11
 Rousserolle turdoïde,2013,0,1
 Rousserolle verderolle,2013,0,3
@@ -154,8 +154,8 @@ Tarier des prés,2021,2,11
 Tarier pâtre,2023,8,18
 Tarin des aulnes,2023,3,8
 Tourterelle des bois,2023,10,13
-Tourterelle turque,2023,23,33
+Tourterelle turque,2023,24,33
 Traquet motteux,2023,4,3
 Troglodyte mignon,2023,16,30
 Vanneau huppé,2023,7,93
-Verdier d'Europe,2023,13,24
+Verdier d'Europe,2023,14,24
