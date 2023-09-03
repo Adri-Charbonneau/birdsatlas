@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,50,47
 Aigrette garzette,2021,1,0
-Alouette des champs,2023,103,77
+Alouette des champs,2023,104,77
 Alouette lulu,2022,1,0
 Autour des palombes,2023,6,3
 Barge à queue noire,2013,0,9
@@ -11,23 +11,23 @@ Bécasse des bois,2023,4,1
 Bécassine des marais,2023,38,5
 Bec-croisé des sapins,2017,0,1
 Bergeronnette des ruisseaux,2023,26,21
-Bergeronnette grise,2023,290,98
+Bergeronnette grise,2023,291,98
 Bergeronnette printanière,2022,5,2
-Bernache du Canada,2023,287,195
+Bernache du Canada,2023,288,195
 Bernache nonnette,2011,0,1
 Blongios nain,2021,1,2
 Bondrée apivore,2022,5,1
 Bouvreuil pivoine,2023,23,25
 Bruant des roseaux,2023,95,56
-Bruant jaune,2023,204,104
+Bruant jaune,2023,205,104
 Bruant proyer,2009,0,1
-Busard des roseaux,2023,8,5
+Busard des roseaux,2023,9,5
 Busard Saint-Martin,2023,34,23
 Buse variable,2023,288,233
 Butor étoilé,2021,7,5
 Caille des blés,2017,0,1
 Canard chipeau,2023,225,98
-Canard colvert,2023,487,299
+Canard colvert,2023,488,299
 Canard mandarin,2022,3,10
 Canard pilet,2021,5,7
 Canard siffleur,2023,37,11
@@ -44,34 +44,35 @@ Cigogne noire,2023,4,1
 Cincle plongeur (C.c.cinclus),2012,0,2
 Combattant varié,2018,0,3
 Corbeau freux,2023,206,190
-Corneille noire,2023,665,205
+Corneille noire,2023,666,205
 Coucou gris,2023,118,35
 Courlis cendré,2023,3,8
 Cygne chanteur,2019,0,49
+Cygne noir,2023,1,0
 Cygne siffleur,2011,0,9
 Cygne tuberculé,2023,601,533
 Effraie des clochers,2020,2,8
 Eider à duvet,2018,0,1
 Engoulevent d'Europe,2019,1,6
 Épervier d'Europe,2023,47,29
-Étourneau sansonnet,2023,697,226
+Étourneau sansonnet,2023,698,226
 Faisan de Colchide,2023,136,53
-Faucon crécerelle,2023,313,144
+Faucon crécerelle,2023,314,144
 Faucon émerillon,2023,3,2
 Faucon hobereau,2021,6,8
-Faucon pèlerin (F.p.brookei),2023,56,19
+Faucon pèlerin (F.p.brookei),2023,57,19
 Fauvette à tête noire,2023,385,90
 Fauvette babillarde,2023,8,3
 Fauvette des jardins,2023,15,21
-Fauvette grisette,2023,59,26
-Foulque macroule,2023,296,207
+Fauvette grisette,2023,60,26
+Foulque macroule,2023,297,207
 Fuligule milouin,2023,136,88
 Fuligule milouinan,2023,12,1
 Fuligule morillon,2023,360,239
 Fuligule nyroca,2021,1,0
 Gallinule poule-d'eau,2023,102,28
 Garrot à oeil d'or,2021,10,8
-Geai des chênes,2023,159,77
+Geai des chênes,2023,160,77
 Gobemouche gris (M. s. striata),2022,5,7
 Gobemouche noir,2022,2,0
 Goéland argenté,2018,0,1
@@ -88,7 +89,7 @@ Grèbe castagneux,2023,146,67
 Grèbe esclavon,2019,5,0
 Grèbe huppé,2023,275,183
 Grimpereau des bois,2021,7,7
-Grimpereau des jardins,2023,50,31
+Grimpereau des jardins,2023,51,31
 Grive draine,2023,100,99
 Grive litorne,2023,110,53
 Grive mauvis,2023,12,5
@@ -98,10 +99,10 @@ Guêpier d'Europe,2020,1,0
 Harle bièvre,2022,27,18
 Harle huppé,2020,3,0
 Harle piette,2021,2,0
-Héron cendré,2023,472,237
+Héron cendré,2023,473,237
 Héron pourpré,2022,2,1
 Hibou moyen-duc,2023,13,7
-Hirondelle de fenêtre,2023,233,59
+Hirondelle de fenêtre,2023,234,59
 Hirondelle de rivage,2023,16,15
 Hirondelle rustique,2023,238,55
 Huppe fasciée,2020,5,1
@@ -115,7 +116,7 @@ Loriot d'Europe,2023,61,30
 Macreuse brune,2010,0,2
 Marouette ponctuée,2009,0,1
 Martinet noir,2022,8,10
-Martin-pêcheur d'Europe,2023,185,74
+Martin-pêcheur d'Europe,2023,186,74
 Merle noir,2023,836,389
 Mésange à longue queue (A.c.caudatus),2023,112,46
 Mésange bleue,2023,588,317
@@ -140,13 +141,13 @@ Perdrix grise,2017,0,1
 Perdrix rouge,2012,0,2
 Petit Gravelot,2023,9,17
 Pic cendré,2023,5,2
-Pic épeiche,2023,319,180
+Pic épeiche,2023,320,180
 Pic épeichette,2022,4,8
 Pic mar,2023,17,22
 Pic noir,2023,74,42
 Pic vert,2023,118,43
-Pie bavarde,2023,657,192
-Pie-grièche écorcheur,2023,25,10
+Pie bavarde,2023,658,192
+Pie-grièche écorcheur,2023,26,10
 Pie-grièche grise (L.e.excubitor),2023,6,14
 Pigeon biset domestique,2023,165,188
 Pigeon colombin,2023,8,11
@@ -169,7 +170,7 @@ Roitelet huppé,2023,10,10
 Rossignol philomèle,2023,50,23
 Rougegorge familier,2023,498,255
 Rougequeue à front blanc,2023,8,4
-Rougequeue noir,2023,441,134
+Rougequeue noir,2023,442,134
 Rousserolle effarvatte,2023,55,43
 Rousserolle turdoïde,2021,1,0
 Rousserolle verderolle,2020,8,13
