@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2023,1,4
 Accenteur mouchet,2023,64,64
-Aigle botté,2023,18,32
+Aigle botté,2023,19,32
 Aigle royal,2023,5,11
 Aigrette garzette,2023,1,0
 Alouette des champs,2023,18,21
@@ -14,12 +14,12 @@ Bergeronnette grise,2023,13,59
 Bondrée apivore,2022,9,22
 Bouscarle de Cetti,2022,1,2
 Bouvreuil pivoine,2023,11,21
-Bruant fou,2023,34,44
+Bruant fou,2023,35,44
 Bruant jaune,2023,16,32
 Bruant proyer,2023,13,5
 Bruant zizi,2023,14,18
 Busard cendré,2018,0,1
-Busard des roseaux,2018,0,1
+Busard des roseaux,2023,2,1
 Busard Saint-Martin,2023,7,4
 Buse variable,2023,92,161
 Canard colvert,2023,6,1
@@ -28,9 +28,9 @@ Chevalier guignette,2019,2,4
 Chocard à bec jaune,2023,13,15
 Chouette hulotte,2022,13,5
 Cigogne blanche,2017,0,5
-Cigogne noire,2021,2,5
+Cigogne noire,2023,4,5
 Cincle plongeur (C.c.cinclus),2022,15,24
-Circaète Jean-le-Blanc,2023,15,26
+Circaète Jean-le-Blanc,2023,16,26
 Cisticole des joncs (C.j.cisticola),2020,3,0
 Corneille noire,2023,44,103
 Coucou gris,2023,5,14
@@ -44,14 +44,14 @@ Faisan de Colchide,2020,3,3
 Faucon crécerelle,2023,17,46
 Faucon émerillon,2012,0,2
 Faucon hobereau,2023,3,11
-Faucon pèlerin (F.p.brookei),2023,14,27
+Faucon pèlerin,2023,14,27
 Fauvette à tête noire,2023,90,130
 Fauvette des jardins,2009,0,2
 Fauvette grisette,2023,2,3
 Fauvette pitchou,2023,39,12
 Gallinule poule-d'eau,2023,4,0
 Geai des chênes,2023,24,53
-Gobemouche gris (M. s. striata),2022,7,9
+Gobemouche gris,2022,7,9
 Gobemouche noir,2023,14,17
 Grand Corbeau,2023,51,104
 Grand Cormoran,2023,17,19
@@ -76,14 +76,14 @@ Martinet noir,2021,12,61
 Martin-pêcheur d'Europe,2023,7,6
 Merle à plastron,2023,3,5
 Merle noir,2023,72,110
-Mésange à longue queue (A.c.caudatus),2023,11,23
+Mésange à longue queue,2023,11,23
 Mésange bleue,2023,49,80
 Mésange charbonnière,2023,76,119
 Mésange huppée,2023,3,13
 Mésange noire,2020,1,6
 Mésange nonnette,2023,17,25
 Milan noir,2023,51,80
-Milan royal,2023,246,263
+Milan royal,2023,247,263
 Moineau domestique,2023,20,87
 Moineau friquet,2015,0,1
 Monticole bleu,2021,3,2
@@ -119,9 +119,9 @@ Sittelle torchepot,2023,61,52
 Tarier des prés,2012,0,2
 Tarier pâtre,2023,86,81
 Tarin des aulnes,2022,5,10
-Torcol fourmilier (J.t.tschusii),2020,4,5
+Torcol fourmilier,2020,4,5
 Tourterelle turque,2023,11,30
-Traquet motteux,2023,6,13
+Traquet motteux,2023,7,13
 Troglodyte mignon,2023,77,107
 Vanneau huppé,2012,0,4
 Vautour fauve,2023,165,323

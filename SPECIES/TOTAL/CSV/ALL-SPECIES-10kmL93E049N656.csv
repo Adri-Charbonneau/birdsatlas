@@ -1,23 +1,23 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2023,15,71
+Accenteur mouchet,2023,16,71
 Alouette des champs,2023,12,44
 Alouette lulu,2023,3,5
 Autour des palombes,2020,1,9
 Barge à queue noire,2014,0,1
 Bergeronnette des ruisseaux,2022,7,41
 Bergeronnette flavéole (M.f.flavissima),2021,1,0
-Bergeronnette grise,2023,7,85
-Bergeronnette printanière,2023,13,10
+Bergeronnette grise,2023,8,85
+Bergeronnette printanière,2023,14,10
 Bondrée apivore,2014,0,7
 Bouscarle de Cetti,2021,3,2
 Bouvreuil pivoine,2013,0,3
 Bruant jaune,2021,1,19
 Bruant proyer,2023,9,7
-Bruant zizi,2023,8,45
+Bruant zizi,2023,10,45
 Busard cendré,2022,2,12
 Busard des roseaux,2014,0,1
 Busard Saint-Martin,2022,12,47
-Buse variable,2023,42,201
+Buse variable,2023,43,201
 Caille des blés,2023,2,4
 Canard colvert,2023,18,106
 Canard mandarin,2022,1,0
@@ -36,27 +36,27 @@ Cisticole des joncs (C.j.cisticola),2023,3,2
 Cochevis huppé,2023,3,4
 Combattant varié,2014,0,1
 Corbeau freux,2022,3,187
-Corneille noire,2023,33,188
+Corneille noire,2023,34,188
 Coucou gris,2023,11,30
 Cygne tuberculé,2017,0,6
 Effraie des clochers,2021,2,24
 Élanion blanc,2023,13,2
 Engoulevent d'Europe,2014,0,2
 Épervier d'Europe,2020,3,21
-Étourneau sansonnet,2023,41,183
+Étourneau sansonnet,2023,42,183
 Faisan de Colchide,2018,0,11
-Faucon crécerelle,2023,36,111
+Faucon crécerelle,2023,37,111
 Faucon hobereau,2015,0,8
-Faucon pèlerin (F.p.brookei),2019,1,1
-Fauvette à tête noire,2023,26,124
+Faucon pèlerin,2019,1,1
+Fauvette à tête noire,2023,27,124
 Fauvette des jardins,2019,1,9
-Fauvette grisette,2023,7,16
+Fauvette grisette,2023,8,16
 Foulque macroule,2022,1,3
 Fuligule milouin,2019,0,1
 Gallinule poule-d'eau,2023,4,35
 Geai des chênes,2023,13,168
-Gobemouche gris (M. s. striata),2014,0,14
-Gobemouche noir,2014,0,2
+Gobemouche gris,2014,0,14
+Gobemouche noir,2023,1,2
 Grand Cormoran,2015,0,8
 Grande Aigrette,2023,22,4
 Grèbe castagneux,2009,0,1
@@ -67,7 +67,7 @@ Grive litorne,2023,2,0
 Grive mauvis,2023,3,1
 Grive musicienne,2023,21,34
 Grosbec casse-noyaux,2021,2,14
-Héron cendré,2023,28,72
+Héron cendré,2023,29,72
 Héron garde-boeufs,2023,32,1
 Héron pourpré,2014,0,2
 Hibou moyen-duc,2019,1,4
@@ -76,21 +76,21 @@ Hirondelle de rivage,2014,0,2
 Hirondelle rustique,2023,27,138
 Huppe fasciée,2023,21,38
 Hypolaïs polyglotte,2023,5,17
-Linotte mélodieuse,2023,9,33
+Linotte mélodieuse,2023,10,33
 Loriot d'Europe,2022,7,22
 Martinet noir,2022,2,114
 Martin-pêcheur d'Europe,2022,2,17
 Merle à plastron,2021,1,1
 Merle noir,2023,84,457
-Mésange à longue queue (A.c.caudatus),2023,6,20
-Mésange bleue,2023,39,297
-Mésange charbonnière,2023,40,363
+Mésange à longue queue,2023,6,20
+Mésange bleue,2023,41,297
+Mésange charbonnière,2023,43,363
 Mésange huppée,2013,0,4
 Mésange noire,2022,1,13
 Mésange nonnette,2015,0,8
 Milan noir,2021,2,13
 Milan royal,2022,3,4
-Moineau domestique,2023,48,418
+Moineau domestique,2023,49,418
 Moineau friquet,2019,1,3
 Mouette rieuse,2015,0,1
 Oedicnème criard,2022,1,7
@@ -107,10 +107,10 @@ Pie-grièche à tête rousse,2009,0,2
 Pie-grièche écorcheur,2023,2,14
 Pigeon biset domestique,2023,9,57
 Pigeon colombin,2013,0,4
-Pigeon ramier,2023,118,486
-Pinson des arbres,2023,59,365
+Pigeon ramier,2023,121,486
+Pinson des arbres,2023,61,365
 Pinson du Nord,2022,2,7
-Pipit des arbres,2021,1,11
+Pipit des arbres,2023,2,11
 Pipit farlouse,2023,3,13
 Pipit rousseline,2021,1,1
 Pluvier doré,2023,3,2
@@ -121,18 +121,18 @@ Râle d'eau,2009,0,1
 Roitelet à triple bandeau,2022,5,20
 Roitelet huppé,2015,0,16
 Rossignol philomèle,2023,12,27
-Rougegorge familier,2023,58,155
+Rougegorge familier,2023,60,155
 Rougequeue à front blanc,2023,8,64
 Rougequeue noir,2023,13,164
 Rousserolle effarvatte,2009,0,1
 Sarcelle d'hiver,2013,0,1
-Serin cini,2023,6,156
+Serin cini,2023,7,156
 Sittelle torchepot,2022,4,21
 Tarier des prés,2013,0,3
-Tarier pâtre,2023,14,18
+Tarier pâtre,2023,17,18
 Tarin des aulnes,2018,0,6
 Tichodrome échelette,2017,0,1
-Torcol fourmilier (J.t.tschusii),2009,0,1
+Torcol fourmilier,2009,0,1
 Tourterelle des bois,2023,16,64
 Tourterelle turque,2023,61,344
 Traquet motteux,2022,1,3

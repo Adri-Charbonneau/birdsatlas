@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,95,17
-Aigrette garzette,2023,96,42
+Aigrette garzette,2023,98,42
 Alouette des champs,2023,101,127
 Alouette haussecol,2023,18,20
 Alouette lulu,2023,19,5
@@ -35,7 +35,7 @@ Bruant jaune,2023,14,44
 Bruant lapon,2023,31,81
 Bruant proyer,2022,3,8
 Busard cendré,2017,0,1
-Busard des roseaux,2023,21,10
+Busard des roseaux,2023,22,10
 Busard pâle,2019,1,0
 Busard Saint-Martin,2023,22,37
 Buse pattue,2021,1,0
@@ -59,7 +59,7 @@ Choucas des tours,2022,10,4
 Chouette hulotte,2022,6,0
 Cigogne blanche,2023,18,5
 Circaète Jean-le-Blanc,2021,1,0
-Cisticole des joncs (C.j.cisticola),2023,49,4
+Cisticole des joncs (C.j.cisticola),2023,50,4
 Cochevis huppé,2023,24,6
 Combattant varié,2023,3,2
 Corbeau freux,2009,0,1
@@ -78,9 +78,9 @@ Engoulevent d'Europe,2023,2,0
 Étourneau sansonnet,2023,96,21
 Faisan de Colchide,2023,22,7
 Faucon crécerelle,2023,47,15
-Faucon émerillon,2021,7,13
-Faucon hobereau,2023,15,11
-Faucon pèlerin (F.p.brookei),2023,42,38
+Faucon émerillon,2023,8,13
+Faucon hobereau,2023,16,11
+Faucon pèlerin,2023,42,38
 Fauvette à tête noire,2023,12,13
 Fauvette babillarde,2023,25,9
 Fauvette des jardins,2023,4,4
@@ -94,7 +94,7 @@ Fulmar boréal,2011,0,1
 Gallinule poule-d'eau,2022,17,5
 Garrot à oeil d'or,2022,3,1
 Geai des chênes,2023,13,8
-Gobemouche gris (M. s. striata),2022,7,2
+Gobemouche gris,2022,7,2
 Goéland argenté,2023,93,72
 Goéland brun,2023,37,36
 Goéland cendré,2023,45,45
@@ -103,7 +103,7 @@ Goéland marin,2023,67,66
 Goéland pontique,2023,8,0
 Gorgebleue à miroir,2021,3,3
 Grand Cormoran,2023,108,57
-Grande Aigrette,2023,37,14
+Grande Aigrette,2023,38,14
 Grand Gravelot,2023,86,87
 Grand Labbe,2022,4,5
 Gravelot à collier interrompu,2023,60,52
@@ -123,7 +123,7 @@ Harle bièvre,2023,2,0
 Harle huppé,2023,6,4
 Harle piette,2016,0,1
 Héron cendré,2023,32,15
-Héron garde-boeufs,2023,11,2
+Héron garde-boeufs,2023,13,2
 Héron pourpré,2021,4,1
 Hibou des marais,2022,7,13
 Hirondelle de fenêtre,2023,3,4
@@ -148,7 +148,7 @@ Martinet pâle,2020,1,1
 Martin-pêcheur d'Europe,2023,8,5
 Merle à plastron,2022,2,0
 Merle noir,2023,154,38
-Mésange à longue queue (A.c.caudatus),2023,7,6
+Mésange à longue queue,2023,7,6
 Mésange bleue,2023,35,20
 Mésange charbonnière,2023,46,39
 Mésange huppée,2020,2,1
@@ -214,7 +214,7 @@ Sarcelle d'hiver,2023,47,13
 Serin cini,2023,7,1
 Sittelle torchepot,2022,1,6
 Sizerin flammé,2022,1,0
-Spatule blanche,2023,70,33
+Spatule blanche,2023,71,33
 Sterne caspienne,2014,0,3
 Sterne caugek,2023,59,36
 Sterne naine,2021,3,6
