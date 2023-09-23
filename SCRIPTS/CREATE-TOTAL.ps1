@@ -26,8 +26,8 @@ Import-Csv "csvtemp.txt" -delimiter "," -Header frname , lastobs , newcount , ol
 Remove-Item "name.csv", "lastobs.csv", "newcount.csv", "oldcount.csv", "csvtemp.txt"
 
 # git and create tag
-git config --local user.email "$mail"
-git config --local user.name "Adri-Charbonneau"
+git config user.name 'github-actions[bot]'
+git config user.email 'github-actions[bot]@users.noreply.github.com'
 git add .
 git commit -m "[Bot] Update files - TOTAL"
 git push -f

@@ -20,8 +20,8 @@ $date = Get-Date -Format "dd/MM/yyyy"
 $text = $text -replace "mailles : ([0-9]+/[0-9]+/[0-9]+)","mailles : $date" | Set-Content -Path "dates.txt"
 
 # git and create tag
-git config --local user.email "$mail"
-git config --local user.name "Adri-Charbonneau"
+git config user.name 'github-actions[bot]'
+git config user.email 'github-actions[bot]@users.noreply.github.com'
 git add .
 git commit -m "[Bot] Update files - MAILLES"
 git push -f
