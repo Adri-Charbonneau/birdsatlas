@@ -3,7 +3,7 @@ jQuery(document).ready(main)
 function main() {
 	var newMap = L.map('map').setView([46.5,2], 6);
 	L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-		attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors | <a href="https://github.com/A-d-r-i/birdsatlas">A-d-r-i</a>'
+		attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors | <a href="https://github.com/Adri-Charbonneau/birdsatlas">Adri-Charbonneau</a>'
 	}).addTo(newMap);
 	
 	// loading GeoJSON file
