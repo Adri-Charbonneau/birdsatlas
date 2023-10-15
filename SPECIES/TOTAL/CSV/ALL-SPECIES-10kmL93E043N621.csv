@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2023,14,8
 Accenteur mouchet,2023,136,139
-Aigle botté,2023,65,60
+Aigle botté,2023,66,60
 Aigle royal,2023,71,60
 Aigrette garzette,2021,1,0
 Alouette des champs,2023,19,17
@@ -23,10 +23,10 @@ Bruant ortolan,2021,1,3
 Bruant proyer,2019,2,4
 Bruant zizi,2015,0,3
 Busard cendré,2023,14,7
-Busard des roseaux,2023,50,15
+Busard des roseaux,2023,51,15
 Busard pâle,2019,1,1
 Busard Saint-Martin,2022,4,0
-Buse variable,2023,292,163
+Buse variable,2023,293,163
 Caille des blés,2020,1,4
 Canard chipeau,2022,1,0
 Canard colvert,2023,65,22
@@ -35,7 +35,7 @@ Chardonneret élégant,2023,166,113
 Chevalier culblanc,2023,5,2
 Chevalier guignette,2023,3,0
 Chevêche d'Athéna,2019,1,0
-Chocard à bec jaune,2023,80,25
+Chocard à bec jaune,2023,81,25
 Choucas des tours,2023,1,0
 Chouette de Tengmalm,2023,1,1
 Chouette hulotte,2023,44,18
@@ -47,9 +47,9 @@ Cisticole des joncs,2023,8,0
 Corneille noire,2023,250,166
 Coucou gris,2023,52,23
 Courlis cendré,2013,0,2
-Crave à bec rouge,2023,177,176
+Crave à bec rouge,2023,178,176
 Effraie des clochers,2021,1,2
-Épervier d'Europe,2023,69,83
+Épervier d'Europe,2023,70,83
 Étourneau sansonnet,2021,20,45
 Faisan de Colchide,2021,2,4
 Faucon crécerelle,2023,184,120
@@ -59,7 +59,7 @@ Faucon émerillon,2021,3,3
 Faucon hobereau,2023,30,20
 Faucon pèlerin,2023,27,19
 Fauvette à lunettes,2023,13,0
-Fauvette à tête noire,2023,214,103
+Fauvette à tête noire,2023,215,103
 Fauvette des Balkans (ssp. cantillans),2014,0,1
 Fauvette des jardins,2022,1,3
 Fauvette grisette,2023,32,14
@@ -68,8 +68,8 @@ Gallinule poule-d'eau,2017,0,6
 Geai des chênes,2023,146,63
 Gobemouche gris,2023,55,12
 Gobemouche noir,2023,42,27
-Grand Corbeau,2023,178,134
-Grand Cormoran,2023,8,3
+Grand Corbeau,2023,179,134
+Grand Cormoran,2023,9,3
 Grand-duc d'Europe,2021,1,1
 Grand Tétras,2023,2,3
 Grèbe castagneux,2022,8,13
@@ -84,17 +84,17 @@ Guêpier d'Europe,2023,5,3
 Héron cendré,2023,17,38
 Héron garde-boeufs,2021,1,1
 Hibou moyen-duc,2021,3,1
-Hirondelle de fenêtre,2023,115,81
+Hirondelle de fenêtre,2023,116,81
 Hirondelle de rivage,2023,10,6
 Hirondelle de rochers,2023,32,71
-Hirondelle rustique,2023,134,105
+Hirondelle rustique,2023,135,105
 Huppe fasciée,2023,12,13
 Hypolaïs polyglotte,2023,15,6
 Labbe à longue queue,2021,1,0
 Labbe parasite,2022,1,0
 Lagopède alpin,2009,0,1
 Léiothrix jaune,2022,1,0
-Linotte mélodieuse,2023,95,78
+Linotte mélodieuse,2023,96,78
 Martinet à ventre blanc,2023,27,4
 Martinet noir,2023,139,82
 Martin-pêcheur d'Europe,2023,1,0
@@ -106,7 +106,7 @@ Mésange charbonnière,2023,206,184
 Mésange huppée,2023,63,12
 Mésange noire,2023,247,104
 Mésange nonnette,2023,33,93
-Milan noir,2023,240,163
+Milan noir,2023,241,163
 Milan royal,2023,310,282
 Moineau domestique,2023,178,174
 Monticole bleu,2023,1,0
@@ -122,13 +122,13 @@ Pic épeichette,2013,0,4
 Pic mar,2022,7,5
 Pic noir,2023,54,31
 Pic vert,2023,91,98
-Pie bavarde,2023,223,178
+Pie bavarde,2023,224,178
 Pie-grièche à tête rousse,2021,3,0
 Pie-grièche écorcheur,2023,19,35
 Pigeon biset domestique,2021,3,4
 Pigeon colombin,2023,10,3
 Pigeon ramier,2023,65,23
-Pinson des arbres,2023,408,252
+Pinson des arbres,2023,409,252
 Pinson du Nord,2023,18,23
 Pipit des arbres,2023,107,56
 Pipit farlouse,2023,36,15
@@ -136,7 +136,7 @@ Pipit spioncelle,2023,166,119
 Pouillot de Bonelli,2023,6,1
 Pouillot fitis,2023,26,11
 Pouillot siffleur,2019,1,0
-Pouillot véloce,2023,142,53
+Pouillot véloce,2023,143,53
 Râle d'eau,2009,0,1
 Roitelet à triple bandeau,2023,60,33
 Roitelet huppé,2023,158,34
@@ -150,7 +150,7 @@ Serin cini,2023,70,50
 Sittelle torchepot,2023,128,64
 Tarier des prés,2023,57,33
 Tarier pâtre,2023,156,84
-Tarin des aulnes,2023,34,12
+Tarin des aulnes,2023,35,12
 Tichodrome échelette,2022,6,10
 Torcol fourmilier,2023,3,3
 Tourterelle des bois,2023,3,1
@@ -158,7 +158,7 @@ Tourterelle turque,2023,182,146
 Traquet motteux,2023,129,142
 Troglodyte mignon,2023,129,29
 Vanneau huppé,2020,1,3
-Vautour fauve,2023,452,360
+Vautour fauve,2023,453,360
 Vautour moine,2023,8,6
 Venturon montagnard,2023,5,4
 Verdier d'Europe,2022,53,64
