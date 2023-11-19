@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2014,0,9
-Accenteur mouchet,2023,1,26
+Accenteur mouchet,2023,2,26
 Aigle royal,2020,2,1
 Aigrette garzette,2022,1,5
 Alouette des champs,2020,1,5
@@ -14,7 +14,7 @@ Bihoreau gris,2021,1,2
 Bondrée apivore,2022,5,16
 Bouvreuil pivoine,2023,7,29
 Bruant des roseaux,2010,0,1
-Bruant fou,2023,2,19
+Bruant fou,2023,4,19
 Bruant jaune,2022,1,15
 Bruant zizi,2021,4,35
 Busard cendré,2013,0,1
@@ -88,7 +88,7 @@ Mésange bleue,2023,30,101
 Mésange charbonnière,2023,48,129
 Mésange huppée,2022,4,38
 Mésange noire,2022,6,59
-Mésange nonnette,2022,8,43
+Mésange nonnette,2023,9,43
 Milan noir,2023,30,50
 Milan royal,2023,18,49
 Moineau domestique,2023,45,38
@@ -96,10 +96,10 @@ Moineau friquet,2009,0,1
 Mouette rieuse,2020,1,0
 Perdrix rouge,2013,0,3
 Petit Gravelot,2020,1,0
-Pic épeiche,2023,11,61
-Pic épeichette,2017,0,12
+Pic épeiche,2023,13,61
+Pic épeichette,2023,1,12
 Pic noir,2022,6,28
-Pic vert,2023,34,68
+Pic vert,2023,35,68
 Pie bavarde,2023,25,70
 Pie-grièche écorcheur,2023,8,15
 Pie-grièche grise,2019,1,0
@@ -109,7 +109,7 @@ Pigeon ramier,2023,17,75
 Pinson des arbres,2023,41,120
 Pinson du Nord,2022,6,7
 Pipit des arbres,2018,0,10
-Pipit farlouse,2015,0,1
+Pipit farlouse,2023,1,1
 Pouillot de Bonelli,2010,0,1
 Pouillot fitis,2011,0,3
 Pouillot véloce,2023,25,70
@@ -124,7 +124,7 @@ Serin cini,2023,11,38
 Sittelle torchepot,2023,9,41
 Tarier des prés,2013,0,1
 Tarier pâtre,2023,6,19
-Tarin des aulnes,2021,4,29
+Tarin des aulnes,2023,5,29
 Tichodrome échelette,2022,3,18
 Torcol fourmilier,2023,2,7
 Tourterelle des bois,2011,0,2
