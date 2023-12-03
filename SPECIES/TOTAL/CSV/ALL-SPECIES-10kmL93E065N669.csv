@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,37,13
 Aigle botté,2020,1,0
-Aigrette garzette,2023,11,8
+Aigrette garzette,2023,13,8
 Alouette des champs,2023,57,4
 Alouette lulu,2023,20,1
 Autour des palombes,2021,2,1
@@ -11,7 +11,7 @@ Bécassine des marais,2023,9,0
 Bergeronnette des ruisseaux,2023,40,17
 Bergeronnette grise,2023,114,40
 Bergeronnette printanière,2023,11,1
-Bernache du Canada,2023,174,54
+Bernache du Canada,2023,177,54
 Bernache nonnette,2016,0,2
 Bihoreau gris,2023,9,0
 Blongios nain,2021,1,0
@@ -26,6 +26,8 @@ Busard Saint-Martin,2023,2,8
 Buse variable,2023,167,81
 Caille des blés,2023,9,0
 Canard colvert,2023,99,56
+Canard pilet,2023,1,0
+Canard souchet,2023,1,0
 Chardonneret élégant,2023,80,37
 Chevalier culblanc,2021,4,2
 Chevalier guignette,2023,29,8
@@ -43,6 +45,7 @@ Courlis corlieu,2021,2,0
 Cygne noir,2023,5,0
 Cygne tuberculé,2023,8,6
 Effraie des clochers,2023,25,7
+Élanion blanc,2023,1,0
 Engoulevent d'Europe,2023,5,0
 Épervier d'Europe,2023,21,3
 Étourneau sansonnet,2023,158,75
@@ -61,8 +64,8 @@ Gallinule poule-d'eau,2023,78,36
 Geai des chênes,2023,113,48
 Gobemouche gris,2023,12,1
 Gobemouche noir,2023,14,0
-Grand Cormoran,2023,78,36
-Grande Aigrette,2023,88,44
+Grand Cormoran,2023,80,36
+Grande Aigrette,2023,89,44
 Grand Gravelot,2022,4,2
 Gravelot à collier interrompu,2017,0,1
 Grèbe castagneux,2022,8,0
@@ -75,7 +78,7 @@ Grive musicienne,2023,98,8
 Grosbec casse-noyaux,2023,51,25
 Guêpier d'Europe,2021,2,0
 Guifette moustac,2014,0,1
-Héron cendré,2023,128,52
+Héron cendré,2023,130,52
 Héron garde-boeufs,2023,22,0
 Héron pourpré,2017,0,1
 Hibou des marais,2021,1,0
@@ -88,7 +91,7 @@ Linotte mélodieuse,2023,42,2
 Locustelle tachetée,2023,2,0
 Loriot d'Europe,2023,37,11
 Martinet noir,2023,5,5
-Martin-pêcheur d'Europe,2023,64,40
+Martin-pêcheur d'Europe,2023,65,40
 Merle noir,2023,212,94
 Mésange à longue queue,2023,52,21
 Mésange bleue,2023,199,80
@@ -100,7 +103,7 @@ Milan noir,2023,24,3
 Milan royal,2022,5,3
 Moineau domestique,2023,101,66
 Mouette mélanocéphale,2020,1,0
-Mouette rieuse,2023,16,18
+Mouette rieuse,2023,18,18
 Oedicnème criard,2021,3,0
 Oie cendrée,2023,1,0
 Ouette d'Égypte,2023,3,0
@@ -119,7 +122,7 @@ Pie-grièche écorcheur,2023,9,2
 Pigeon biset domestique,2023,16,3
 Pigeon colombin,2021,1,1
 Pigeon ramier,2023,264,114
-Pinson des arbres,2023,276,99
+Pinson des arbres,2023,277,99
 Pinson du Nord,2023,15,2
 Pipit des arbres,2023,22,0
 Pipit farlouse,2023,24,3
