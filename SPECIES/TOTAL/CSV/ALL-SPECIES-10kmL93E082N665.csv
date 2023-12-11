@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2022,3,1
-Accenteur mouchet,2023,50,101
+Accenteur mouchet,2023,51,101
 Aigle botté,2021,2,3
 Aigrette garzette,2015,0,1
 Alouette calandrelle,2017,0,1
@@ -17,11 +17,11 @@ Bergeronnette printanière,2021,7,13
 Bondrée apivore,2022,31,74
 Bouvreuil pivoine,2023,24,37
 Bruant des roseaux,2023,12,30
-Bruant fou,2023,23,26
+Bruant fou,2023,25,26
 Bruant jaune,2022,41,97
 Bruant ortolan,2021,2,5
 Bruant proyer,2023,115,129
-Bruant zizi,2023,149,140
+Bruant zizi,2023,151,140
 Busard cendré,2023,33,82
 Busard des roseaux,2023,25,78
 Busard pâle,2022,1,4
@@ -75,9 +75,9 @@ Grande Aigrette,2021,7,12
 Grand Gravelot,2023,1,0
 Grèbe castagneux,2021,1,1
 Grimpereau des jardins,2023,64,62
-Grive draine,2022,73,86
+Grive draine,2023,75,86
 Grive litorne,2023,48,40
-Grive mauvis,2021,11,19
+Grive mauvis,2023,12,19
 Grive musicienne,2023,99,114
 Grosbec casse-noyaux,2023,25,91
 Guêpier d'Europe,2023,3,4
@@ -96,7 +96,7 @@ Martinet à ventre blanc,2023,132,179
 Martinet noir,2023,19,23
 Martin-pêcheur d'Europe,2021,7,12
 Merle à plastron,2022,8,13
-Merle noir,2023,285,232
+Merle noir,2023,287,232
 Mésange à longue queue,2023,52,76
 Mésange bleue,2023,158,177
 Mésange charbonnière,2023,221,236
@@ -125,7 +125,7 @@ Pie-grièche grise,2022,3,26
 Pigeon biset domestique,2023,4,8
 Pigeon colombin,2023,9,37
 Pigeon ramier,2023,252,400
-Pinson des arbres,2023,289,263
+Pinson des arbres,2023,291,263
 Pinson du Nord,2023,12,71
 Pipit des arbres,2023,43,87
 Pipit farlouse,2022,12,39
@@ -141,7 +141,7 @@ Roitelet à triple bandeau,2023,33,49
 Roitelet huppé,2022,15,32
 Rollier d'Europe,2016,0,15
 Rossignol philomèle,2023,76,50
-Rougegorge familier,2023,158,174
+Rougegorge familier,2023,159,174
 Rougequeue à front blanc,2023,26,24
 Rougequeue noir,2023,81,86
 Rousserolle effarvatte,2023,1,0
@@ -158,7 +158,7 @@ Torcol fourmilier,2023,37,30
 Tourterelle des bois,2023,49,46
 Tourterelle turque,2023,89,75
 Traquet motteux,2023,72,118
-Troglodyte mignon,2023,119,153
+Troglodyte mignon,2023,120,153
 Vanneau huppé,2023,13,23
 Vautour fauve,2020,1,14
 Verdier d'Europe,2023,72,128

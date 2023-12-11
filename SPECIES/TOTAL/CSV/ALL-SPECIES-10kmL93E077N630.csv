@@ -1,6 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,8,14
 Aigle criard,2019,1,1
+Aigle royal,2023,1,0
 Aigrette garzette,2021,1,0
 Alouette des champs,2016,0,2
 Alouette lulu,2023,113,73
@@ -20,7 +21,7 @@ Bruant zizi,2023,79,60
 Busard cendré,2023,2,4
 Busard des roseaux,2015,0,2
 Busard Saint-Martin,2023,4,2
-Buse variable,2023,39,33
+Buse variable,2023,40,33
 Caille des blés,2018,0,1
 Canard colvert,2022,4,4
 Chardonneret élégant,2023,56,64
@@ -78,7 +79,7 @@ Loriot d'Europe,2023,64,35
 Martinet à ventre blanc,2023,7,10
 Martinet noir,2023,44,37
 Martin-pêcheur d'Europe,2021,1,1
-Merle noir,2023,76,138
+Merle noir,2023,77,138
 Mésange à longue queue,2022,9,23
 Mésange bleue,2023,50,46
 Mésange charbonnière,2023,113,126
@@ -96,13 +97,13 @@ Petit-duc scops,2023,9,20
 Pic épeiche,2020,2,5
 Pic épeichette,2019,1,2
 Pic vert,2023,13,25
-Pie bavarde,2023,64,56
+Pie bavarde,2023,65,56
 Pie-grièche à tête rousse,2023,35,19
 Pie-grièche écorcheur,2020,1,0
 Pie-grièche méridionale,2023,26,11
 Pigeon biset domestique,2023,23,5
 Pigeon colombin,2009,0,1
-Pigeon ramier,2023,59,42
+Pigeon ramier,2023,60,42
 Pinson des arbres,2023,138,121
 Pipit des arbres,2021,1,3
 Pipit farlouse,2023,7,11
@@ -114,7 +115,7 @@ Roitelet à triple bandeau,2023,17,29
 Roitelet huppé,2023,2,12
 Rollier d'Europe,2023,23,19
 Rossignol philomèle,2023,105,91
-Rougegorge familier,2023,68,86
+Rougegorge familier,2023,69,86
 Rougequeue à front blanc,2023,42,21
 Rougequeue noir,2023,49,43
 Serin cini,2023,64,54
@@ -124,8 +125,8 @@ Tarin des aulnes,2022,4,2
 Tichodrome échelette,2021,1,3
 Torcol fourmilier,2013,0,1
 Tourterelle des bois,2023,38,43
-Tourterelle turque,2023,119,75
+Tourterelle turque,2023,121,75
 Traquet motteux,2016,0,1
 Traquet oreillard,2015,0,1
-Troglodyte mignon,2022,3,24
+Troglodyte mignon,2023,4,24
 Verdier d'Europe,2023,21,30
