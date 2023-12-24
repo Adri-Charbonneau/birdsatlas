@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Aigrette garzette,2023,8,0
 Alouette lulu,2018,0,1
-Bergeronnette des ruisseaux,2022,3,0
+Bergeronnette des ruisseaux,2023,4,0
 Bergeronnette grise,2020,1,0
 Bergeronnette printanière,2020,1,0
 Bondrée apivore,2023,1,0
@@ -9,15 +9,15 @@ Bouscarle de Cetti,2023,19,4
 Bruant proyer,2020,5,2
 Bruant zizi,2023,10,2
 Busard des roseaux,2023,4,0
-Buse variable,2023,9,6
+Buse variable,2023,10,6
 Caille des blés,2020,1,1
 Canard colvert,2023,13,1
-Chardonneret élégant,2023,12,5
+Chardonneret élégant,2023,13,5
 Chevalier aboyeur,2018,0,1
 Chevalier sylvain,2021,3,2
 Cisticole des joncs,2023,5,2
 Combattant varié,2021,1,0
-Corneille mantelée,2023,27,10
+Corneille mantelée,2023,28,10
 Coucou gris,2020,4,1
 Crabier chevelu,2018,0,2
 Échasse blanche,2023,1,0
@@ -30,7 +30,7 @@ Faucon hobereau,2018,0,1
 Faucon pèlerin,2019,1,0
 Fauvette à tête noire,2023,27,5
 Fauvette de Moltoni,2023,4,0
-Fauvette mélanocéphale,2023,12,4
+Fauvette mélanocéphale,2023,13,4
 Fauvette passerinette,2009,0,1
 Foulque macroule,2023,15,5
 Gallinule poule-d'eau,2021,1,1
@@ -39,9 +39,9 @@ Gobemouche gris,2018,0,2
 Gobemouche tyrrhénien,2023,1,0
 Goéland d'Audouin,2022,4,0
 Goéland leucophée,2023,5,2
-Grand Corbeau,2023,14,4
+Grand Corbeau,2023,15,4
 Grande Aigrette,2020,3,0
-Grèbe castagneux,2023,13,4
+Grèbe castagneux,2023,14,4
 Grive draine,2019,1,0
 Grive musicienne,2022,1,0
 Grosbec casse-noyaux,2019,1,1
@@ -55,16 +55,16 @@ Hirondelle de rochers,2023,2,0
 Hirondelle rustique,2023,6,0
 Huppe fasciée,2023,1,1
 Ibis falcinelle,2023,1,1
-Linotte mélodieuse,2023,2,2
+Linotte mélodieuse,2023,3,2
 Loriot d'Europe,2021,2,0
 Martinet à ventre blanc,2023,2,0
 Martinet noir,2023,13,3
-Martin-pêcheur d'Europe,2019,1,0
+Martin-pêcheur d'Europe,2023,2,0
 Merle noir,2023,21,4
-Mésange à longue queue,2023,1,1
+Mésange à longue queue,2023,2,1
 Mésange bleue,2023,7,4
 Mésange charbonnière,2023,12,3
-Milan royal,2023,52,30
+Milan royal,2023,53,30
 Moineau cisalpin,2023,10,3
 Perdrix rouge,2021,2,1
 Petit-duc scops,2023,17,5
@@ -75,10 +75,11 @@ Pie-grièche écorcheur,2023,1,1
 Pigeon biset domestique,2023,5,2
 Pigeon biset (origine naturelle),2021,1,0
 Pigeon ramier,2023,6,0
-Pinson des arbres,2023,17,3
+Pinson des arbres,2023,18,3
 Pipit rousseline,2023,2,1
 Pouillot siffleur,2020,1,0
 Pouillot véloce,2020,1,0
+Râle d'eau,2023,1,0
 Roitelet à triple bandeau,2023,7,2
 Roitelet huppé,2020,1,0
 Rossignol philomèle,2023,10,3
@@ -93,5 +94,6 @@ Tourterelle des bois,2023,6,2
 Tourterelle turque,2023,12,4
 Traquet motteux,2022,1,0
 Troglodyte mignon,2022,3,1
+Vanneau huppé,2023,1,0
 Venturon corse,2020,2,1
-Verdier d'Europe,2023,9,1
+Verdier d'Europe,2023,10,1
