@@ -1,5 +1,5 @@
 frname,lastobs,newcount,oldcount
-Accenteur mouchet,2023,26,22
+Accenteur mouchet,2023,27,22
 Aigle royal,2016,0,2
 Aigrette garzette,2023,166,225
 Alouette des champs,2019,1,6
@@ -24,14 +24,14 @@ Bruant zizi,2023,39,55
 Busard cendré,2019,1,0
 Busard des roseaux,2023,4,5
 Busard Saint-Martin,2016,0,1
-Buse variable,2023,68,181
+Buse variable,2023,70,181
 Butor étoilé,2015,0,1
 Caille des blés,2013,0,2
 Canard à collier noir,2014,0,1
 Canard carolin,2015,0,1
 Canard colvert,2023,107,142
 Canard mandarin,2021,1,0
-Chardonneret élégant,2023,164,190
+Chardonneret élégant,2023,165,190
 Chevalier culblanc,2023,1,1
 Chevalier guignette,2023,4,6
 Chevêche d'Athéna,2023,4,11
@@ -59,21 +59,21 @@ Faucon d'Éléonore,2023,84,171
 Faucon émerillon,2022,1,1
 Faucon hobereau,2022,14,50
 Faucon pèlerin,2023,3,14
-Fauvette à tête noire,2023,164,236
+Fauvette à tête noire,2023,165,236
 Fauvette babillarde,2008,0,1
 Fauvette des jardins,2022,1,1
 Fauvette grisette,2022,1,2
-Fauvette mélanocéphale,2023,79,93
+Fauvette mélanocéphale,2023,80,93
 Fauvette orphée,2023,1,4
 Fauvette passerinette,2023,19,24
 Foulque macroule,2013,0,1
 Gallinule poule-d'eau,2023,1,9
-Geai des chênes,2023,49,151
+Geai des chênes,2023,51,151
 Gobemouche gris,2023,6,7
 Gobemouche noir,2023,15,16
 Goéland brun,2016,0,1
 Goéland leucophée,2023,101,340
-Grand Corbeau,2023,10,42
+Grand Corbeau,2023,11,42
 Grand Cormoran,2023,44,106
 Grand-duc d'Europe,2023,8,9
 Grande Aigrette,2023,45,68
@@ -81,7 +81,7 @@ Grimpereau des jardins,2023,37,95
 Grive draine,2023,8,19
 Grive litorne,2017,0,1
 Grive mauvis,2022,2,0
-Grive musicienne,2023,36,80
+Grive musicienne,2023,37,80
 Grosbec casse-noyaux,2023,23,42
 Guêpier d'Europe,2023,51,32
 Harle bièvre,2017,0,2
@@ -89,7 +89,7 @@ Héron cendré,2023,158,435
 Héron garde-boeufs,2023,10,16
 Hirondelle de fenêtre,2023,58,77
 Hirondelle de rivage,2023,4,3
-Hirondelle de rochers,2023,78,343
+Hirondelle de rochers,2023,79,343
 Hirondelle rustique,2023,44,72
 Huppe fasciée,2023,41,52
 Hypolaïs polyglotte,2023,15,35
@@ -98,16 +98,16 @@ Loriot d'Europe,2023,59,84
 Martinet à ventre blanc,2022,1,8
 Martinet noir,2023,127,208
 Martin-pêcheur d'Europe,2023,8,38
-Merle noir,2023,78,253
-Mésange à longue queue,2023,24,47
-Mésange bleue,2023,79,177
-Mésange charbonnière,2023,176,284
+Merle noir,2023,81,253
+Mésange à longue queue,2023,25,47
+Mésange bleue,2023,81,177
+Mésange charbonnière,2023,178,284
 Mésange huppée,2021,1,23
 Mésange noire,2022,5,3
 Mésange nonnette,2023,5,34
 Milan noir,2023,78,195
 Milan royal,2023,5,16
-Moineau domestique,2023,307,315
+Moineau domestique,2023,308,315
 Moineau friquet,2023,12,26
 Moineau soulcie,2022,1,1
 Monticole bleu,2022,2,0
@@ -120,13 +120,13 @@ Pic épeiche,2023,32,88
 Pic épeichette,2023,13,8
 Pic noir,2020,2,10
 Pic vert,2023,61,142
-Pie bavarde,2023,162,351
+Pie bavarde,2023,163,351
 Pie-grièche à tête rousse,2023,5,3
 Pie-grièche écorcheur,2023,3,2
 Pie-grièche méridionale,2023,1,1
 Pigeon biset domestique,2023,119,305
-Pigeon ramier,2023,80,149
-Pinson des arbres,2023,121,324
+Pigeon ramier,2023,81,149
+Pinson des arbres,2023,122,324
 Pinson du Nord,2023,9,1
 Pipit des arbres,2023,1,0
 Pipit farlouse,2023,2,36
@@ -138,13 +138,13 @@ Roitelet à triple bandeau,2023,14,52
 Roitelet huppé,2023,1,23
 Rollier d'Europe,2022,4,11
 Rossignol philomèle,2023,85,91
-Rougegorge familier,2023,126,225
+Rougegorge familier,2023,127,225
 Rougequeue à front blanc,2023,71,57
-Rougequeue noir,2023,143,259
+Rougequeue noir,2023,144,259
 Rousserolle effarvatte,2018,0,4
 Rousserolle turdoïde,2010,0,1
 Serin cini,2023,57,61
-Sittelle torchepot,2023,11,59
+Sittelle torchepot,2023,13,59
 Tarier des prés,2023,3,2
 Tarier pâtre,2022,2,49
 Tarin des aulnes,2023,34,13
@@ -152,9 +152,9 @@ Tichodrome échelette,2015,0,3
 Tourterelle des bois,2023,15,52
 Tourterelle turque,2023,179,213
 Traquet motteux,2023,2,1
-Troglodyte mignon,2023,10,62
+Troglodyte mignon,2023,11,62
 Vanneau huppé,2020,1,2
 Vautour fauve,2023,18,17
 Vautour moine,2007,0,1
 Venturon montagnard,2016,0,1
-Verdier d'Europe,2023,122,167
+Verdier d'Europe,2023,123,167
