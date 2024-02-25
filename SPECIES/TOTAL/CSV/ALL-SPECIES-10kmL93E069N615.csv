@@ -1,12 +1,12 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2023,5,6
-Accenteur mouchet,2024,67,41
+Accenteur mouchet,2024,68,41
 Aigle botté,2023,16,31
 Aigle royal,2024,7,4
 Aigrette garzette,2015,0,2
 Alouette calandrelle,2022,1,0
-Alouette des champs,2023,8,16
-Alouette lulu,2024,235,222
+Alouette des champs,2024,9,16
+Alouette lulu,2024,237,222
 Autour des palombes,2021,7,12
 Bécasse des bois,2023,3,7
 Bécassine sourde,2021,1,0
@@ -26,30 +26,30 @@ Bruant zizi,2024,162,128
 Busard cendré,2021,1,0
 Busard des roseaux,2022,1,2
 Busard Saint-Martin,2009,0,1
-Buse variable,2024,106,168
+Buse variable,2024,108,168
 Caille des blés,2019,3,1
 Canard colvert,2023,8,12
-Chardonneret élégant,2024,243,193
+Chardonneret élégant,2024,245,193
 Chevalier guignette,2022,1,0
 Chevêche d'Athéna,2017,0,5
 Choucas des tours,2020,2,4
-Chouette hulotte,2024,49,73
+Chouette hulotte,2024,50,73
 Cigogne blanche,2022,3,6
 Cigogne noire,2016,0,2
 Cincle plongeur (C.c.cinclus),2017,0,7
 Circaète Jean-le-Blanc,2023,42,59
 Cisticole des joncs,2023,19,13
-Cochevis huppé,2023,38,25
+Cochevis huppé,2024,39,25
 Corneille noire,2023,14,22
 Coucou geai,2023,1,0
 Coucou gris,2023,51,50
 Crave à bec rouge,2014,0,2
 Effraie des clochers,2013,0,3
 Engoulevent d'Europe,2023,15,14
-Épervier d'Europe,2024,52,85
+Épervier d'Europe,2024,53,85
 Étourneau sansonnet,2024,273,198
 Faisan de Colchide,2021,3,8
-Faucon crécerelle,2024,64,94
+Faucon crécerelle,2024,65,94
 Faucon crécerellette,2014,0,1
 Faucon d'Éléonore,2023,1,0
 Faucon émerillon,2021,2,1
@@ -59,7 +59,7 @@ Faucon pèlerin,2024,20,25
 Fauvette à tête noire,2024,365,340
 Fauvette des jardins,2022,7,5
 Fauvette grisette,2023,16,11
-Fauvette mélanocéphale,2024,526,350
+Fauvette mélanocéphale,2024,528,350
 Fauvette orphée,2023,54,14
 Fauvette passerinette,2009,0,1
 Fauvette pitchou,2024,15,15
@@ -85,13 +85,13 @@ Héron garde-boeufs,2023,11,9
 Hibou moyen-duc,2021,3,0
 Hirondelle de fenêtre,2023,113,99
 Hirondelle de rivage,2022,2,2
-Hirondelle de rochers,2023,39,78
+Hirondelle de rochers,2024,40,78
 Hirondelle rousseline,2023,1,3
 Hirondelle rustique,2023,175,150
 Huppe fasciée,2024,217,243
 Hypolaïs polyglotte,2023,35,38
 Ibis falcinelle,2015,0,1
-Linotte mélodieuse,2023,59,25
+Linotte mélodieuse,2024,60,25
 Locustelle tachetée,2023,3,2
 Loriot d'Europe,2023,171,149
 Martinet à ventre blanc,2023,8,11
@@ -99,17 +99,17 @@ Martinet noir,2023,55,85
 Martinet pâle,2022,2,8
 Martin-pêcheur d'Europe,2023,5,6
 Merle à plastron,2019,1,3
-Merle noir,2024,687,491
+Merle noir,2024,688,491
 Mésange à longue queue,2024,125,117
-Mésange bleue,2024,501,400
-Mésange charbonnière,2024,455,426
-Mésange huppée,2024,192,162
+Mésange bleue,2024,502,400
+Mésange charbonnière,2024,457,426
+Mésange huppée,2024,194,162
 Mésange noire,2023,82,103
 Mésange nonnette,2023,19,23
 Milan noir,2023,5,16
 Milan royal,2022,2,8
 Moineau domestique,2024,337,227
-Moineau friquet,2024,137,109
+Moineau friquet,2024,138,109
 Moineau soulcie,2023,4,0
 Monticole bleu,2023,4,11
 Monticole de roche,2020,1,1
@@ -126,7 +126,7 @@ Pic épeiche,2024,162,169
 Pic épeichette,2024,69,54
 Pic noir,2023,42,30
 Pic vert,2023,1,3
-Pie bavarde,2024,100,75
+Pie bavarde,2024,101,75
 Pie-grièche à tête rousse,2023,85,37
 Pie-grièche écorcheur,2020,2,0
 Pigeon biset domestique,2023,6,9
@@ -143,7 +143,7 @@ Pouillot à grands sourcils,2016,0,1
 Pouillot de Bonelli,2023,268,238
 Pouillot fitis,2023,19,24
 Pouillot siffleur,2020,4,1
-Pouillot véloce,2024,186,159
+Pouillot véloce,2024,187,159
 Roitelet à triple bandeau,2024,286,213
 Roitelet huppé,2023,7,22
 Rollier d'Europe,2018,0,1
@@ -154,8 +154,8 @@ Rougequeue noir,2024,240,204
 Serin cini,2024,275,227
 Sittelle torchepot,2024,399,254
 Tarier des prés,2020,2,4
-Tarier pâtre,2024,152,90
-Tarin des aulnes,2024,175,128
+Tarier pâtre,2024,154,90
+Tarin des aulnes,2024,177,128
 Tichodrome échelette,2019,1,1
 Torcol fourmilier,2023,84,39
 Tourterelle des bois,2023,29,47
@@ -164,4 +164,4 @@ Traquet motteux,2022,8,11
 Troglodyte mignon,2024,178,140
 Vanneau huppé,2012,0,1
 Vautour fauve,2022,9,12
-Verdier d'Europe,2024,269,183
+Verdier d'Europe,2024,271,183

@@ -1,8 +1,8 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2024,38,40
 Aigle botté,2012,0,1
-Aigrette garzette,2024,24,21
-Alouette des champs,2024,47,51
+Aigrette garzette,2024,26,21
+Alouette des champs,2024,48,51
 Alouette lulu,2023,7,10
 Autour des palombes,2023,1,0
 Avocette élégante,2013,0,1
@@ -10,7 +10,7 @@ Bécasse des bois,2022,1,2
 Bécassine des marais,2016,0,2
 Bec-croisé des sapins,2008,0,1
 Bergeronnette des ruisseaux,2023,31,43
-Bergeronnette grise,2024,44,63
+Bergeronnette grise,2024,45,63
 Bergeronnette printanière,2023,2,12
 Bihoreau gris,2024,17,28
 Bondrée apivore,2023,8,13
@@ -28,31 +28,31 @@ Buse variable,2024,67,101
 Caille des blés,2022,2,4
 Calopsitte élégante,2020,1,0
 Canard chipeau,2014,0,3
-Canard colvert,2024,67,65
+Canard colvert,2024,69,65
 Canard souchet,2014,0,3
-Chardonneret élégant,2024,102,64
+Chardonneret élégant,2024,103,64
 Chevalier culblanc,2023,5,10
 Chevalier gambette,2019,1,0
 Chevalier guignette,2023,8,38
 Chevêche d'Athéna,2022,3,18
-Choucas des tours,2024,42,65
+Choucas des tours,2024,43,65
 Chouette hulotte,2022,4,15
 Cigogne blanche,2023,5,4
 Cigogne noire,2023,4,1
 Circaète Jean-le-Blanc,2023,7,13
 Cisticole des joncs,2023,20,3
 Cochevis huppé,2023,2,16
-Corbeau freux,2024,48,79
-Corneille noire,2024,79,90
+Corbeau freux,2024,49,79
+Corneille noire,2024,80,90
 Coucou gris,2023,41,35
 Cygne noir,2019,1,1
-Cygne tuberculé,2024,68,30
+Cygne tuberculé,2024,69,30
 Effraie des clochers,2023,10,17
 Élanion blanc,2021,1,0
 Engoulevent d'Europe,2016,0,7
 Épervier d'Europe,2024,8,15
-Étourneau sansonnet,2024,85,61
-Faisan de Colchide,2024,22,15
+Étourneau sansonnet,2024,86,61
+Faisan de Colchide,2024,23,15
 Faucon crécerelle,2023,60,86
 Faucon émerillon,2012,0,2
 Faucon hobereau,2023,3,11
@@ -61,7 +61,7 @@ Fauvette à tête noire,2023,139,84
 Fauvette des jardins,2023,2,27
 Fauvette grisette,2023,32,36
 Fauvette pitchou,2016,0,2
-Foulque macroule,2024,32,25
+Foulque macroule,2024,33,25
 Fuligule milouin,2022,4,2
 Fuligule morillon,2019,1,3
 Gallinule poule-d'eau,2023,45,38
@@ -70,10 +70,10 @@ Gobemouche gris,2023,4,15
 Gobemouche noir,2023,2,0
 Goéland argenté,2009,0,1
 Goéland leucophée,2017,0,6
-Grand Cormoran,2024,86,98
-Grande Aigrette,2024,75,43
-Grèbe castagneux,2024,4,23
-Grèbe huppé,2023,19,25
+Grand Cormoran,2024,88,98
+Grande Aigrette,2024,76,43
+Grèbe castagneux,2024,5,23
+Grèbe huppé,2024,20,25
 Grimpereau des jardins,2024,62,63
 Grive draine,2023,22,48
 Grive litorne,2021,2,10
@@ -82,8 +82,8 @@ Grive musicienne,2023,51,33
 Grosbec casse-noyaux,2023,15,28
 Guêpier d'Europe,2023,89,155
 Guifette moustac,2009,0,6
-Héron cendré,2024,114,130
-Héron garde-boeufs,2024,65,19
+Héron cendré,2024,116,130
+Héron garde-boeufs,2024,67,19
 Héron pourpré,2023,9,8
 Hibou moyen-duc,2013,0,4
 Hirondelle de fenêtre,2023,20,61
@@ -96,10 +96,10 @@ Locustelle tachetée,2016,0,2
 Loriot d'Europe,2023,38,52
 Martinet noir,2022,4,19
 Martin-pêcheur d'Europe,2023,70,84
-Merle noir,2024,216,133
+Merle noir,2024,219,133
 Mésange à longue queue,2024,51,58
-Mésange bleue,2024,193,139
-Mésange charbonnière,2024,249,134
+Mésange bleue,2024,194,139
+Mésange charbonnière,2024,250,134
 Mésange huppée,2022,2,3
 Mésange noire,2022,5,4
 Mésange nonnette,2021,1,8
@@ -114,15 +114,15 @@ Perdrix grise,2021,3,3
 Perdrix rouge,2023,4,12
 Perruche à collier,2020,1,0
 Petit Gravelot,2009,0,3
-Pic épeiche,2024,93,65
+Pic épeiche,2024,95,65
 Pic épeichette,2023,5,9
-Pic noir,2023,15,22
-Pic vert,2024,66,73
+Pic noir,2024,16,22
+Pic vert,2024,67,73
 Pie bavarde,2024,55,30
 Pie-grièche écorcheur,2023,40,29
-Pigeon biset domestique,2023,22,7
+Pigeon biset domestique,2024,23,7
 Pigeon colombin,2022,8,4
-Pigeon ramier,2024,216,114
+Pigeon ramier,2024,217,114
 Pinson des arbres,2024,301,144
 Pinson du Nord,2023,8,9
 Pipit des arbres,2023,30,33
@@ -136,7 +136,7 @@ Râle d'eau,2014,0,6
 Roitelet à triple bandeau,2024,35,24
 Roitelet huppé,2020,4,9
 Rossignol philomèle,2023,59,39
-Rougegorge familier,2024,241,106
+Rougegorge familier,2024,244,106
 Rougequeue à front blanc,2023,10,8
 Rougequeue noir,2023,29,39
 Rousserolle effarvatte,2013,0,2
