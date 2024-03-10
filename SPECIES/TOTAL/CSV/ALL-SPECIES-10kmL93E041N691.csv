@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2024,43,7
-Aigrette garzette,2024,125,2
+Aigrette garzette,2024,127,2
 Alouette des champs,2024,64,3
 Alouette lulu,2009,0,1
 Barge à queue noire,2023,3,0
@@ -10,26 +10,26 @@ Bécassine des marais,2024,56,1
 Bécassine sourde,2023,3,0
 Bergeronnette des ruisseaux,2024,27,2
 Bergeronnette flavéole (M.f.flavissima),2023,51,3
-Bergeronnette grise,2024,69,5
+Bergeronnette grise,2024,70,5
 Bergeronnette printanière,2023,73,4
 Bernache cravant,2023,2,0
 Bernache nonnette,2021,1,0
 Bondrée apivore,2021,1,1
-Bouscarle de Cetti,2024,58,1
+Bouscarle de Cetti,2024,59,1
 Bouvreuil pivoine,2023,18,4
 Bruant des roseaux,2024,102,3
 Bruant jaune,2023,4,4
 Bruant zizi,2023,18,2
 Busard cendré,2023,2,0
-Busard des roseaux,2024,63,1
+Busard des roseaux,2024,64,1
 Busard Saint-Martin,2024,10,2
-Buse variable,2024,166,8
+Buse variable,2024,167,8
 Caille des blés,2019,1,1
-Canard chipeau,2021,3,0
-Canard colvert,2024,138,4
-Canard pilet,2024,11,0
-Canard siffleur,2023,6,0
-Canard souchet,2024,21,1
+Canard chipeau,2024,4,0
+Canard colvert,2024,139,4
+Canard pilet,2024,12,0
+Canard siffleur,2024,7,0
+Canard souchet,2024,22,1
 Chardonneret élégant,2023,48,8
 Chevalier aboyeur,2023,6,0
 Chevalier culblanc,2024,28,1
@@ -39,23 +39,23 @@ Chevalier sylvain,2023,2,0
 Chevêche d'Athéna,2022,11,6
 Choucas des tours,2024,80,11
 Chouette hulotte,2021,4,3
-Cigogne blanche,2024,209,8
+Cigogne blanche,2024,211,8
 Cigogne noire,2021,2,0
 Cisticole des joncs,2023,12,2
 Combattant varié,2022,2,0
 Corbeau freux,2022,3,1
 Cormoran huppé,2023,1,0
-Corneille noire,2024,221,13
+Corneille noire,2024,223,13
 Coucou gris,2023,20,3
 Courlis cendré,2024,24,0
 Courlis corlieu,2022,7,0
 Cygne chanteur,2023,1,0
-Cygne tuberculé,2024,56,2
+Cygne tuberculé,2024,57,2
 Échasse blanche,2023,2,0
 Effraie des clochers,2023,2,6
 Élanion blanc,2023,3,0
 Épervier d'Europe,2023,16,7
-Étourneau sansonnet,2024,151,11
+Étourneau sansonnet,2024,153,11
 Faisan de Colchide,2022,22,2
 Faucon crécerelle,2024,58,6
 Faucon émerillon,2023,2,0
@@ -68,7 +68,7 @@ Fauvette grisette,2023,3,2
 Foulque macroule,2023,57,1
 Fuligule milouin,2023,1,0
 Fuligule morillon,2020,1,1
-Gallinule poule-d'eau,2024,170,5
+Gallinule poule-d'eau,2024,172,5
 Geai des chênes,2024,29,3
 Gobemouche gris,2023,4,3
 Goéland argenté,2024,34,3
@@ -77,8 +77,8 @@ Goéland cendré,2024,11,1
 Goéland marin,2023,4,1
 Gorgebleue à miroir,2023,3,0
 Grand Corbeau,2022,2,0
-Grand Cormoran,2024,91,2
-Grande Aigrette,2024,113,2
+Grand Cormoran,2024,92,2
+Grande Aigrette,2024,115,2
 Grèbe castagneux,2023,10,3
 Grimpereau des jardins,2024,12,4
 Grive draine,2023,8,9
@@ -86,8 +86,8 @@ Grive litorne,2024,22,3
 Grive mauvis,2024,27,3
 Grive musicienne,2024,69,12
 Grosbec casse-noyaux,2018,0,1
-Héron cendré,2024,144,4
-Héron garde-boeufs,2024,93,4
+Héron cendré,2024,145,4
+Héron garde-boeufs,2024,94,4
 Héron pourpré,2023,5,0
 Hibou moyen-duc,2022,2,1
 Hirondelle de fenêtre,2023,28,2
@@ -108,9 +108,9 @@ Mésange bleue,2024,104,21
 Mésange charbonnière,2024,94,14
 Mésange nonnette,2022,5,3
 Milan royal,2023,1,0
-Moineau domestique,2024,78,18
+Moineau domestique,2024,79,18
 Mouette mélanocéphale,2024,7,2
-Mouette rieuse,2024,60,4
+Mouette rieuse,2024,62,4
 Oie cendrée,2023,1,0
 Perdrix grise,2021,1,0
 Petit Gravelot,2020,2,1
@@ -123,8 +123,8 @@ Pic vert,2024,49,6
 Pie bavarde,2024,72,7
 Pigeon biset domestique,2022,8,5
 Pigeon colombin,2009,0,1
-Pigeon ramier,2024,178,13
-Pinson des arbres,2024,179,16
+Pigeon ramier,2024,179,13
+Pinson des arbres,2024,180,16
 Pinson du Nord,2022,4,0
 Pipit des arbres,2022,2,1
 Pipit farlouse,2024,107,2
@@ -134,13 +134,13 @@ Pouillot véloce,2024,112,6
 Râle d'eau,2024,4,2
 Roitelet à triple bandeau,2023,4,1
 Roitelet huppé,2024,17,2
-Rougegorge familier,2024,166,17
+Rougegorge familier,2024,167,17
 Rougequeue à front blanc,2022,4,2
 Rougequeue noir,2021,3,1
 Rousserolle effarvatte,2023,1,2
 Rousserolle verderolle,2022,1,0
 Sarcelle d'été,2023,47,1
-Sarcelle d'hiver,2024,41,1
+Sarcelle d'hiver,2024,42,1
 Serin cini,2021,1,0
 Sittelle torchepot,2020,2,2
 Spatule blanche,2023,6,0

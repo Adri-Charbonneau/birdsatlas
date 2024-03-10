@@ -1,7 +1,7 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2023,3,3
 Accenteur mouchet,2024,58,90
-Aigle royal,2024,39,100
+Aigle royal,2024,40,100
 Aigrette garzette,2019,1,2
 Alouette des champs,2024,157,295
 Alouette lulu,2024,90,153
@@ -22,11 +22,11 @@ Bruant fou,2023,11,22
 Bruant jaune,2023,108,322
 Bruant ortolan,2012,0,3
 Bruant proyer,2023,3,2
-Bruant zizi,2023,161,169
+Bruant zizi,2024,162,169
 Busard cendré,2017,0,1
 Busard des roseaux,2022,3,6
 Busard Saint-Martin,2024,3,5
-Buse variable,2024,200,523
+Buse variable,2024,202,523
 Caille des blés,2023,20,40
 Canard chipeau,2021,1,0
 Canard colvert,2024,23,108
@@ -64,7 +64,7 @@ Faucon crécerelle,2024,107,374
 Faucon émerillon,2020,1,0
 Faucon hobereau,2023,6,13
 Faucon kobez,2023,1,0
-Faucon pèlerin,2024,42,46
+Faucon pèlerin,2024,43,46
 Fauvette à tête noire,2024,433,857
 Fauvette babillarde,2023,1,6
 Fauvette des jardins,2023,13,91
@@ -72,31 +72,31 @@ Fauvette grisette,2023,25,32
 Flamant rose,2023,1,0
 Foulque macroule,2023,2,13
 Gallinule poule-d'eau,2021,2,3
-Geai des chênes,2024,285,700
+Geai des chênes,2024,286,700
 Gélinotte des bois,2014,0,1
 Gobemouche gris,2021,5,5
 Gobemouche noir,2023,22,22
 Goéland brun,2013,0,1
 Goéland leucophée,2023,29,165
-Grand Corbeau,2024,190,423
+Grand Corbeau,2024,191,423
 Grand Cormoran,2023,15,37
 Grand-duc d'Europe,2023,10,15
 Grande Aigrette,2022,1,3
 Grèbe castagneux,2021,1,0
 Grèbe huppé,2022,10,52
 Grimpereau des bois,2024,34,15
-Grimpereau des jardins,2024,121,85
+Grimpereau des jardins,2024,122,85
 Grive draine,2024,191,383
-Grive litorne,2023,15,56
+Grive litorne,2024,16,56
 Grive mauvis,2023,11,11
-Grive musicienne,2023,187,318
+Grive musicienne,2024,188,318
 Grosbec casse-noyaux,2023,57,75
 Guêpier d'Europe,2023,120,78
 Héron cendré,2023,38,139
 Héron garde-boeufs,2012,0,3
 Hibou moyen-duc,2022,15,6
 Hirondelle de fenêtre,2023,23,35
-Hirondelle de rochers,2023,66,117
+Hirondelle de rochers,2024,67,117
 Hirondelle rustique,2023,172,198
 Huppe fasciée,2023,29,52
 Hypolaïs polyglotte,2021,3,11
@@ -109,11 +109,11 @@ Martinet noir,2023,64,197
 Martin-pêcheur d'Europe,2020,1,0
 Merle à plastron,2023,31,48
 Merle noir,2024,618,999
-Mésange à longue queue,2024,97,154
+Mésange à longue queue,2024,98,154
 Mésange bleue,2024,355,538
 Mésange boréale,2023,3,7
-Mésange charbonnière,2024,541,686
-Mésange huppée,2024,123,148
+Mésange charbonnière,2024,542,686
+Mésange huppée,2024,124,148
 Mésange noire,2023,192,232
 Mésange nonnette,2024,209,203
 Milan noir,2023,103,266
@@ -129,17 +129,17 @@ Oie cendrée,2021,1,0
 Perdrix grise,2022,3,10
 Petit-duc scops,2023,12,61
 Phragmite des joncs,2015,0,2
-Pic épeiche,2024,150,322
+Pic épeiche,2024,151,322
 Pic épeichette,2023,17,10
 Pic noir,2024,74,128
-Pic vert,2024,158,251
-Pie bavarde,2024,142,296
+Pic vert,2024,159,251
+Pie bavarde,2024,143,296
 Pie-grièche écorcheur,2023,85,159
 Pie-grièche grise,2012,0,3
 Pigeon biset domestique,2021,4,25
 Pigeon colombin,2022,5,2
-Pigeon ramier,2023,201,404
-Pinson des arbres,2024,443,820
+Pigeon ramier,2024,202,404
+Pinson des arbres,2024,444,820
 Pinson du Nord,2024,43,59
 Pipit des arbres,2023,47,195
 Pipit farlouse,2022,7,16
@@ -154,7 +154,7 @@ Roitelet à triple bandeau,2023,38,62
 Roitelet huppé,2023,29,37
 Rollier d'Europe,2022,2,1
 Rossignol philomèle,2023,123,306
-Rougegorge familier,2024,417,783
+Rougegorge familier,2024,418,783
 Rougequeue à front blanc,2023,59,69
 Rougequeue noir,2023,210,246
 Rousserolle effarvatte,2022,9,17
@@ -167,7 +167,7 @@ Sittelle torchepot,2024,193,310
 Sizerin cabaret,2021,1,4
 Sizerin flammé,2021,1,4
 Tarier des prés,2023,15,64
-Tarier pâtre,2023,61,104
+Tarier pâtre,2024,62,104
 Tarin des aulnes,2024,68,58
 Tétras lyre,2021,2,11
 Tichodrome échelette,2021,2,11
@@ -175,9 +175,9 @@ Torcol fourmilier,2023,59,71
 Tourterelle des bois,2021,5,14
 Tourterelle turque,2024,71,65
 Traquet motteux,2021,13,39
-Troglodyte mignon,2024,195,247
+Troglodyte mignon,2024,196,247
 Vanneau huppé,2023,1,4
-Vautour fauve,2024,97,51
+Vautour fauve,2024,98,51
 Vautour moine,2023,12,4
 Venturon montagnard,2023,8,15
 Verdier d'Europe,2024,122,174

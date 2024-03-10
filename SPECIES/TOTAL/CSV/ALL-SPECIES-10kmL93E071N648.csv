@@ -1,13 +1,13 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2023,28,30
 Aigle botté,2022,11,25
-Alouette des champs,2024,194,261
-Alouette lulu,2024,169,137
+Alouette des champs,2024,197,261
+Alouette lulu,2024,170,137
 Autour des palombes,2022,4,12
 Bécasse des bois,2014,0,1
 Bécassine des marais,2023,3,10
 Bergeronnette des ruisseaux,2023,10,7
-Bergeronnette grise,2023,49,79
+Bergeronnette grise,2024,50,79
 Bergeronnette printanière,2023,23,88
 Bernache du Canada,2018,0,1
 Bondrée apivore,2023,15,35
@@ -17,14 +17,14 @@ Bruant fou,2022,3,4
 Bruant jaune,2023,40,95
 Bruant lapon,2017,0,1
 Bruant ortolan,2020,2,2
-Bruant proyer,2023,54,97
+Bruant proyer,2024,55,97
 Bruant zizi,2023,145,149
 Busard cendré,2023,29,105
 Busard des roseaux,2018,0,15
 Busard Saint-Martin,2023,12,22
-Buse variable,2024,190,374
+Buse variable,2024,193,374
 Caille des blés,2023,19,46
-Canard colvert,2024,28,61
+Canard colvert,2024,29,61
 Canard pilet,2020,1,0
 Canard siffleur,2017,0,1
 Canard souchet,2021,9,21
@@ -35,7 +35,7 @@ Chevalier gambette,2021,1,1
 Chevalier guignette,2020,1,0
 Chevalier sylvain,2013,0,1
 Chevêche d'Athéna,2022,3,17
-Choucas des tours,2023,67,24
+Choucas des tours,2024,69,24
 Chouette hulotte,2022,7,45
 Cigogne blanche,2020,5,5
 Cigogne noire,2017,0,2
@@ -43,8 +43,8 @@ Cincle plongeur (C.c.cinclus),2022,3,10
 Circaète Jean-le-Blanc,2023,64,115
 Cisticole des joncs,2021,1,1
 Combattant varié,2017,0,1
-Corbeau freux,2023,8,11
-Corneille noire,2024,178,296
+Corbeau freux,2024,9,11
+Corneille noire,2024,180,296
 Coucou gris,2023,69,105
 Courlis cendré,2011,0,1
 Courlis corlieu,2013,0,1
@@ -52,7 +52,7 @@ Effraie des clochers,2015,0,8
 Élanion blanc,2021,2,1
 Engoulevent d'Europe,2023,12,1
 Épervier d'Europe,2024,36,60
-Étourneau sansonnet,2024,141,216
+Étourneau sansonnet,2024,142,216
 Faisan de Colchide,2023,6,20
 Faisan vénéré,2017,0,1
 Faucon crécerelle,2024,131,204
@@ -77,10 +77,10 @@ Grande Aigrette,2022,10,5
 Grèbe castagneux,2022,15,18
 Grimpereau des bois,2023,1,0
 Grimpereau des jardins,2024,44,51
-Grive draine,2024,59,107
+Grive draine,2024,60,107
 Grive litorne,2023,6,24
 Grive mauvis,2024,10,7
-Grive musicienne,2024,66,81
+Grive musicienne,2024,67,81
 Grosbec casse-noyaux,2023,10,27
 Guêpier d'Europe,2023,11,5
 Héron cendré,2023,23,49
@@ -96,16 +96,16 @@ Loriot d'Europe,2023,32,54
 Marouette ponctuée,2013,0,1
 Martinet noir,2023,27,48
 Martin-pêcheur d'Europe,2022,1,2
-Merle noir,2024,441,518
+Merle noir,2024,446,518
 Mésange à longue queue,2024,50,58
 Mésange bleue,2024,199,210
-Mésange charbonnière,2024,304,289
+Mésange charbonnière,2024,306,289
 Mésange huppée,2021,2,17
 Mésange noire,2023,3,16
 Mésange nonnette,2024,8,14
-Milan noir,2023,151,408
+Milan noir,2024,152,408
 Milan royal,2024,181,208
-Moineau domestique,2024,207,283
+Moineau domestique,2024,210,283
 Moineau friquet,2020,1,4
 Moineau soulcie,2024,5,3
 Mouette rieuse,2010,0,1
@@ -118,14 +118,14 @@ Pic épeiche,2024,71,112
 Pic épeichette,2021,6,7
 Pic mar,2022,4,0
 Pic noir,2023,19,20
-Pic vert,2024,94,174
-Pie bavarde,2024,145,187
+Pic vert,2024,95,174
+Pie bavarde,2024,146,187
 Pie-grièche écorcheur,2023,99,157
 Pie-grièche grise,2024,4,2
-Pigeon biset domestique,2023,43,108
+Pigeon biset domestique,2024,45,108
 Pigeon colombin,2023,4,12
-Pigeon ramier,2024,242,237
-Pinson des arbres,2024,238,286
+Pigeon ramier,2024,246,237
+Pinson des arbres,2024,241,286
 Pinson du Nord,2023,10,12
 Pipit des arbres,2023,25,45
 Pipit farlouse,2023,18,30
@@ -144,7 +144,7 @@ Rougequeue à front blanc,2023,7,28
 Rougequeue noir,2023,93,161
 Sarcelle à ailes vertes,2017,0,9
 Sarcelle d'été,2021,2,16
-Sarcelle d'hiver,2024,13,29
+Sarcelle d'hiver,2024,14,29
 Serin cini,2024,53,61
 Sittelle torchepot,2023,26,63
 Tadorne de Belon,2024,1,0
@@ -153,10 +153,10 @@ Tarier pâtre,2024,104,173
 Tarin des aulnes,2024,24,10
 Torcol fourmilier,2023,17,24
 Tourterelle des bois,2023,40,67
-Tourterelle turque,2024,107,219
+Tourterelle turque,2024,108,219
 Traquet motteux,2023,6,34
 Troglodyte mignon,2024,53,90
 Vanneau huppé,2023,6,56
 Vautour fauve,2023,7,3
 Vautour moine,2020,1,0
-Verdier d'Europe,2024,90,114
+Verdier d'Europe,2024,91,114

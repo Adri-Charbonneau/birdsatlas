@@ -1,6 +1,6 @@
 frname,lastobs,newcount,oldcount
 Accenteur alpin,2016,0,4
-Accenteur mouchet,2024,57,18
+Accenteur mouchet,2024,58,18
 Aigle botté,2023,19,17
 Aigle criard,2019,2,0
 Aigle royal,2022,2,1
@@ -12,12 +12,12 @@ Avocette élégante,2014,0,1
 Bécasse des bois,2024,2,6
 Bécassine des marais,2022,1,0
 Bec-croisé des sapins,2020,1,0
-Bergeronnette des ruisseaux,2024,98,60
+Bergeronnette des ruisseaux,2024,99,60
 Bergeronnette grise,2024,368,253
 Bergeronnette printanière,2023,2,4
 Bihoreau gris,2022,2,2
 Bondrée apivore,2023,45,37
-Bouscarle de Cetti,2024,243,75
+Bouscarle de Cetti,2024,244,75
 Bouvreuil pivoine,2021,1,0
 Bruant des roseaux,2022,23,4
 Bruant fou,2021,4,15
@@ -43,7 +43,7 @@ Chouette hulotte,2021,9,6
 Cigogne blanche,2023,43,27
 Cigogne noire,2024,20,1
 Cincle plongeur (C.c.cinclus),2021,3,6
-Circaète Jean-le-Blanc,2023,177,50
+Circaète Jean-le-Blanc,2024,179,50
 Cisticole des joncs,2023,73,50
 Cochevis huppé,2024,35,16
 Corneille noire,2024,111,72
@@ -62,7 +62,7 @@ Faucon crécerelle,2023,89,85
 Faucon hobereau,2023,18,3
 Faucon kobez,2023,2,0
 Faucon pèlerin,2024,9,4
-Fauvette à tête noire,2024,324,189
+Fauvette à tête noire,2024,325,189
 Fauvette des jardins,2019,1,3
 Fauvette grisette,2021,3,2
 Fauvette mélanocéphale,2024,475,272
@@ -71,29 +71,29 @@ Fauvette passerinette,2009,0,1
 Fauvette pitchou,2024,263,78
 Foulque macroule,2021,7,6
 Gallinule poule-d'eau,2023,15,13
-Geai des chênes,2024,195,149
+Geai des chênes,2024,196,149
 Gobemouche gris,2023,20,30
 Gobemouche noir,2023,31,17
 Goéland leucophée,2024,42,70
 Grand Corbeau,2023,70,45
-Grand Cormoran,2024,158,123
+Grand Cormoran,2024,159,123
 Grand-duc d'Europe,2023,4,2
 Grande Aigrette,2024,108,65
 Grèbe à cou noir,2022,1,0
 Grèbe castagneux,2022,5,3
 Grèbe huppé,2023,11,18
-Grimpereau des jardins,2024,250,128
-Grive draine,2024,77,59
+Grimpereau des jardins,2024,251,128
+Grive draine,2024,78,59
 Grive mauvis,2023,3,11
 Grive musicienne,2024,135,62
 Grosbec casse-noyaux,2023,15,27
 Guêpier d'Europe,2023,127,58
-Héron cendré,2024,170,139
+Héron cendré,2024,171,139
 Héron garde-boeufs,2022,12,15
 Héron pourpré,2022,7,0
 Hirondelle de fenêtre,2024,135,91
 Hirondelle de rivage,2023,7,16
-Hirondelle de rochers,2023,88,93
+Hirondelle de rochers,2024,89,93
 Hirondelle rousseline,2023,73,15
 Hirondelle rustique,2023,149,87
 Huppe fasciée,2023,169,111
@@ -105,11 +105,11 @@ Loriot d'Europe,2023,158,96
 Martinet à ventre blanc,2023,23,4
 Martinet noir,2023,118,69
 Martinet pâle,2021,26,12
-Martin-pêcheur d'Europe,2024,153,66
+Martin-pêcheur d'Europe,2024,154,66
 Merle noir,2024,500,313
-Mésange à longue queue,2024,136,72
-Mésange bleue,2024,262,177
-Mésange charbonnière,2024,424,237
+Mésange à longue queue,2024,137,72
+Mésange bleue,2024,263,177
+Mésange charbonnière,2024,425,237
 Mésange huppée,2023,42,36
 Mésange noire,2022,2,3
 Mésange nonnette,2020,1,2
@@ -118,7 +118,7 @@ Milan royal,2023,15,11
 Moineau domestique,2024,200,140
 Moineau friquet,2023,26,34
 Moineau soulcie,2023,41,11
-Monticole bleu,2024,12,11
+Monticole bleu,2024,13,11
 Monticole de roche,2017,0,1
 Mouette rieuse,2024,31,44
 Mouette tridactyle,2022,1,0
@@ -127,8 +127,8 @@ Paon bleu,2023,1,0
 Perdrix rouge,2023,15,13
 Perruche à collier,2018,0,1
 Petit-duc scops,2023,4,13
-Petit Gravelot,2023,157,40
-Pic de Sharpe,2024,96,67
+Petit Gravelot,2024,158,40
+Pic de Sharpe,2024,97,67
 Pic épeiche,2024,141,73
 Pic épeichette,2024,34,35
 Pic noir,2021,1,0
@@ -138,7 +138,7 @@ Pie-grièche à tête rousse,2023,43,27
 Pie-grièche écorcheur,2010,0,2
 Pigeon biset domestique,2024,29,74
 Pigeon ramier,2024,262,159
-Pinson des arbres,2024,464,201
+Pinson des arbres,2024,465,201
 Pinson du Nord,2021,1,1
 Pipit des arbres,2023,5,3
 Pipit farlouse,2023,78,31
@@ -148,10 +148,10 @@ Pluvier argenté,2022,1,0
 Pouillot de Bonelli,2023,222,165
 Pouillot fitis,2023,21,7
 Pouillot siffleur,2021,2,0
-Pouillot véloce,2024,182,80
+Pouillot véloce,2024,183,80
 Râle d'eau,2021,4,2
 Rémiz penduline,2013,0,2
-Roitelet à triple bandeau,2024,187,104
+Roitelet à triple bandeau,2024,188,104
 Roitelet huppé,2024,1,1
 Rollier d'Europe,2018,0,2
 Rossignol philomèle,2023,255,163
