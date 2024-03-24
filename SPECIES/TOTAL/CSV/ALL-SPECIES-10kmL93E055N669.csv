@@ -1,8 +1,8 @@
 frname,lastobs,newcount,oldcount
 Accenteur mouchet,2024,49,60
 Aigle botté,2021,9,0
-Aigrette garzette,2024,111,102
-Alouette des champs,2023,42,41
+Aigrette garzette,2024,112,102
+Alouette des champs,2024,43,41
 Alouette lulu,2023,27,17
 Autour des palombes,2024,6,1
 Bécasse des bois,2022,1,0
@@ -25,7 +25,7 @@ Busard Saint-Martin,2023,28,41
 Buse variable,2024,109,172
 Caille des blés,2023,5,6
 Canard chipeau,2024,1,7
-Canard colvert,2024,81,69
+Canard colvert,2024,82,69
 Canard mandarin,2019,1,1
 Canard siffleur,2021,1,1
 Canard souchet,2022,3,3
@@ -34,8 +34,8 @@ Chevalier aboyeur,2022,3,3
 Chevalier culblanc,2023,14,20
 Chevalier gambette,2019,1,1
 Chevalier guignette,2023,28,19
-Chevêche d'Athéna,2023,40,88
-Choucas des tours,2024,42,32
+Chevêche d'Athéna,2024,42,88
+Choucas des tours,2024,43,32
 Chouette hulotte,2023,23,30
 Cigogne blanche,2023,5,3
 Cigogne noire,2021,4,5
@@ -43,24 +43,24 @@ Circaète Jean-le-Blanc,2023,16,7
 Cisticole des joncs,2023,5,0
 Cochevis huppé,2021,1,2
 Corbeau freux,2023,10,9
-Corneille noire,2024,97,80
+Corneille noire,2024,98,80
 Coucou gris,2023,44,51
 Courlis cendré,2023,1,0
 Courlis corlieu,2022,1,0
-Cygne tuberculé,2024,66,69
+Cygne tuberculé,2024,67,69
 Échasse blanche,2022,1,0
 Effraie des clochers,2023,26,55
 Épervier d'Europe,2023,28,32
 Étourneau sansonnet,2024,72,69
 Faisan de Colchide,2023,30,36
-Faucon crécerelle,2024,88,105
+Faucon crécerelle,2024,89,105
 Faucon hobereau,2023,11,11
 Faucon pèlerin,2016,0,1
 Fauvette à tête noire,2024,105,78
 Fauvette des jardins,2023,3,9
 Fauvette grisette,2023,21,12
-Foulque macroule,2024,64,65
-Fuligule milouin,2022,13,20
+Foulque macroule,2024,66,65
+Fuligule milouin,2024,14,20
 Fuligule morillon,2023,11,2
 Gallinule poule-d'eau,2023,34,31
 Garrot à oeil d'or,2023,1,0
@@ -69,10 +69,10 @@ Gobemouche gris,2021,5,11
 Gobemouche noir,2021,2,2
 Goéland leucophée,2023,25,18
 Grand Cormoran,2024,37,62
-Grande Aigrette,2024,87,84
+Grande Aigrette,2024,88,84
 Grèbe à cou noir,2021,23,39
-Grèbe castagneux,2024,70,59
-Grèbe huppé,2024,52,90
+Grèbe castagneux,2024,71,59
+Grèbe huppé,2024,54,90
 Grimpereau des jardins,2024,90,38
 Grive draine,2024,41,22
 Grive litorne,2020,1,8
@@ -93,7 +93,7 @@ Linotte mélodieuse,2023,29,22
 Locustelle tachetée,2009,0,1
 Loriot d'Europe,2023,39,36
 Martinet noir,2023,22,15
-Martin-pêcheur d'Europe,2024,90,85
+Martin-pêcheur d'Europe,2024,91,85
 Merle à plastron,2021,1,0
 Merle noir,2024,223,165
 Mésange à longue queue,2024,50,60
@@ -104,13 +104,13 @@ Mésange noire,2015,0,1
 Mésange nonnette,2024,34,17
 Milan noir,2023,4,2
 Milan royal,2013,0,1
-Moineau domestique,2024,125,153
+Moineau domestique,2024,126,153
 Moineau friquet,2016,0,5
 Mouette mélanocéphale,2023,8,12
 Mouette rieuse,2023,32,37
 Nette demi-deuil,2019,1,0
 Nette rousse,2021,2,0
-Oedicnème criard,2023,23,29
+Oedicnème criard,2024,25,29
 Oie à tête barrée,2022,3,0
 Oie cendrée,2017,0,3
 Ouette d'Égypte,2017,0,4
@@ -119,11 +119,11 @@ Perdrix rouge,2020,3,6
 Perruche à collier,2019,1,4
 Petit-duc scops,2023,1,0
 Petit Gravelot,2023,16,13
-Pic cendré,2009,0,1
+Pic cendré,2024,1,1
 Pic épeiche,2024,113,71
 Pic épeichette,2023,11,11
-Pic mar,2024,31,17
-Pic noir,2024,20,19
+Pic mar,2024,32,17
+Pic noir,2024,21,19
 Pic vert,2024,113,86
 Pie bavarde,2024,67,54
 Pie-grièche écorcheur,2022,8,3
@@ -131,7 +131,7 @@ Pigeon biset domestique,2023,20,10
 Pigeon biset (origine naturelle),2023,2,0
 Pigeon colombin,2024,31,10
 Pigeon ramier,2024,152,98
-Pinson des arbres,2024,234,201
+Pinson des arbres,2024,235,201
 Pinson du Nord,2022,9,5
 Pipit des arbres,2023,8,7
 Pipit farlouse,2022,11,2
@@ -144,14 +144,14 @@ Râle d'eau,2021,1,0
 Roitelet à triple bandeau,2024,35,24
 Roitelet huppé,2022,11,10
 Rossignol philomèle,2023,21,24
-Rougegorge familier,2024,234,156
+Rougegorge familier,2024,235,156
 Rougequeue à front blanc,2023,28,29
 Rougequeue noir,2023,43,61
 Rousserolle effarvatte,2023,7,10
 Sarcelle cannelle,2013,0,1
 Sarcelle d'hiver,2024,5,5
 Serin cini,2022,13,13
-Sittelle torchepot,2024,111,78
+Sittelle torchepot,2024,112,78
 Sizerin cabaret,2018,0,1
 Sizerin flammé,2018,0,1
 Sterne naine,2023,1,9
